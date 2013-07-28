@@ -1,0 +1,90 @@
+970__ 
+[{u'a': [u'000732441CER']}] 
+
+037__ 
+[{u'a': [u'ATL-PHYS-PUB-2013-007']}] 
+
+260__ 
+[{u'c': [u'2013']}] 
+
+001__ 
+[u'1564937'] 
+
+300__ 
+[{u'a': [u'27 p']}] 
+
+6531_ 
+[{u'9': [u'CERN'], u'a': [u'Contribution to the Snowmass Community Planning Study']}, {u'9': [u'CERN'], u'a': [u'TOP']}, {u'9': [u'CERN'], u'a': [u'EWEAK']}, {u'9': [u'CERN'], u'a': [u'QCD']}, {u'9': [u'CERN'], u'a': [u'HIGGS']}, {u'9': [u'CERN'], u'a': [u'SUSY']}, {u'9': [u'CERN'], u'a': [u'EXOTICS']}] 
+
+960__ 
+[{u'a': [u'91']}] 
+
+270__ 
+[{u'p': [u'Physics Coordinators, ATLAS'], u'm': [u'atlas-physics-coordinators@cern.ch']}] 
+
+710__ 
+[{u'5': [u'PH-EP']}] 
+
+0248_ 
+[{u'a': [u'oai:cds.cern.ch:1564937'], u'p': [u'cerncds:FULLTEXT']}] 
+
+693__ 
+[{u'a': [u'CERN LHC'], u'e': [u'ATLAS']}] 
+
+65027 
+[{u'a': [u'Physics'], u'2': [u'SzGeCERN']}] 
+
+041__ 
+[{u'a': [u'eng']}] 
+
+963__ 
+[{u'a': [u'PUBLIC']}] 
+
+595__ 
+[{u'a': [u'CERN CDS-Invenio WebSubmit']}] 
+
+088__ 
+[{u'9': [u'ATL-COM-PHYS-2013-959']}] 
+
+700__ 
+[{u'a': [u'Nielsen, J']}] 
+
+110__ 
+[{u'a': [u'The ATLAS collaboration']}] 
+
+980__ 
+[{u'a': [u'INTNOTEATLASPUBL']}] 
+
+005__ 
+[u'20130727220636.0'] 
+
+8564_ 
+[{u'y': [u'Original Communication (restricted to ATLAS)'], u'u': [u'http://cds.cern.ch/record/1560796']}, {u'z': [u'Stamped by WebSubmit: 27/07/2013'], u'u': [u'http://cds.cern.ch/record/1564937/files/ATL-PHYS-PUB-2013-007.pdf']}] 
+
+100__ 
+[{u'a': [u'Liss, A']}] 
+
+269__ 
+[{u'a': [u'Geneva'], u'c': [u'27 Jul 2013'], u'b': [u'CERN']}] 
+
+859__ 
+[{u'f': [u'jnielsen@ucsc.edu']}, {u'f': [u'Anthony.Liss@cern.ch']}] 
+
+245__ 
+[{u'a': [u'Physics at a High-Luminosity LHC with ATLAS']}] 
+
+520__ 
+[{u'a': [u'The physics accessible at the high-luminosity phase of the LHC extends well beyond that of the earlier LHC program. Selected physics goals, spanning from Higgs boson physics to new particle searches and rare top decays, are presented in this document. They illustrate the substantially enhanced physics reach with an increased integrated luminosity of 3000 inverse femtobarns, and motivate the planned upgrades of the LHC machine and ATLAS detector.']}] 
+
+65017 
+[{u'a': [u'Detectors and Experimental Techniques'], u'2': [u'SzGeCERN']}] 
+
+690C_ 
+[{u'a': [u'CERN']}, {u'a': [u'INTNOTE']}, {u'a': [u'PRIVATLAS']}, {u'a': [u'INTNOTEATLASPUBL']}] 
+
+594__ 
+[{u'a': [u'PUB']}] 
+
+916__ 
+[{u's': [u'n'], u'w': [u'201370']}] 
+
