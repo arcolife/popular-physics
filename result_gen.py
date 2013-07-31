@@ -3,12 +3,16 @@ from invenio.search_engine import  perform_request_search
 
 cds = InvenioConnector("http://cds.cern.ch")
 kwarg = raw_input("enter a search query: ")
+size = int(raw_input('Specify no. of records: '))
+
+'''To get a sample record from ID'''
+#x = cds.get_record('1555733')
 
 '''To search inside local instance - pcuds54'''
 rec_id_arr = perform_request_search(p=kwarg,c=[""])
 
 '''To search inside CDS'''
-results = cds.search(kwarg)
+results = cds.search(p=kwarg,rg=size,ln='en')
 
 '''write results into a file'''
 file = open("10_def_op","w")
