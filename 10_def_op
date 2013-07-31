@@ -1,530 +1,530 @@
-Record ID's found for this search, in local instance on pcuds54 = [108]
+Record ID's found for this search, in local instance on pcuds54 = [91]
 
 -----------------------------------------------------------------------------------------
 
-First 10 results from CDS, for search string: 'Residual Bose-Einstein Correlations'
+Showing 8 result(s) found in CDS, for search string: 'Non-Supersymmetric Membrane'
 
 
 		================================================================================
 						-------- 1 --------
 		================================================================================
 
+695__
+[{u'9': [u'LANL EDS'], u'a': [u'High Energy Physics - Theory']}]
 970__
-[{u'a': [u'000732441CER']}]
+[{u'a': [u'002623855CER']}]
 037__
-[{u'a': [u'ATL-PHYS-PUB-2013-007']}]
+[{u'a': [u'hep-th/0606038']}]
 260__
-[{u'c': [u'2013']}]
+[{u'c': [u'2007']}]
+720__
+[{u'a': [u'Papadimitriou, Ioannis']}]
 001__
-[u'1564937']
+[u'957525']
 300__
-[{u'a': [u'27 p']}]
-6531_
-[{u'9': [u'CERN'], u'a': [u'Contribution to the Snowmass Community Planning Study']}, {u'9': [u'CERN'], u'a': [u'TOP']}, {u'9': [u'CERN'], u'a': [u'EWEAK']}, {u'9': [u'CERN'], u'a': [u'QCD']}, {u'9': [u'CERN'], u'a': [u'HIGGS']}, {u'9': [u'CERN'], u'a': [u'SUSY']}, {u'9': [u'CERN'], u'a': [u'EXOTICS']}]
+[{u'a': [u'45 p']}]
 960__
-[{u'a': [u'91']}]
-270__
-[{u'p': [u'Physics Coordinators, ATLAS'], u'm': [u'atlas-physics-coordinators@cern.ch']}]
-710__
-[{u'5': [u'PH-EP']}]
+[{u'a': [u'13']}]
+773__
+[{u'y': [u'2007'], u'p': [u'J. High Energy Phys.'], u'c': [u'008'], u'v': [u'02']}]
+961__
+[{u'h': [u'0935'], u'c': [u'20100414'], u'l': [u'CER01'], u'x': [u'20060607']}]
 0248_
-[{u'a': [u'oai:cds.cern.ch:1564937'], u'p': [u'cerncds:FULLTEXT']}]
-693__
-[{u'a': [u'CERN LHC'], u'e': [u'ATLAS']}]
-65027
-[{u'a': [u'Physics'], u'2': [u'SzGeCERN']}]
+[{u'a': [u'oai:cds.cern.ch:957525'], u'p': [u'cerncds:FULLTEXT']}]
+035__
+[{u'9': [u'SPIRES'], u'a': [u'6682480']}]
 041__
 [{u'a': [u'eng']}]
 963__
 [{u'a': [u'PUBLIC']}]
 595__
-[{u'a': [u'CERN CDS-Invenio WebSubmit']}]
+[{u'a': [u'LANL EDS']}, {u'a': [u'SIS JHEP2007']}, {u'a': [u'SIS:200703 PR/LKR added']}]
 088__
-[{u'9': [u'ATL-COM-PHYS-2013-959']}]
-700__
-[{u'a': [u'Nielsen, J']}]
-110__
-[{u'a': [u'The ATLAS collaboration']}]
+[{u'a': [u'DESY-06-083']}, {u'a': [u'DESY-2006-083']}]
 980__
-[{u'a': [u'INTNOTEATLASPUBL']}]
-005__
-[u'20130727220636.0']
-8564_
-[{u'y': [u'Original Communication (restricted to ATLAS)'], u'u': [u'http://cds.cern.ch/record/1560796']}, {u'z': [u'Stamped by WebSubmit: 27/07/2013'], u'u': [u'http://cds.cern.ch/record/1564937/files/ATL-PHYS-PUB-2013-007.pdf']}]
-100__
-[{u'a': [u'Liss, A']}]
-269__
-[{u'a': [u'Geneva'], u'c': [u'27 Jul 2013'], u'b': [u'CERN']}]
-859__
-[{u'f': [u'jnielsen@ucsc.edu']}, {u'f': [u'Anthony.Liss@cern.ch']}]
-245__
-[{u'a': [u'Physics at a High-Luminosity LHC with ATLAS']}]
-520__
-[{u'a': [u'The physics accessible at the high-luminosity phase of the LHC extends well beyond that of the earlier LHC program. Selected physics goals, spanning from Higgs boson physics to new particle searches and rare top decays, are presented in this document. They illustrate the substantially enhanced physics reach with an increased integrated luminosity of 3000 inverse femtobarns, and motivate the planned upgrades of the LHC machine and ATLAS detector.']}]
-65017
-[{u'a': [u'Detectors and Experimental Techniques'], u'2': [u'SzGeCERN']}]
+[{u'a': [u'ARTICLE']}]
 690C_
-[{u'a': [u'CERN']}, {u'a': [u'INTNOTE']}, {u'a': [u'PRIVATLAS']}, {u'a': [u'INTNOTEATLASPUBL']}]
-594__
-[{u'a': [u'PUB']}]
+[{u'a': [u'ARTICLE']}]
+8564_
+[{u'y': [u'Access to fulltext document'], u'u': [u'http://documents.cern.ch/cgi-bin/setlink?base=preprint&categ=hep-th&id=0606038']}, {u'y': [u'SISSA/IOP Open Access article'], u'u': [u'http://documents.cern.ch/cgi-bin/setlink?base=preprint&categ=jhep&id=jhep022007008']}, {u'y': [u'Access to fulltext document'], u'u': [u'http://cds.cern.ch/record/957525/files/0606038.pdf']}, {u'y': [u'SISSA/IOP Open Access article'], u'u': [u'http://cds.cern.ch/record/957525/files/jhep022007008.pdf']}]
+100__
+[{u'a': [u'Papadimitriou, I'], u'u': [u'DESY Theory Group,Hamburg, Germany', u'Center for Math. Phys., Hamburg, Germany']}]
+269__
+[{u'a': [u'Hamburg'], u'c': [u'5 Jun 2006'], u'b': [u'DESY']}]
+003__
+[u'SzGeCERN']
+245__
+[{u'a': [u'Non-Supersymmetric Membrane Flows from Fake Supergravity and Multi-Trace Deformations']}]
+520__
+[{u'a': [u'We use fake supergravity as a solution generating technique to obtain a continuum of non-supersymmetric asymptotically $AdS_4\\times S^7$ domain wall solutions of eleven-dimensional supergravity with non-trivial scalars in the $SL(8,\\mathbb{R})/SO(8)$ coset. These solutions are continuously connected to the supersymmetric domain walls describing a uniform sector of the Coulomb branch of the $M2$-brane theory. We also provide a general argument that identifies the fake superpotential with the exact large-N quantum effective potential of the dual theory, thus arriving at a very general description of multi-trace deformations in the AdS/CFT correspondence, which strongly motivates further study of fake supergravity as a solution generating method. This identification allows us to interpret our non-supersymmetric solutions as a family of marginal triple-trace deformations of the Coulomb branch that completely break supersymmetry and to calculate the exact large-N anomalous dimensions of the operators involved. The holographic one- and two-point functions for these solutions are also computed.']}]
+65017
+[{u'a': [u'Particle Physics - Theory'], u'2': [u'SzGeCERN']}]
+005__
+[u'20130116015828.0']
+540__
+[{u'a': [u'Open Access']}]
 916__
-[{u's': [u'n'], u'w': [u'201370']}]
+[{u's': [u'n'], u'w': [u'200623']}]
 
 		================================================================================
 						-------- 2 --------
 		================================================================================
 
-518__
-[{u'd': [u'2013-07-26T14:00:00']}]
+695__
+[{u'9': [u'LANL EDS'], u'a': [u'High Energy Physics - Theory']}]
 970__
-[{u'a': [u'INDICO.252938c3']}]
-260__
-[{u'c': [u'2013']}]
-490__
-[{u'a': [u'ISOLDE']}, {u'a': [u'ISOLDE Nuclear Physics Summer lecture series']}]
-001__
-[u'1564933']
-300__
-[{u'a': [u'Streaming video'], u'b': [u'WLAPLectureObject-v0.2']}]
-0248_
-[{u'a': [u'oai:cds.cern.ch:1564933'], u'p': [u'cerncds:TALK']}]
-65027
-[{u'a': [u'Event']}]
-690C_
-[{u'a': [u'TALK']}, {u'a': [u'CERN']}]
-041__
-[{u'a': [u'eng']}]
-963__
-[{u'a': [u'PUBLIC']}]
-700__
-[{u'a': [u'Casten, Richard'], u'u': [u'Yale University'], u'e': [u'speaker']}]
-110__
-[{u'a': [u'CERN. Geneva']}]
-111__
-[{u'a': [u'ISOLDE Nuclear Physics Summer lecture series'], u'9': [u'2013-07-26T14:00:00'], u'c': [u'CERN - 503-1-001 - Council Chamber'], u'z': [u'2013-07-26T16:00:00'], u'g': [u'252938']}]
-980__
-[{u'a': [u'Indico']}, {u'b': [u'TALK']}]
-961__
-[{u'x': [u'2013-05-17T11:06:19'], u'c': [u'2013-07-26T07:16:59']}]
-8564_
-[{u'y': [u'Talk details'], u'u': [u'http://indico.cern.ch/contributionDisplay.py?confId=252938&contribId=3']}, {u'y': [u'Event details'], u'u': [u'http://indico.cern.ch/conferenceDisplay.py?confId=252938']}]
-859__
-[{u'f': [u'jennifer.weterings@cern.ch']}]
-269__
-[{u'c': [u'2013-07-26']}]
-245__
-[{u'a': [u'The new frontier of exotic nuclei - shattering cherished paradigms and building a new synthesis']}]
-340__
-[{u'a': [u'Streaming video']}]
-65017
-[{u'a': [u'ISOLDE']}]
-005__
-[u'20130727220636.0']
-
-		================================================================================
-						-------- 3 --------
-		================================================================================
-
-6531_
-[{u'9': [u'CMS'], u'a': [u'Data']}]
-859__
-[{u'f': [u'cms-pag-conveners-fsq@cern.ch']}]
-269__
-[{u'a': [u'Geneva'], u'b': [u'CERN']}]
-245__
-[{u'a': [u'Measurement of jet cross sections at low transverse momentum\n  in proton-proton collisions\nat 8 TeV']}]
-710__
-[{u'g': [u'CMS Collaboration']}]
-110__
-[{u'a': [u'CMS Collaboration']}]
-0248_
-[{u'a': [u'oai:cds.cern.ch:1564932'], u'p': [u'cerncds:FULLTEXT', u'cerncds:cms-pas']}]
-693__
-[{u'a': [u'CERN LHC'], u'e': [u'CMS']}]
-520__
-[{u'a': [u'We present a measurement of the inclusive jet cross section in\nproton-proton (pp) collisions at $\\sqrt{s}~=~8$ TeV based on data collected by the CMS\ndetector with an integrated luminosity of $5.8$ pb$^{-1}$. The measurement was\nperformed using the anti-$k_T$ clustering algorithm with a distance\nparameter $R =~0.7$ in the rapidity region of $|y| < 4.7$ for jet\ntransverse momenta $21 < p_T < 74$ GeV/c. The measured jet cross-section is\ncompared to predictions of next-to-leading order (NLO) QCD calculations.']}]
+[{u'a': [u'002314826CER']}]
 037__
-[{u'a': [u'CMS-PAS-FSQ-12-031']}]
-980__
-[{u'a': [u'CMS-PHYSICS-ANALYSIS-SUMMARIES']}]
+[{u'a': [u'hep-th/0206032']}]
 260__
-[{u'c': [u'2013']}]
-005__
-[u'20130727220520.0']
+[{u'c': [u'2002']}]
+720__
+[{u'a': [u'Bhattacharyya, Sandip']}, {u'a': [u'Kumar, Alok']}, {u'a': [u'Mukhopadhyay, Subir']}]
 001__
-[u'1564932']
-8564_
-[{u'y': [u'Additional information for the analysis (restricted access)'], u'u': [u'http://cms.cern.ch/iCMS/analysisadmin/cadi?ancode=FSQ-12-031']}, {u'y': [u'Fulltext in PDF'], u'u': [u'http://cds.cern.ch/record/1564932/files/FSQ-12-031-pas.pdf']}, {u'y': [u'Figure_001-a'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_001-a.pdf']}, {u'y': [u'Figure_001-b'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_001-b.pdf']}, {u'y': [u'Figure_001-c'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_001-c.pdf']}, {u'y': [u'Figure_001-d'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_001-d.pdf']}, {u'y': [u'Figure_001-e'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_001-e.pdf']}, {u'y': [u'Figure_001-f'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_001-f.pdf']}, {u'y': [u'Figure_001-g'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_001-g.pdf']}, {u'y': [u'Figure_002-a'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_002-a.pdf']}, {u'y': [u'Figure_002-b'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_002-b.pdf']}, {u'y': [u'Figure_002-c'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_002-c.pdf']}, {u'y': [u'Figure_002-d'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_002-d.pdf']}, {u'y': [u'Figure_002-e'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_002-e.pdf']}, {u'y': [u'Figure_002-f'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_002-f.pdf']}, {u'y': [u'Figure_002-g'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_002-g.pdf']}, {u'y': [u'Figure_003-a'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_003-a.pdf']}, {u'y': [u'Figure_003-b'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_003-b.pdf']}, {u'y': [u'Figure_003-c'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_003-c.pdf']}, {u'y': [u'Figure_003-d'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_003-d.pdf']}, {u'y': [u'Figure_003-e'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_003-e.pdf']}, {u'y': [u'Figure_003-f'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_003-f.pdf']}, {u'y': [u'Figure_003-g'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_003-g.pdf']}, {u'y': [u'Figure_004-a'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_004-a.pdf']}, {u'y': [u'Figure_004-b'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_004-b.pdf']}, {u'y': [u'Figure_004-c'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_004-c.pdf']}, {u'y': [u'Figure_004-d'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_004-d.pdf']}, {u'y': [u'Figure_004-e'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_004-e.pdf']}, {u'y': [u'Figure_004-f'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_004-f.pdf']}, {u'y': [u'Figure_004-g'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_004-g.pdf']}, {u'y': [u'Figure_005-a'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_005-a.pdf']}, {u'y': [u'Figure_005-b'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_005-b.pdf']}, {u'y': [u'Figure_005-c'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_005-c.pdf']}, {u'y': [u'Figure_005-d'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_005-d.pdf']}, {u'y': [u'Figure_005-e'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_005-e.pdf']}, {u'y': [u'Figure_005-f'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_005-f.pdf']}, {u'y': [u'Figure_005-g'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_005-g.pdf']}, {u'y': [u'Figure_006-a'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_006-a.pdf']}, {u'y': [u'Figure_006-b'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_006-b.pdf']}, {u'y': [u'Figure_006-c'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_006-c.pdf']}, {u'y': [u'Figure_006-d'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_006-d.pdf']}, {u'y': [u'Figure_006-e'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_006-e.pdf']}, {u'y': [u'Figure_006-f'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_006-f.pdf']}, {u'y': [u'Figure_006-g'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_006-g.pdf']}, {u'y': [u'Figure_007-a'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_007-a.pdf']}, {u'y': [u'Figure_007-b'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_007-b.pdf']}, {u'y': [u'Figure_007-c'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_007-c.pdf']}, {u'y': [u'Figure_007-d'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_007-d.pdf']}, {u'y': [u'Figure_007-e'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_007-e.pdf']}, {u'y': [u'Figure_007-f'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_007-f.pdf']}, {u'y': [u'Figure_007-g'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_007-g.pdf']}, {u'y': [u'Figure_008-a'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_008-a.pdf']}, {u'y': [u'Figure_008-b'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_008-b.pdf']}, {u'y': [u'Figure_008-c'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_008-c.pdf']}, {u'y': [u'Figure_008-d'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_008-d.pdf']}, {u'y': [u'Figure_008-e'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_008-e.pdf']}, {u'y': [u'Figure_008-f'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_008-f.pdf']}, {u'y': [u'Figure_008-g'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_008-g.pdf']}, {u'y': [u'Figure_009-a'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_009-a.pdf']}, {u'y': [u'Figure_009-b'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_009-b.pdf']}, {u'y': [u'Figure_009-c'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_009-c.pdf']}, {u'y': [u'Figure_009-d'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_009-d.pdf']}, {u'y': [u'Figure_009-e'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_009-e.pdf']}, {u'y': [u'Figure_009-f'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_009-f.pdf']}, {u'y': [u'Figure_009-g'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_009-g.pdf']}, {u'y': [u'Figure_010-a'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_010-a.pdf']}, {u'y': [u'Figure_010-b'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_010-b.pdf']}, {u'y': [u'Figure_010-c'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_010-c.pdf']}, {u'y': [u'Figure_010-d'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_010-d.pdf']}, {u'y': [u'Figure_010-e'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_010-e.pdf']}, {u'y': [u'Figure_010-f'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_010-f.pdf']}, {u'y': [u'Figure_010-g'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_010-g.pdf']}, {u'y': [u'Figure_011-a'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_011-a.pdf']}, {u'y': [u'Figure_011-b'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_011-b.pdf']}, {u'y': [u'Figure_011-c'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_011-c.pdf']}, {u'y': [u'Figure_011-d'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_011-d.pdf']}, {u'y': [u'Figure_011-e'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_011-e.pdf']}, {u'y': [u'Figure_011-f'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_011-f.pdf']}, {u'y': [u'Figure_011-g'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_011-g.pdf']}, {u'y': [u'Figure_012'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_012.pdf']}, {u'y': [u'Figure_013-a'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_013-a.pdf']}, {u'y': [u'Figure_013-b'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_013-b.pdf']}, {u'y': [u'Figure_013-c'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_013-c.pdf']}, {u'y': [u'Figure_013-d'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_013-d.pdf']}, {u'y': [u'Figure_013-e'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_013-e.pdf']}, {u'y': [u'Figure_013-f'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_013-f.pdf']}, {u'y': [u'Figure_014-a'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_014-a.pdf']}, {u'y': [u'Figure_014-b'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_014-b.pdf']}, {u'y': [u'Figure_014-c'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_014-c.pdf']}, {u'y': [u'Figure_014-d'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_014-d.pdf']}, {u'y': [u'Figure_014-e'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_014-e.pdf']}, {u'y': [u'Figure_014-f'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_014-f.pdf']}, {u'y': [u'Figure_015-a'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_015-a.pdf']}, {u'y': [u'Figure_015-b'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_015-b.pdf']}, {u'y': [u'Figure_015-c'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_015-c.pdf']}, {u'y': [u'Figure_015-d'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_015-d.pdf']}, {u'y': [u'Figure_015-e'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_015-e.pdf']}, {u'y': [u'Figure_015-f'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_015-f.pdf']}, {u'y': [u'Figure_016-a'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_016-a.pdf']}, {u'y': [u'Figure_016-b'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_016-b.pdf']}, {u'y': [u'Figure_016-c'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_016-c.pdf']}, {u'y': [u'Figure_016-d'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_016-d.pdf']}, {u'y': [u'Figure_016-e'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_016-e.pdf']}, {u'y': [u'Figure_016-f'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_016-f.pdf']}, {u'y': [u'Figure_017-a'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_017-a.pdf']}, {u'y': [u'Figure_017-b'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_017-b.pdf']}, {u'y': [u'Figure_017-c'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_017-c.pdf']}, {u'y': [u'Figure_017-d'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_017-d.pdf']}, {u'y': [u'Figure_017-e'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_017-e.pdf']}, {u'y': [u'Figure_017-f'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_017-f.pdf']}, {u'y': [u'Figure_018-a'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_018-a.pdf']}, {u'y': [u'Figure_018-b'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_018-b.pdf']}, {u'y': [u'Figure_018-c'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_018-c.pdf']}, {u'y': [u'Figure_018-d'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_018-d.pdf']}, {u'y': [u'Figure_018-e'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_018-e.pdf']}, {u'y': [u'Figure_018-f'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_018-f.pdf']}, {u'y': [u'Figure_019-a'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_019-a.pdf']}, {u'y': [u'Figure_019-b'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_019-b.pdf']}, {u'y': [u'Figure_019-c'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_019-c.pdf']}, {u'y': [u'Figure_019-d'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_019-d.pdf']}, {u'y': [u'Figure_019-e'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_019-e.pdf']}, {u'y': [u'Figure_019-f'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_019-f.pdf']}, {u'y': [u'Figure_020-a'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_020-a.pdf']}, {u'y': [u'Figure_020-b'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_020-b.pdf']}, {u'y': [u'Figure_020-c'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_020-c.pdf']}, {u'y': [u'Figure_020-d'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_020-d.pdf']}, {u'y': [u'Figure_020-e'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_020-e.pdf']}, {u'y': [u'Figure_020-f'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_020-f.pdf']}, {u'y': [u'Figure_021-a'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_021-a.pdf']}, {u'y': [u'Figure_021-b'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_021-b.pdf']}, {u'y': [u'Figure_021-c'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_021-c.pdf']}, {u'y': [u'Figure_021-d'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_021-d.pdf']}, {u'y': [u'Figure_021-e'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_021-e.pdf']}, {u'y': [u'Figure_021-f'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_021-f.pdf']}, {u'y': [u'Figure_022-a'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_022-a.pdf']}, {u'y': [u'Figure_022-b'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_022-b.pdf']}, {u'y': [u'Figure_022-c'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_022-c.pdf']}, {u'y': [u'Figure_022-d'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_022-d.pdf']}, {u'y': [u'Figure_022-e'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_022-e.pdf']}, {u'y': [u'Figure_022-f'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_022-f.pdf']}, {u'y': [u'Figure_001-a'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_001-a.png?subformat=icon']}, {u'y': [u'Figure_001-b'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_001-b.png?subformat=icon']}, {u'y': [u'Figure_001-c'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_001-c.png?subformat=icon']}, {u'y': [u'Figure_001-d'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_001-d.png?subformat=icon']}, {u'y': [u'Figure_001-e'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_001-e.png?subformat=icon']}, {u'y': [u'Figure_001-f'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_001-f.png?subformat=icon']}, {u'y': [u'Figure_001-g'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_001-g.png?subformat=icon']}, {u'y': [u'Figure_002-a'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_002-a.png?subformat=icon']}, {u'y': [u'Figure_002-b'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_002-b.png?subformat=icon']}, {u'y': [u'Figure_002-c'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_002-c.png?subformat=icon']}, {u'y': [u'Figure_002-d'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_002-d.png?subformat=icon']}, {u'y': [u'Figure_002-e'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_002-e.png?subformat=icon']}, {u'y': [u'Figure_002-f'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_002-f.png?subformat=icon']}, {u'y': [u'Figure_002-g'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_002-g.png?subformat=icon']}, {u'y': [u'Figure_003-a'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_003-a.png?subformat=icon']}, {u'y': [u'Figure_003-b'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_003-b.png?subformat=icon']}, {u'y': [u'Figure_003-c'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_003-c.png?subformat=icon']}, {u'y': [u'Figure_003-d'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_003-d.png?subformat=icon']}, {u'y': [u'Figure_003-e'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_003-e.png?subformat=icon']}, {u'y': [u'Figure_003-f'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_003-f.png?subformat=icon']}, {u'y': [u'Figure_003-g'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_003-g.png?subformat=icon']}, {u'y': [u'Figure_004-a'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_004-a.png?subformat=icon']}, {u'y': [u'Figure_004-b'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_004-b.png?subformat=icon']}, {u'y': [u'Figure_004-c'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_004-c.png?subformat=icon']}, {u'y': [u'Figure_004-d'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_004-d.png?subformat=icon']}, {u'y': [u'Figure_004-e'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_004-e.png?subformat=icon']}, {u'y': [u'Figure_004-f'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_004-f.png?subformat=icon']}, {u'y': [u'Figure_004-g'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_004-g.png?subformat=icon']}, {u'y': [u'Figure_005-a'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_005-a.png?subformat=icon']}, {u'y': [u'Figure_005-b'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_005-b.png?subformat=icon']}, {u'y': [u'Figure_005-c'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_005-c.png?subformat=icon']}, {u'y': [u'Figure_005-d'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_005-d.png?subformat=icon']}, {u'y': [u'Figure_005-e'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_005-e.png?subformat=icon']}, {u'y': [u'Figure_005-f'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_005-f.png?subformat=icon']}, {u'y': [u'Figure_005-g'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_005-g.png?subformat=icon']}, {u'y': [u'Figure_006-a'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_006-a.png?subformat=icon']}, {u'y': [u'Figure_006-b'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_006-b.png?subformat=icon']}, {u'y': [u'Figure_006-c'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_006-c.png?subformat=icon']}, {u'y': [u'Figure_006-d'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_006-d.png?subformat=icon']}, {u'y': [u'Figure_006-e'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_006-e.png?subformat=icon']}, {u'y': [u'Figure_006-f'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_006-f.png?subformat=icon']}, {u'y': [u'Figure_006-g'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_006-g.png?subformat=icon']}, {u'y': [u'Figure_007-a'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_007-a.png?subformat=icon']}, {u'y': [u'Figure_007-b'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_007-b.png?subformat=icon']}, {u'y': [u'Figure_007-c'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_007-c.png?subformat=icon']}, {u'y': [u'Figure_007-d'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_007-d.png?subformat=icon']}, {u'y': [u'Figure_007-e'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_007-e.png?subformat=icon']}, {u'y': [u'Figure_007-f'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_007-f.png?subformat=icon']}, {u'y': [u'Figure_007-g'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_007-g.png?subformat=icon']}, {u'y': [u'Figure_008-a'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_008-a.png?subformat=icon']}, {u'y': [u'Figure_008-b'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_008-b.png?subformat=icon']}, {u'y': [u'Figure_008-c'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_008-c.png?subformat=icon']}, {u'y': [u'Figure_008-d'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_008-d.png?subformat=icon']}, {u'y': [u'Figure_008-e'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_008-e.png?subformat=icon']}, {u'y': [u'Figure_008-f'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_008-f.png?subformat=icon']}, {u'y': [u'Figure_008-g'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_008-g.png?subformat=icon']}, {u'y': [u'Figure_009-a'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_009-a.png?subformat=icon']}, {u'y': [u'Figure_009-b'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_009-b.png?subformat=icon']}, {u'y': [u'Figure_009-c'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_009-c.png?subformat=icon']}, {u'y': [u'Figure_009-d'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_009-d.png?subformat=icon']}, {u'y': [u'Figure_009-e'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_009-e.png?subformat=icon']}, {u'y': [u'Figure_009-f'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_009-f.png?subformat=icon']}, {u'y': [u'Figure_009-g'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_009-g.png?subformat=icon']}, {u'y': [u'Figure_010-a'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_010-a.png?subformat=icon']}, {u'y': [u'Figure_010-b'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_010-b.png?subformat=icon']}, {u'y': [u'Figure_010-c'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_010-c.png?subformat=icon']}, {u'y': [u'Figure_010-d'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_010-d.png?subformat=icon']}, {u'y': [u'Figure_010-e'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_010-e.png?subformat=icon']}, {u'y': [u'Figure_010-f'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_010-f.png?subformat=icon']}, {u'y': [u'Figure_010-g'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_010-g.png?subformat=icon']}, {u'y': [u'Figure_011-a'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_011-a.png?subformat=icon']}, {u'y': [u'Figure_011-b'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_011-b.png?subformat=icon']}, {u'y': [u'Figure_011-c'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_011-c.png?subformat=icon']}, {u'y': [u'Figure_011-d'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_011-d.png?subformat=icon']}, {u'y': [u'Figure_011-e'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_011-e.png?subformat=icon']}, {u'y': [u'Figure_011-f'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_011-f.png?subformat=icon']}, {u'y': [u'Figure_011-g'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_011-g.png?subformat=icon']}, {u'y': [u'Figure_012'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_012.png?subformat=icon']}, {u'y': [u'Figure_013-a'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_013-a.png?subformat=icon']}, {u'y': [u'Figure_013-b'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_013-b.png?subformat=icon']}, {u'y': [u'Figure_013-c'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_013-c.png?subformat=icon']}, {u'y': [u'Figure_013-d'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_013-d.png?subformat=icon']}, {u'y': [u'Figure_013-e'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_013-e.png?subformat=icon']}, {u'y': [u'Figure_013-f'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_013-f.png?subformat=icon']}, {u'y': [u'Figure_014-a'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_014-a.png?subformat=icon']}, {u'y': [u'Figure_014-b'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_014-b.png?subformat=icon']}, {u'y': [u'Figure_014-c'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_014-c.png?subformat=icon']}, {u'y': [u'Figure_014-d'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_014-d.png?subformat=icon']}, {u'y': [u'Figure_014-e'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_014-e.png?subformat=icon']}, {u'y': [u'Figure_014-f'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_014-f.png?subformat=icon']}, {u'y': [u'Figure_015-a'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_015-a.png?subformat=icon']}, {u'y': [u'Figure_015-b'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_015-b.png?subformat=icon']}, {u'y': [u'Figure_015-c'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_015-c.png?subformat=icon']}, {u'y': [u'Figure_015-d'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_015-d.png?subformat=icon']}, {u'y': [u'Figure_015-e'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_015-e.png?subformat=icon']}, {u'y': [u'Figure_015-f'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_015-f.png?subformat=icon']}, {u'y': [u'Figure_016-a'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_016-a.png?subformat=icon']}, {u'y': [u'Figure_016-b'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_016-b.png?subformat=icon']}, {u'y': [u'Figure_016-c'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_016-c.png?subformat=icon']}, {u'y': [u'Figure_016-d'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_016-d.png?subformat=icon']}, {u'y': [u'Figure_016-e'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_016-e.png?subformat=icon']}, {u'y': [u'Figure_016-f'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_016-f.png?subformat=icon']}, {u'y': [u'Figure_017-a'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_017-a.png?subformat=icon']}, {u'y': [u'Figure_017-b'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_017-b.png?subformat=icon']}, {u'y': [u'Figure_017-c'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_017-c.png?subformat=icon']}, {u'y': [u'Figure_017-d'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_017-d.png?subformat=icon']}, {u'y': [u'Figure_017-e'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_017-e.png?subformat=icon']}, {u'y': [u'Figure_017-f'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_017-f.png?subformat=icon']}, {u'y': [u'Figure_018-a'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_018-a.png?subformat=icon']}, {u'y': [u'Figure_018-b'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_018-b.png?subformat=icon']}, {u'y': [u'Figure_018-c'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_018-c.png?subformat=icon']}, {u'y': [u'Figure_018-d'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_018-d.png?subformat=icon']}, {u'y': [u'Figure_018-e'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_018-e.png?subformat=icon']}, {u'y': [u'Figure_018-f'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_018-f.png?subformat=icon']}, {u'y': [u'Figure_019-a'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_019-a.png?subformat=icon']}, {u'y': [u'Figure_019-b'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_019-b.png?subformat=icon']}, {u'y': [u'Figure_019-c'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_019-c.png?subformat=icon']}, {u'y': [u'Figure_019-d'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_019-d.png?subformat=icon']}, {u'y': [u'Figure_019-e'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_019-e.png?subformat=icon']}, {u'y': [u'Figure_019-f'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_019-f.png?subformat=icon']}, {u'y': [u'Figure_020-a'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_020-a.png?subformat=icon']}, {u'y': [u'Figure_020-b'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_020-b.png?subformat=icon']}, {u'y': [u'Figure_020-c'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_020-c.png?subformat=icon']}, {u'y': [u'Figure_020-d'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_020-d.png?subformat=icon']}, {u'y': [u'Figure_020-e'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_020-e.png?subformat=icon']}, {u'y': [u'Figure_020-f'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_020-f.png?subformat=icon']}, {u'y': [u'Figure_021-a'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_021-a.png?subformat=icon']}, {u'y': [u'Figure_021-b'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_021-b.png?subformat=icon']}, {u'y': [u'Figure_021-c'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_021-c.png?subformat=icon']}, {u'y': [u'Figure_021-d'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_021-d.png?subformat=icon']}, {u'y': [u'Figure_021-e'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_021-e.png?subformat=icon']}, {u'y': [u'Figure_021-f'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_021-f.png?subformat=icon']}, {u'y': [u'Figure_022-a'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_022-a.png?subformat=icon']}, {u'y': [u'Figure_022-b'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_022-b.png?subformat=icon']}, {u'y': [u'Figure_022-c'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_022-c.png?subformat=icon']}, {u'y': [u'Figure_022-d'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_022-d.png?subformat=icon']}, {u'y': [u'Figure_022-e'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_022-e.png?subformat=icon']}, {u'y': [u'Figure_022-f'], u'x': [u'icon'], u'z': [u'Figure'], u'u': [u'http://cds.cern.ch/record/1564932/files/Figure_022-f.png?subformat=icon']}]
-
-		================================================================================
-						-------- 4 --------
-		================================================================================
-
-970__
-[{u'a': [u'000732431CER']}]
-037__
-[{u'a': [u'CERN-LHeC-Note-2013-002 PHY']}]
-260__
-[{u'c': [u'2013']}]
-001__
-[u'1564929']
+[u'557223']
 300__
-[{u'a': [u'6 p']}]
-6531_
-[{u'a': [u'Partons'], u'9': [u'CERN']}, {u'a': [u'Gluon'], u'9': [u'CERN']}, {u'a': [u'ERL'], u'9': [u'CERN']}]
+[{u'a': [u'16 p']}]
 960__
-[{u'a': [u'12']}]
-710__
-[{u'5': [u'LHeC']}, {u'a': [u'CERN. Geneva. LHeC Department']}]
+[{u'a': [u'13']}]
+773__
+[{u'y': [u'2002'], u'p': [u'Int. J. Mod. Phys. A'], u'c': [u'4647-4660'], u'v': [u'17']}]
+961__
+[{u'h': [u'0938'], u'c': [u'20100419'], u'l': [u'CER01'], u'x': [u'20020605']}]
 0248_
-[{u'a': [u'oai:cds.cern.ch:1564929'], u'p': [u'cerncds:FULLTEXT']}]
-693__
-[{u'a': [u'CERN LHC'], u'e': [u'LHeC']}]
-8564_
-[{u'y': [u'Access to fulltext'], u'u': [u'http://cds.cern.ch/record/1564929/files/maxvoiSMnote.pdf']}]
+[{u'a': [u'oai:cds.cern.ch:557223'], u'p': [u'cerncds:FULLTEXT']}]
+035__
+[{u'a': [u'2314826CERCER']}, {u'9': [u'SPIRES'], u'a': [u'4957490']}]
 041__
 [{u'a': [u'eng']}]
 963__
 [{u'a': [u'PUBLIC']}]
 595__
-[{u'a': [u'CERN EDS']}]
+[{u'a': [u'LANL EDS']}, {u'a': [u'SIS LANLPUBL2003']}, {u'a': [u'SIS:2003 PR/LKR added']}]
+088__
+[{u'a': [u'IP-BBSR-2002-03']}]
 700__
-[{u'a': [u'Radescu, V'], u'u': [u'DESY']}]
+[{u'a': [u'Kumar, A']}, {u'a': [u'Mukhopadhyay, S']}]
 980__
-[{u'a': [u'INTNOTELHECPUBL']}]
+[{u'a': [u'ARTICLE']}]
 690C_
-[{u'a': [u'CERN']}, {u'a': [u'INTNOTE']}, {u'a': [u'PUBLLHEC']}]
-859__
-[{u'f': [u'max.klein@desy.de']}]
+[{u'a': [u'ARTICLE']}]
+8564_
+[{u'y': [u'Access to fulltext document'], u'u': [u'http://documents.cern.ch/cgi-bin/setlink?base=preprint&categ=hep-th&id=0206032']}, {u'y': [u'Access to fulltext document'], u'u': [u'http://cds.cern.ch/record/557223/files/0206032.pdf']}, {u'y': [u'Access to fulltext document'], u'u': [u'http://cds.cern.ch/record/557223/files/0206032.ps.gz']}]
 100__
-[{u'a': [u'Klein, M'], u'u': [u'Liverpool University']}]
+[{u'a': [u'Bhattacharya, S']}]
 269__
-[{u'a': [u'Geneva'], u'c': [u'26 Jul 2013'], u'b': [u'CERN']}]
+[{u'a': [u'Bhubaneswar'], u'c': [u'4 Jun 2002'], u'b': [u'Bhubaneswar Univ. Inst. Phys.']}]
+859__
+[{u'f': [u'sandip@iopb.res.in']}]
+003__
+[u'SzGeCERN']
 245__
-[{u'a': [u'Partons from the LHeC']}]
+[{u'a': [u'Curved Membrane Solutions in D=11 Supergravity']}]
 520__
-[{u'a': [u'A brief introduction is given to the potential of the LHeC for the determination of the full set of quark distributions $xq(x,Q^2)$, $q=u_v,~d_v,~\\bar{u},~\\bar{d},~s,~\\bar{s},~c,~b,~t$, and the measurement of the gluon distribution $xg(x,Q^2)$ for $x$ between about $10^{-6}$ to $1$ and $Q^2$ between $1$ and up to $10^6$\\,GeV$^2$. An initial QCD analysis of fully simulated inclusive LHeC data provides a set of PDFs with their uncertainties, which is made available at LHAPDF for the study of prospects for future measurements in $ep$ and $pp$. The LHeC determines $\\alpha_s(M_Z^2)$ to per mille level precision and maps $xg$, for solving the saturation question at low $x$ and providing a new basis for precision Higgs measurements and searches for new physics extending to high mass at the LHC.']}]
+[{u'a': [u'We present a class of static membrane solutions, with non-flat worldvolume geometry, in the eleven dimensional supergravity with source terms. This class of solutions contains supersymmetric as well as a large class of non-supersymmetric configurations. We comment about near horizon limit and stability of these solutions and point out an interesting relation with certain two dimensional dilaton gravity system.']}]
 65017
-[{u'a': [u'Particle Physics - Experiment'], u'2': [u'SzGeCERN']}]
+[{u'a': [u'Particle Physics - Theory'], u'2': [u'SzGeCERN']}]
 005__
-[u'20130727220520.0']
+[u'20121219024355.0']
 916__
-[{u's': [u'n'], u'w': [u'201330']}]
+[{u's': [u'n'], u'w': [u'200223']}]
+
+		================================================================================
+						-------- 3 --------
+		================================================================================
+
+695__
+[{u'9': [u'LANL EDS'], u'a': [u'High Energy Physics - Theory']}, {u'9': [u'INSPEC'], u'a': [u'chiral-symmetries']}, {u'9': [u'INSPEC'], u'a': [u'gauge-field-theory']}, {u'9': [u'INSPEC'], u'a': [u'Goldstone-bosons']}, {u'9': [u'INSPEC'], u'a': [u'membrane-theory']}, {u'9': [u'INSPEC'], u'a': [u'nonlinear-symmetries']}, {u'9': [u'INSPEC'], u'a': [u'sparticles']}, {u'9': [u'INSPEC'], u'a': [u'spontaneous-symmetry-breaking']}, {u'9': [u'INSPEC'], u'a': [u'superstrings']}, {u'9': [u'INSPEC'], u'a': [u'supersymmetric-field-theory']}, {u'9': [u'INSPEC'], u'a': [u'trees-mathematics']}]
+694__
+[{u'9': [u'INSPEC'], u'a': [u'A1117 (Theories of strings and other extended objects)']}, {u'9': [u'INSPEC'], u'a': [u'A1130P (Supersymmetry in particle physics)']}, {u'9': [u'INSPEC'], u'a': [u'A1130Q (Spontaneous symmetry breaking in particle physics)']}, {u'9': [u'INSPEC'], u'a': [u'A1130N (Nonlinear and dynamical symmetries (spectrum-generating symmetries))']}, {u'9': [u'INSPEC'], u'a': [u'A1110N (Gauge field theories)']}, {u'9': [u'INSPEC'], u'a': [u'A1130R (Chiral symmetries in particle physics)']}, {u'9': [u'INSPEC'], u'a': [u'A1480F (Intermediate and Higgs bosons)']}, {u'9': [u'INSPEC'], u'a': [u'A1480J (Supersymmetric particles)']}]
+710__
+[{u'5': [u'TH']}]
+970__
+[{u'a': [u'002284766CER']}]
+037__
+[{u'a': [u'hep-th/0111209']}]
+260__
+[{u'c': [u'2002']}]
+001__
+[u'527876']
+300__
+[{u'a': [u'49 p']}]
+960__
+[{u'a': [u'13']}]
+773__
+[{u'y': [u'2002'], u'p': [u'Nucl. Phys. B'], u'c': [u'3-42'], u'v': [u'631'], u'n': [u'1-2']}]
+084__
+[{u'a': [u'TH-2001-263'], u'2': [u'CERN Library']}]
+961__
+[{u'h': [u'1348'], u'c': [u'20100420'], u'l': [u'CER01'], u'x': [u'20011123']}]
+0248_
+[{u'a': [u'oai:cds.cern.ch:527876'], u'p': [u'cerncds:FULLTEXT', u'cerncds:hep-th', u'cerncds:CERN:FULLTEXT', u'cerncds:CERN']}]
+693__
+[{u'a': [u'Not applicable'], u'e': [u'Not applicable']}]
+035__
+[{u'9': [u'CERCER'], u'a': [u'2284766']}, {u'9': [u'SLAC'], u'a': [u'4784103']}, {u'9': [u'INSPEC'], u'a': [u'7340367']}, {u'9': [u'CERN annual report'], u'a': [u'2002-3.0394']}, {u'9': [u'SPIRES'], u'a': [u'4784103']}]
+041__
+[{u'a': [u'eng']}]
+963__
+[{u'a': [u'PUBLIC']}]
+595__
+[{u'a': [u'CERN-TH']}, {u'a': [u'LANL EDS']}, {u'a': [u'OA']}, {u'a': [u'SIS:2002 PR/LKR added']}, {u'a': [u'SIS INSP2002']}, {u'i': [u'7340367']}]
+088__
+[{u'a': [u'CERN-TH-2001-263']}, {u'a': [u'CPTH-S-391']}]
+700__
+[{u'a': [u'Benakli, Karim'], u'u': [u'CERN']}, {u'a': [u'Laugier, A'], u'u': [u'CERN']}]
+964__
+[{u'a': [u'0001']}]
+980__
+[{u'a': [u'ARTICLE']}]
+690C_
+[{u'a': [u'ARTICLE']}, {u'a': [u'CERN']}]
+8564_
+[{u'y': [u'Access to fulltext document'], u'u': [u'http://documents.cern.ch/cgi-bin/setlink?base=preprint&categ=hep-th&id=0111209']}, {u'y': [u'Access to fulltext document'], u'u': [u'http://cds.cern.ch/record/527876/files/0111209.pdf']}, {u'y': [u'Access to fulltext document'], u'u': [u'http://cds.cern.ch/record/527876/files/0111209.ps.gz']}]
+100__
+[{u'a': [u'Antoniadis, Ignatios'], u'u': [u'CERN']}]
+269__
+[{u'a': [u'Geneva'], u'c': [u'22 Nov 2001'], u'b': [u'CERN']}]
+859__
+[{u'f': [u'Karim.Benakli@cern.ch']}]
+003__
+[u'SzGeCERN']
+245__
+[{u'a': [u'D-brane Models with Non-Linear Supersymmetry']}]
+520__
+[{u'a': [u'We study a class of type I string models with supersymmetry broken on the world-volume of some D-branes and vanishing tree-level potential. Despite the non-supersymmetric spectrum, supersymmetry is non-linearly realized on these D-branes, while it is spontaneously broken in the bulk by Scherk-Schwarz boundary conditions. These models can easily accommodate 3-branes with interesting gauge groups and chiral fermions. We also study the effective field theory and in particular we compute the four-fermion couplings of the localized Goldstino with the matter fermions on the brane.']}]
+65017
+[{u'a': [u'Particle Physics - Theory'], u'2': [u'SzGeCERN']}]
+005__
+[u'20121219020105.0']
+916__
+[{u'y': [u'a2002'], u's': [u'n'], u'w': [u'200147']}]
+
+		================================================================================
+						-------- 4 --------
+		================================================================================
+
+695__
+[{u'9': [u'LANL EDS'], u'a': [u'High Energy Physics - Theory']}, {u'9': [u'INSPEC'], u'a': [u'gauge-field-theory']}, {u'9': [u'INSPEC'], u'a': [u'membrane-theory']}, {u'9': [u'INSPEC'], u'a': [u'string-theory']}, {u'9': [u'INSPEC'], u'a': [u'tachyons']}]
+694__
+[{u'9': [u'INSPEC'], u'a': [u'A1117 (Theories of strings and other extended objects)']}, {u'9': [u'INSPEC'], u'a': [u'A1480K (Other elementary particles)']}, {u'9': [u'INSPEC'], u'a': [u'A1110N (Gauge field theories)']}]
+710__
+[{u'5': [u'TH']}]
+970__
+[{u'a': [u'002279603CER']}]
+037__
+[{u'a': [u'hep-th/0110113']}]
+260__
+[{u'c': [u'2002']}]
+720__
+[{u'a': [u'Armoni, Adi']}, {u'a': [u'Lopez, Esperanza']}]
+001__
+[u'522886']
+300__
+[{u'a': [u'24 p']}]
+960__
+[{u'a': [u'13']}]
+773__
+[{u'y': [u'2002'], u'p': [u'Nucl. Phys. B'], u'c': [u'240-256'], u'v': [u'632'], u'n': [u'1-3']}]
+084__
+[{u'a': [u'TH-2001-272'], u'2': [u'CERN Library']}]
+961__
+[{u'h': [u'1348'], u'c': [u'20100420'], u'l': [u'CER01'], u'x': [u'20011015']}]
+0248_
+[{u'a': [u'oai:cds.cern.ch:522886'], u'p': [u'cerncds:FULLTEXT', u'cerncds:hep-th', u'cerncds:CERN:FULLTEXT', u'cerncds:CERN']}]
+693__
+[{u'a': [u'Not applicable'], u'e': [u'Not applicable']}]
+035__
+[{u'9': [u'CERN annual report'], u'a': [u'2002-3.2362']}, {u'9': [u'INSPEC'], u'a': [u'7346630']}, {u'9': [u'SLAC'], u'a': [u'4745019']}, {u'9': [u'SPIRES'], u'a': [u'4745019']}]
+041__
+[{u'a': [u'eng']}]
+963__
+[{u'a': [u'PUBLIC']}]
+595__
+[{u'a': [u'CERN-TH']}, {u'a': [u'LANL EDS']}, {u'a': [u'OA']}, {u'a': [u'SIS:2002 PR/LKR added']}, {u'a': [u'SIS INSP2002']}, {u'i': [u'7346630']}]
+088__
+[{u'a': [u'CERN-TH-2001-272']}]
+700__
+[{u'a': [u'L\xf3pez, E']}]
+964__
+[{u'a': [u'0001']}]
+980__
+[{u'a': [u'ARTICLE']}]
+690C_
+[{u'a': [u'ARTICLE']}, {u'a': [u'CERN']}]
+8564_
+[{u'y': [u'Access to fulltext document'], u'u': [u'http://documents.cern.ch/cgi-bin/setlink?base=preprint&categ=hep-th&id=0110113']}, {u'y': [u'Access to fulltext document'], u'u': [u'http://cds.cern.ch/record/522886/files/0110113.pdf']}, {u'y': [u'Access to fulltext document'], u'u': [u'http://cds.cern.ch/record/522886/files/0110113.ps.gz']}]
+100__
+[{u'a': [u'Armoni, Adi']}]
+269__
+[{u'a': [u'Geneva'], u'c': [u'12 Oct 2001'], u'b': [u'CERN']}]
+859__
+[{u'f': [u'Adi.Armoni@cern.ch']}]
+003__
+[u'SzGeCERN']
+901__
+[{u'u': [u'CERN']}, {u'u': [u'MPI Golm']}]
+245__
+[{u'a': [u'UV/IR Mixing via Closed Strings and Tachyonic Instabilities']}]
+520__
+[{u'a': [u'We discuss UV/IR mixing effects in non-supersymmetric non-commutative U(N) gauge theories. We show that the singular (non-planar) terms in the 2- and 3-point functions, namely the poles and the logarithms, can be obtained from a manifestly gauge invariant effective action. The action, which involves open Wilson line operators, can be derived from closed strings exchange between two stacks of D-branes. Our concrete example is type 0B string theory and the field theory that lives on a collection of N electric D3-branes. We show that one of the closed string modes that couple to the field theory operator which is responsible for the infrared poles, is the type 0 tachyon.']}]
+65017
+[{u'a': [u'Particle Physics - Theory'], u'2': [u'SzGeCERN']}]
+005__
+[u'20121219015305.0']
+916__
+[{u'y': [u'a2002'], u's': [u'n'], u'w': [u'200142']}]
 
 		================================================================================
 						-------- 5 --------
 		================================================================================
 
-518__
-[{u'd': [u'2004-07-08T09:30:00']}]
+695__
+[{u'9': [u'INSPEC'], u'a': [u'black-holes']}, {u'9': [u'INSPEC'], u'a': [u'membrane-theory']}, {u'9': [u'INSPEC'], u'a': [u'Schwarzschild-metric']}, {u'9': [u'INSPEC'], u'a': [u'supergravity']}, {u'9': [u'INSPEC'], u'a': [u'tachyons']}]
+694__
+[{u'9': [u'INSPEC'], u'a': [u'A0465 (Supergravity)']}, {u'9': [u'INSPEC'], u'a': [u'A0470 (Physics of black holes)']}, {u'9': [u'INSPEC'], u'a': [u'A9760L (Black holes)']}, {u'9': [u'INSPEC'], u'a': [u'A1117 (Theories of strings and other extended objects)']}, {u'9': [u'INSPEC'], u'a': [u'A9530S (Relativity and gravitation in astrophysics)']}]
 970__
-[{u'a': [u'INDICO.a042767cs23t0']}]
+[{u'a': [u'002263887CER']}]
 260__
-[{u'c': [u'2004']}]
-490__
-[{u'a': [u'Conferences']}, {u'a': [u'EPAC 2004']}]
+[{u'c': [u'2001']}]
 001__
-[u'1564926']
-300__
-[{u'a': [u'Streaming video'], u'b': [u'720x576 4/3, 25']}]
+[u'508355']
+960__
+[{u'a': [u'13']}]
+030__
+[{u'a': [u'Phys. Rev., D']}]
+773__
+[{u'y': [u'2001'], u'p': [u'Phys. Rev. D'], u'c': [u'064008/1-14'], u'v': [u'63'], u'n': [u'6']}]
+710__
+[{u'5': [u'TH']}]
+961__
+[{u'h': [u'2002'], u'c': [u'20100305'], u'l': [u'CER01'], u'x': [u'20010709']}]
 0248_
-[{u'a': [u'oai:cds.cern.ch:1564926'], u'p': [u'cerncds:TALK']}]
-65027
-[{u'a': [u'Event']}]
-690C_
-[{u'a': [u'TALK']}, {u'a': [u'CERN']}]
-8564_
-[{u'y': [u'Talk details'], u'u': [u'http://indico.cern.ch/contributionDisplay.py?confId=a042767&contribId=s23t0']}, {u'y': [u'Event details'], u'u': [u'http://indico.cern.ch/conferenceDisplay.py?confId=a042767']}]
+[{u'a': [u'oai:cds.cern.ch:508355'], u'p': [u'cerncds:FULLTEXT']}]
+035__
+[{u'9': [u'CERN annual report'], u'a': [u'2001-3.2201']}, {u'9': [u'INSPEC'], u'a': [u'6884664']}]
 041__
 [{u'a': [u'eng']}]
 963__
 [{u'a': [u'PUBLIC']}]
+595__
+[{u'a': [u'SIS INSP2001']}, {u'i': [u'6884664']}]
 700__
-[{u'a': [u'Safranek, James'], u'e': [u'speaker']}]
-110__
-[{u'a': [u'CERN. Geneva']}]
-111__
-[{u'a': [u'EPAC 2004'], u'9': [u'2004-07-08T09:30:00'], u'c': [u'Lucerne - '], u'z': [u'2004-07-08T09:50:00'], u'g': [u'a042767']}]
+[{u'a': [u'Mandal, G']}, {u'a': [u'Oz, Y']}]
 980__
-[{u'a': [u'Indico']}, {u'b': [u'TALK']}]
-961__
-[{u'x': [u'2004-06-21T00:00:00'], u'c': [u'2013-07-19T14:32:42']}]
-859__
-[{u'f': [u'alan.barr@cern.ch']}]
+[{u'a': [u'ARTICLE']}]
+690C_
+[{u'a': [u'ARTICLE']}, {u'a': [u'CERN']}]
+8564_
+[{u'y': [u'APS Published version, local copy'], u'u': [u'http://documents.cern.ch/cgi-bin/setlink?base=preprint&categ=aps&id=PhysRevD.63.064008']}, {u'y': [u'APS Published version, local copy'], u'u': [u'http://cds.cern.ch/record/508355/files/PhysRevD.63.064008.pdf']}]
 269__
-[{u'c': [u'2004-07-08']}]
-8567_
-[{u'x': [u'Absolute master path'], u'2': [u'MediaArchive'], u'd': [u'\\\\cern.ch\\dfs\\Services\\MediaArchive\\Video\\Masters\\Conferences\\2004\\a042767cs23t0.mpg']}, {u'y': [u'0480 kbps 384x288 25 fps audio 128 kbps 48 kHz stereo'], u'x': [u'wmv0480'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs23t0/a042767cs23t0-0480-kbps-384x288-25-fps-audio-128-kbps-48-kHz-stereo.wmv']}, {u'y': [u'0600 kbps maxH 360 25 fps audio 128 kbps 48 kHz stereo'], u'x': [u'mp40600'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs23t0/a042767cs23t0-0600-kbps-maxH-360-25-fps-audio-128-kbps-48-kHz-stereo.mp4']}, {u'y': [u'0753 kbps 480x360 25 fps audio 64 kbps 44 kHz stereo'], u'x': [u'flv0753'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs23t0/a042767cs23t0-0753-kbps-480x360-25-fps-audio-64-kbps-44-kHz-stereo.flv']}, {u'y': [u'posterframe 480x360 at 0 percent'], u'x': [u'jpgposterframe'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs23t0/a042767cs23t0-posterframe-480x360-at-0-percent.jpg']}, {u'y': [u'posterframe 480x360 at 10 percent'], u'x': [u'jpgposterframe'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs23t0/a042767cs23t0-posterframe-480x360-at-10-percent.jpg']}, {u'y': [u'posterframe 480x360 at 20 percent'], u'x': [u'jpgposterframe'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs23t0/a042767cs23t0-posterframe-480x360-at-20-percent.jpg']}, {u'y': [u'posterframe 480x360 at 30 percent'], u'x': [u'jpgposterframe'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs23t0/a042767cs23t0-posterframe-480x360-at-30-percent.jpg']}, {u'y': [u'posterframe 480x360 at 40 percent'], u'x': [u'jpgposterframe'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs23t0/a042767cs23t0-posterframe-480x360-at-40-percent.jpg']}, {u'y': [u'posterframe 480x360 at 50 percent'], u'x': [u'jpgposterframe'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs23t0/a042767cs23t0-posterframe-480x360-at-50-percent.jpg']}, {u'y': [u'posterframe 480x360 at 60 percent'], u'x': [u'jpgposterframe'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs23t0/a042767cs23t0-posterframe-480x360-at-60-percent.jpg']}, {u'y': [u'posterframe 480x360 at 70 percent'], u'x': [u'jpgposterframe'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs23t0/a042767cs23t0-posterframe-480x360-at-70-percent.jpg']}, {u'y': [u'posterframe 480x360 at 80 percent'], u'x': [u'jpgposterframe'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs23t0/a042767cs23t0-posterframe-480x360-at-80-percent.jpg']}, {u'y': [u'posterframe 480x360 at 90 percent'], u'x': [u'jpgposterframe'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs23t0/a042767cs23t0-posterframe-480x360-at-90-percent.jpg']}, {u'y': [u'thumbnail 180x135 at 05 percent'], u'x': [u'jpgthumbnail'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs23t0/a042767cs23t0-thumbnail-180x135-at-05-percent.jpg']}, {u'y': [u'thumbnail 80x60 at 10 percent'], u'x': [u'jpgthumbnail'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs23t0/a042767cs23t0-thumbnail-80x60-at-10-percent.jpg']}, {u'y': [u'thumbnail 80x60 at 20 percent'], u'x': [u'jpgthumbnail'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs23t0/a042767cs23t0-thumbnail-80x60-at-20-percent.jpg']}, {u'y': [u'thumbnail 80x60 at 30 percent'], u'x': [u'jpgthumbnail'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs23t0/a042767cs23t0-thumbnail-80x60-at-30-percent.jpg']}, {u'y': [u'thumbnail 80x60 at 40 percent'], u'x': [u'jpgthumbnail'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs23t0/a042767cs23t0-thumbnail-80x60-at-40-percent.jpg']}, {u'y': [u'thumbnail 80x60 at 50 percent'], u'x': [u'jpgthumbnail'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs23t0/a042767cs23t0-thumbnail-80x60-at-50-percent.jpg']}, {u'y': [u'thumbnail 80x60 at 60 percent'], u'x': [u'jpgthumbnail'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs23t0/a042767cs23t0-thumbnail-80x60-at-60-percent.jpg']}, {u'y': [u'thumbnail 80x60 at 70 percent'], u'x': [u'jpgthumbnail'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs23t0/a042767cs23t0-thumbnail-80x60-at-70-percent.jpg']}, {u'y': [u'thumbnail 80x60 at 80 percent'], u'x': [u'jpgthumbnail'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs23t0/a042767cs23t0-thumbnail-80x60-at-80-percent.jpg']}, {u'y': [u'thumbnail 80x60 at 90 percent'], u'x': [u'jpgthumbnail'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs23t0/a042767cs23t0-thumbnail-80x60-at-90-percent.jpg']}]
+[{u'a': [u'Geneva'], u'c': [u'2001'], u'b': [u'CERN']}]
+100__
+[{u'a': [u'Brax, P']}]
+901__
+[{u'u': [u'CERN']}]
+003__
+[u'SzGeCERN']
 245__
-[{u'a': [u'SPEAR3 Commissioning']}]
-340__
-[{u'a': [u'Streaming video']}]
+[{u'a': [u"Supergravity description of non-Bogomol'nyi-Prasad-Sommerfield branes"]}]
+520__
+[{u'a': [u'We construct supergravity solutions that correspond to N Dp-branes coinciding with N D/sub p/-branes. We study the physical properties of the solutions and analyze the supergravity description of tachyon condensation. We construct an interpolation between the brane- antibrane solution and the Schwarzschild solution and discuss its possible application to the study of non-supersymmetric black holes. (37 refs).']}]
 65017
-[{u'a': [u'Conferences']}]
+[{u'a': [u'Particle Physics - Theory'], u'2': [u'SzGeCERN']}]
 005__
-[u'20130727220519.0']
+[u'20121219013417.0']
+916__
+[{u'y': [u'a2001'], u's': [u'h'], u'w': [u'200152']}]
 
 		================================================================================
 						-------- 6 --------
 		================================================================================
 
-518__
-[{u'd': [u'2004-07-08T09:00:00']}]
+695__
+[{u'9': [u'LANL EDS'], u'a': [u'High Energy Physics - Theory']}, {u'9': [u'INSPEC'], u'a': [u'cosmology']}, {u'9': [u'INSPEC'], u'a': [u'space-time-configurations']}, {u'9': [u'INSPEC'], u'a': [u'superstrings']}, {u'9': [u'INSPEC'], u'a': [u'membrane-theory']}, {u'9': [u'INSPEC'], u'a': [u'supersymmetry']}, {u'9': [u'INSPEC'], u'a': [u'unified-gauge-models']}]
+694__
+[{u'9': [u'INSPEC'], u'a': [u'A9880D (Theoretical cosmology)']}, {u'9': [u'INSPEC'], u'a': [u'A1117 (Theories of strings and other extended objects)']}, {u'9': [u'INSPEC'], u'a': [u'A1130P (Supersymmetry in particle physics)']}, {u'9': [u'INSPEC'], u'a': [u'A1210D (Unified models beyond the standard model)']}, {u'9': [u'INSPEC'], u'a': [u'A0240 (Geometry, differential geometry, and topology)']}, {u'9': [u'INSPEC'], u'a': [u'A1210 (Unified field theories and models)']}, {u'9': [u'INSPEC'], u'a': [u'A1110N (Gauge field theories)']}, {u'9': [u'INSPEC'], u'a': [u'A0450 (Unified field theories)']}]
+710__
+[{u'5': [u'TH']}]
 970__
-[{u'a': [u'INDICO.a042767cs22t0']}]
+[{u'a': [u'002242990CER']}]
+037__
+[{u'a': [u'hep-th/0102154']}]
 260__
-[{u'c': [u'2004']}]
-490__
-[{u'a': [u'Conferences']}, {u'a': [u'EPAC 2004']}]
+[{u'c': [u'2001']}]
+720__
+[{u'a': [u'Brax, Ph.']}]
 001__
-[u'1564925']
+[u'488693']
 300__
-[{u'a': [u'Streaming video'], u'b': [u'720x576 4/3, 25']}]
+[{u'a': [u'12 p']}]
+960__
+[{u'a': [u'13']}]
+773__
+[{u'y': [u'2001'], u'p': [u'Phys. Lett. B'], u'c': [u'362-8'], u'v': [u'506'], u'n': [u'3-4']}, {u'y': [u'2001'], u'p': [u'Phys. Lett. B'], u'c': [u'375-80'], u'v': [u'508'], u'n': [u'3-4']}]
+084__
+[{u'a': [u'TH-2001-049'], u'2': [u'CERN Library']}]
+961__
+[{u'h': [u'1209'], u'c': [u'20101108'], u'l': [u'CER01'], u'x': [u'20010223']}]
 0248_
-[{u'a': [u'oai:cds.cern.ch:1564925'], u'p': [u'cerncds:TALK']}]
-65027
-[{u'a': [u'Event']}]
-690C_
-[{u'a': [u'TALK']}, {u'a': [u'CERN']}]
-8564_
-[{u'y': [u'Talk details'], u'u': [u'http://indico.cern.ch/contributionDisplay.py?confId=a042767&contribId=s22t0']}, {u'y': [u'Event details'], u'u': [u'http://indico.cern.ch/conferenceDisplay.py?confId=a042767']}]
+[{u'a': [u'oai:cds.cern.ch:488693'], u'p': [u'cerncds:FULLTEXT', u'cerncds:hep-th', u'cerncds:CERN:FULLTEXT', u'cerncds:CERN']}]
+693__
+[{u'a': [u'Not applicable'], u'e': [u'Not applicable']}]
+035__
+[{u'9': [u'CERN annual report'], u'a': [u'2001-3.1344']}, {u'9': [u'INSPEC'], u'a': [u'6949256']}, {u'9': [u'INSPEC'], u'a': [u'6983196']}, {u'9': [u'SLAC'], u'a': [u'4574338']}, {u'9': [u'SPIRES'], u'a': [u'4574338']}]
 041__
 [{u'a': [u'eng']}]
 963__
 [{u'a': [u'PUBLIC']}]
-700__
-[{u'a': [u'Bge, Michael'], u'e': [u'speaker']}]
-110__
-[{u'a': [u'CERN. Geneva']}]
-111__
-[{u'a': [u'EPAC 2004'], u'9': [u'2004-07-08T09:00:00'], u'c': [u'Lucerne - '], u'z': [u'2004-07-08T09:30:00'], u'g': [u'a042767']}]
+595__
+[{u'a': [u'CERN-TH']}, {u'a': [u'LANL EDS']}, {u'a': [u'OA']}, {u'a': [u'SIS:2001 PR/LKR added']}, {u'a': [u'SIS INSP2001']}, {u'i': [u'6949256']}, {u'i': [u'6983196']}]
+088__
+[{u'a': [u'CERN-TH-2001-049']}, {u'a': [u'SACLAY-SPHT-T-2001-024']}]
+964__
+[{u'a': [u'0001']}]
 980__
-[{u'a': [u'Indico']}, {u'b': [u'TALK']}]
-961__
-[{u'x': [u'2004-06-21T00:00:00'], u'c': [u'2013-07-19T14:32:42']}]
-859__
-[{u'f': [u'alan.barr@cern.ch']}]
+[{u'a': [u'ARTICLE']}]
+690C_
+[{u'a': [u'ARTICLE']}, {u'a': [u'CERN']}]
+8564_
+[{u'y': [u'Access to fulltext document'], u'u': [u'http://documents.cern.ch/cgi-bin/setlink?base=preprint&categ=hep-th&id=0102154']}, {u'y': [u'Access to fulltext document'], u'u': [u'http://cds.cern.ch/record/488693/files/0102154.pdf']}, {u'y': [u'Access to fulltext document'], u'u': [u'http://cds.cern.ch/record/488693/files/0102154.ps.gz']}]
+100__
+[{u'a': [u'Brax, P'], u'u': [u'CERN']}]
 269__
-[{u'c': [u'2004-07-08']}]
-8567_
-[{u'x': [u'Absolute master path'], u'2': [u'MediaArchive'], u'd': [u'\\\\cern.ch\\dfs\\Services\\MediaArchive\\Video\\Masters\\Conferences\\2004\\a042767cs22t0.mpg']}, {u'y': [u'0480 kbps 384x288 25 fps audio 128 kbps 48 kHz stereo'], u'x': [u'wmv0480'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs22t0/a042767cs22t0-0480-kbps-384x288-25-fps-audio-128-kbps-48-kHz-stereo.wmv']}, {u'y': [u'0600 kbps maxH 360 25 fps audio 128 kbps 48 kHz stereo'], u'x': [u'mp40600'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs22t0/a042767cs22t0-0600-kbps-maxH-360-25-fps-audio-128-kbps-48-kHz-stereo.mp4']}, {u'y': [u'0753 kbps 480x360 25 fps audio 64 kbps 44 kHz stereo'], u'x': [u'flv0753'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs22t0/a042767cs22t0-0753-kbps-480x360-25-fps-audio-64-kbps-44-kHz-stereo.flv']}, {u'y': [u'posterframe 480x360 at 0 percent'], u'x': [u'jpgposterframe'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs22t0/a042767cs22t0-posterframe-480x360-at-0-percent.jpg']}, {u'y': [u'posterframe 480x360 at 10 percent'], u'x': [u'jpgposterframe'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs22t0/a042767cs22t0-posterframe-480x360-at-10-percent.jpg']}, {u'y': [u'posterframe 480x360 at 20 percent'], u'x': [u'jpgposterframe'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs22t0/a042767cs22t0-posterframe-480x360-at-20-percent.jpg']}, {u'y': [u'posterframe 480x360 at 30 percent'], u'x': [u'jpgposterframe'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs22t0/a042767cs22t0-posterframe-480x360-at-30-percent.jpg']}, {u'y': [u'posterframe 480x360 at 40 percent'], u'x': [u'jpgposterframe'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs22t0/a042767cs22t0-posterframe-480x360-at-40-percent.jpg']}, {u'y': [u'posterframe 480x360 at 50 percent'], u'x': [u'jpgposterframe'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs22t0/a042767cs22t0-posterframe-480x360-at-50-percent.jpg']}, {u'y': [u'posterframe 480x360 at 60 percent'], u'x': [u'jpgposterframe'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs22t0/a042767cs22t0-posterframe-480x360-at-60-percent.jpg']}, {u'y': [u'posterframe 480x360 at 70 percent'], u'x': [u'jpgposterframe'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs22t0/a042767cs22t0-posterframe-480x360-at-70-percent.jpg']}, {u'y': [u'posterframe 480x360 at 80 percent'], u'x': [u'jpgposterframe'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs22t0/a042767cs22t0-posterframe-480x360-at-80-percent.jpg']}, {u'y': [u'posterframe 480x360 at 90 percent'], u'x': [u'jpgposterframe'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs22t0/a042767cs22t0-posterframe-480x360-at-90-percent.jpg']}, {u'y': [u'thumbnail 180x135 at 05 percent'], u'x': [u'jpgthumbnail'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs22t0/a042767cs22t0-thumbnail-180x135-at-05-percent.jpg']}, {u'y': [u'thumbnail 80x60 at 10 percent'], u'x': [u'jpgthumbnail'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs22t0/a042767cs22t0-thumbnail-80x60-at-10-percent.jpg']}, {u'y': [u'thumbnail 80x60 at 20 percent'], u'x': [u'jpgthumbnail'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs22t0/a042767cs22t0-thumbnail-80x60-at-20-percent.jpg']}, {u'y': [u'thumbnail 80x60 at 30 percent'], u'x': [u'jpgthumbnail'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs22t0/a042767cs22t0-thumbnail-80x60-at-30-percent.jpg']}, {u'y': [u'thumbnail 80x60 at 40 percent'], u'x': [u'jpgthumbnail'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs22t0/a042767cs22t0-thumbnail-80x60-at-40-percent.jpg']}, {u'y': [u'thumbnail 80x60 at 50 percent'], u'x': [u'jpgthumbnail'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs22t0/a042767cs22t0-thumbnail-80x60-at-50-percent.jpg']}, {u'y': [u'thumbnail 80x60 at 60 percent'], u'x': [u'jpgthumbnail'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs22t0/a042767cs22t0-thumbnail-80x60-at-60-percent.jpg']}, {u'y': [u'thumbnail 80x60 at 70 percent'], u'x': [u'jpgthumbnail'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs22t0/a042767cs22t0-thumbnail-80x60-at-70-percent.jpg']}, {u'y': [u'thumbnail 80x60 at 80 percent'], u'x': [u'jpgthumbnail'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs22t0/a042767cs22t0-thumbnail-80x60-at-80-percent.jpg']}, {u'y': [u'thumbnail 80x60 at 90 percent'], u'x': [u'jpgthumbnail'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs22t0/a042767cs22t0-thumbnail-80x60-at-90-percent.jpg']}]
+[{u'a': [u'Geneva'], u'c': [u'22 Feb 2001'], u'b': [u'CERN']}]
+859__
+[{u'f': [u'Philippe.Brax@cern.ch']}]
+003__
+[u'SzGeCERN']
 245__
-[{u'a': [u'Achieving Sub-micron Stability in Light Sources']}]
-340__
-[{u'a': [u'Streaming video']}]
+[{u'a': [u'Non-BPS Instability in Heterotic M-theory']}]
+520__
+[{u'a': [u'We study the warped geometry of heterotic M-Theory in five dimensions where five-branes are included in the bulk. Five-branes wrapping holomorphic curves lead to BPS configurations where the junction conditions are automatically satisfied. We consider five-branes wrapped around non-supersymmetric cycles and show that the configuration is unstable. We describe explicitly the resulting time-dependent geometry where the bulk five-branes move towards the Horova-Witten boundary walls. The five-branes collide with the boundary walls in a finite time resulting in the restoration of supersymmetry.']}]
 65017
-[{u'a': [u'Conferences']}]
+[{u'a': [u'Particle Physics - Theory'], u'2': [u'SzGeCERN']}]
 005__
-[u'20130727220519.0']
+[u'20121219010731.0']
+916__
+[{u'y': [u'a2001'], u's': [u'n'], u'w': [u'200108']}]
 
 		================================================================================
 						-------- 7 --------
 		================================================================================
 
-518__
-[{u'd': [u'2004-07-07T14:00:00']}]
 970__
-[{u'a': [u'INDICO.a042767cs21t4']}]
-260__
-[{u'c': [u'2004']}]
-490__
-[{u'a': [u'Conferences']}, {u'a': [u'EPAC 2004']}]
-001__
-[u'1564923']
-300__
-[{u'a': [u'Streaming video'], u'b': [u'720x576 4/3, 25']}]
-0248_
-[{u'a': [u'oai:cds.cern.ch:1564923'], u'p': [u'cerncds:TALK']}]
-65027
-[{u'a': [u'Event']}]
-690C_
-[{u'a': [u'TALK']}, {u'a': [u'CERN']}]
+[{u'a': [u'000287941CER']}]
 8564_
-[{u'y': [u'Talk details'], u'u': [u'http://indico.cern.ch/contributionDisplay.py?confId=a042767&contribId=s21t4']}, {u'y': [u'Event details'], u'u': [u'http://indico.cern.ch/conferenceDisplay.py?confId=a042767']}]
+[{u'y': [u'Access to fulltext document'], u'u': [u'http://preprints.cern.ch/cgi-bin/setlink?base=preprint&categ=hep-th&id=9808141']}, {u'y': [u'Access to fulltext document'], u'u': [u'http://cds.cern.ch/record/363038/files/9808141.pdf']}]
+037__
+[{u'a': [u'hep-th/9808141']}]
+260__
+[{u'c': [u'1998']}]
+720__
+[{u'a': [u'Sen, Ashoke']}]
+001__
+[u'363038']
+300__
+[{u'a': [u'31 p']}]
+960__
+[{u'a': [u'13']}]
+773__
+[{u'y': [u'1998'], u'p': [u'J. High Energy Phys.'], u'c': [u'023'], u'v': [u'09']}]
+961__
+[{u'h': [u'0826'], u'c': [u'20100426'], u'l': [u'CER01'], u'x': [u'19980825']}]
+0248_
+[{u'a': [u'oai:cds.cern.ch:363038'], u'p': [u'cerncds:FULLTEXT']}]
+035__
+[{u'a': [u'0287941CERCER']}, {u'9': [u'SLAC'], u'a': [u'3828905']}, {u'9': [u'SPIRES'], u'a': [u'3828905']}]
 041__
 [{u'a': [u'eng']}]
 963__
 [{u'a': [u'PUBLIC']}]
-700__
-[{u'a': [u'Proch, Dieter'], u'e': [u'speaker']}]
-110__
-[{u'a': [u'CERN. Geneva']}]
-111__
-[{u'a': [u'EPAC 2004'], u'9': [u'2004-07-07T14:00:00'], u'c': [u'Lucerne - '], u'z': [u'2004-07-07T14:30:00'], u'g': [u'a042767']}]
+595__
+[{u'a': [u'LANL EDS']}, {u'a': [u'SIS:2003 PR/LKR added']}]
+088__
+[{u'a': [u'MRI-PHY-98-858']}]
 980__
-[{u'a': [u'Indico']}, {u'b': [u'TALK']}]
-961__
-[{u'x': [u'2004-06-21T00:00:00'], u'c': [u'2013-07-19T14:32:42']}]
+[{u'a': [u'ARTICLE']}]
+690C_
+[{u'a': [u'ARTICLE']}]
 859__
-[{u'f': [u'alan.barr@cern.ch']}]
+[{u'f': [u'Ashoke.Sen@cern.ch']}]
+100__
+[{u'a': [u'Sen, A']}]
 269__
-[{u'c': [u'2004-07-07']}]
-8567_
-[{u'x': [u'Absolute master path'], u'2': [u'MediaArchive'], u'd': [u'\\\\cern.ch\\dfs\\Services\\MediaArchive\\Video\\Masters\\Conferences\\2004\\a042767cs21t4.mpg']}, {u'y': [u'0480 kbps 384x288 25 fps audio 128 kbps 48 kHz stereo'], u'x': [u'wmv0480'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t4/a042767cs21t4-0480-kbps-384x288-25-fps-audio-128-kbps-48-kHz-stereo.wmv']}, {u'y': [u'0600 kbps maxH 360 25 fps audio 128 kbps 48 kHz stereo'], u'x': [u'mp40600'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t4/a042767cs21t4-0600-kbps-maxH-360-25-fps-audio-128-kbps-48-kHz-stereo.mp4']}, {u'y': [u'0753 kbps 480x360 25 fps audio 64 kbps 44 kHz stereo'], u'x': [u'flv0753'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t4/a042767cs21t4-0753-kbps-480x360-25-fps-audio-64-kbps-44-kHz-stereo.flv']}, {u'y': [u'posterframe 480x360 at 0 percent'], u'x': [u'jpgposterframe'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t4/a042767cs21t4-posterframe-480x360-at-0-percent.jpg']}, {u'y': [u'posterframe 480x360 at 10 percent'], u'x': [u'jpgposterframe'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t4/a042767cs21t4-posterframe-480x360-at-10-percent.jpg']}, {u'y': [u'posterframe 480x360 at 20 percent'], u'x': [u'jpgposterframe'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t4/a042767cs21t4-posterframe-480x360-at-20-percent.jpg']}, {u'y': [u'posterframe 480x360 at 30 percent'], u'x': [u'jpgposterframe'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t4/a042767cs21t4-posterframe-480x360-at-30-percent.jpg']}, {u'y': [u'posterframe 480x360 at 40 percent'], u'x': [u'jpgposterframe'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t4/a042767cs21t4-posterframe-480x360-at-40-percent.jpg']}, {u'y': [u'posterframe 480x360 at 50 percent'], u'x': [u'jpgposterframe'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t4/a042767cs21t4-posterframe-480x360-at-50-percent.jpg']}, {u'y': [u'posterframe 480x360 at 60 percent'], u'x': [u'jpgposterframe'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t4/a042767cs21t4-posterframe-480x360-at-60-percent.jpg']}, {u'y': [u'posterframe 480x360 at 70 percent'], u'x': [u'jpgposterframe'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t4/a042767cs21t4-posterframe-480x360-at-70-percent.jpg']}, {u'y': [u'posterframe 480x360 at 80 percent'], u'x': [u'jpgposterframe'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t4/a042767cs21t4-posterframe-480x360-at-80-percent.jpg']}, {u'y': [u'posterframe 480x360 at 90 percent'], u'x': [u'jpgposterframe'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t4/a042767cs21t4-posterframe-480x360-at-90-percent.jpg']}, {u'y': [u'thumbnail 180x135 at 05 percent'], u'x': [u'jpgthumbnail'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t4/a042767cs21t4-thumbnail-180x135-at-05-percent.jpg']}, {u'y': [u'thumbnail 80x60 at 10 percent'], u'x': [u'jpgthumbnail'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t4/a042767cs21t4-thumbnail-80x60-at-10-percent.jpg']}, {u'y': [u'thumbnail 80x60 at 20 percent'], u'x': [u'jpgthumbnail'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t4/a042767cs21t4-thumbnail-80x60-at-20-percent.jpg']}, {u'y': [u'thumbnail 80x60 at 30 percent'], u'x': [u'jpgthumbnail'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t4/a042767cs21t4-thumbnail-80x60-at-30-percent.jpg']}, {u'y': [u'thumbnail 80x60 at 40 percent'], u'x': [u'jpgthumbnail'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t4/a042767cs21t4-thumbnail-80x60-at-40-percent.jpg']}, {u'y': [u'thumbnail 80x60 at 50 percent'], u'x': [u'jpgthumbnail'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t4/a042767cs21t4-thumbnail-80x60-at-50-percent.jpg']}, {u'y': [u'thumbnail 80x60 at 60 percent'], u'x': [u'jpgthumbnail'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t4/a042767cs21t4-thumbnail-80x60-at-60-percent.jpg']}, {u'y': [u'thumbnail 80x60 at 70 percent'], u'x': [u'jpgthumbnail'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t4/a042767cs21t4-thumbnail-80x60-at-70-percent.jpg']}, {u'y': [u'thumbnail 80x60 at 80 percent'], u'x': [u'jpgthumbnail'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t4/a042767cs21t4-thumbnail-80x60-at-80-percent.jpg']}, {u'y': [u'thumbnail 80x60 at 90 percent'], u'x': [u'jpgthumbnail'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t4/a042767cs21t4-thumbnail-80x60-at-90-percent.jpg']}]
+[{u'a': [u'Allahabad'], u'c': [u'25 Aug 1998'], u'b': [u'Meta Res. Inst.']}]
+003__
+[u'SzGeCERN']
 245__
-[{u'a': [u'Industrial Involvement in EC Supported Accelerator R&D in the 6th Framework Programme and in Preparing Large Scale Accelerator Projects']}]
-340__
-[{u'a': [u'Streaming video']}]
+[{u'a': [u'SO(32) Spinors of Type I and Other Solitons on Brane-Antibrane Pair']}]
+520__
+[{u'a': [u'We construct the SO(32) spinor state in weakly coupled type I string theory as a kink solution of the tachyon field on the D-string - anti-D-string pair and calculate its mass. We also give a description of this system in terms of an exact boundary conformal field theory and show that in this description this state can be regarded as a non-supersymmetric D0-brane in type I string theory. This construction can be generalised to represent the D0-brane in type IIA string theory as a vortex solution of the tachyon field on the membrane anti-membrane pair, and the D-string of type I string theory as a topological soliton of the tachyon field on the D5-brane anti- D5-brane pair.']}]
 65017
-[{u'a': [u'Conferences']}]
+[{u'a': [u'Particle Physics - Theory'], u'2': [u'SzGeCERN']}]
 005__
-[u'20130727220519.0']
+[u'20121218221522.0']
+916__
+[{u's': [u'n'], u'w': [u'199835']}]
 
 		================================================================================
 						-------- 8 --------
 		================================================================================
 
-518__
-[{u'd': [u'2004-07-07T15:30:00']}]
 970__
-[{u'a': [u'INDICO.a042767cs21t3']}]
+[{u'a': [u'000254660CER']}]
+037__
+[{u'a': [u'hep-th/9707244']}]
 260__
-[{u'c': [u'2004']}]
-490__
-[{u'a': [u'Conferences']}, {u'a': [u'EPAC 2004']}]
+[{u'c': [u'1998']}]
+720__
+[{u'a': [u'Hanany, Amihay']}, {u'a': [u'Strassler, Matthew J.']}, {u'a': [u'Zaffaroni, Alberto']}]
 001__
-[u'1564921']
+[u'331153']
 300__
-[{u'a': [u'Streaming video'], u'b': [u'720x576 4/3, 25']}]
+[{u'a': [u'39 p']}]
+960__
+[{u'a': [u'13']}]
+773__
+[{u'y': [u'1998'], u'p': [u'Nucl. Phys. B'], u'c': [u'87-118'], u'v': [u'513']}]
+961__
+[{u'h': [u'0832'], u'c': [u'20100426'], u'l': [u'CER01'], u'x': [u'19970731']}]
 0248_
-[{u'a': [u'oai:cds.cern.ch:1564921'], u'p': [u'cerncds:TALK']}]
-65027
-[{u'a': [u'Event']}]
-690C_
-[{u'a': [u'TALK']}, {u'a': [u'CERN']}]
-8564_
-[{u'y': [u'Talk details'], u'u': [u'http://indico.cern.ch/contributionDisplay.py?confId=a042767&contribId=s21t3']}, {u'y': [u'Event details'], u'u': [u'http://indico.cern.ch/conferenceDisplay.py?confId=a042767']}]
+[{u'a': [u'oai:cds.cern.ch:331153'], u'p': [u'cerncds:FULLTEXT']}]
+035__
+[{u'a': [u'0254660CERCER']}, {u'9': [u'SLAC'], u'a': [u'3601846']}, {u'9': [u'SPIRES'], u'a': [u'3601846']}]
 041__
 [{u'a': [u'eng']}]
 963__
 [{u'a': [u'PUBLIC']}]
+595__
+[{u'a': [u'SIS LANLPUBL2001']}, {u'a': [u'LANL EDS']}, {u'a': [u'SIS:2001 PR/LKR added']}]
+088__
+[{u'a': [u'IASSNS-HEP-97-91']}]
 700__
-[{u'a': [u'de Jong, Mark'], u'e': [u'speaker']}]
-110__
-[{u'a': [u'CERN. Geneva']}]
-111__
-[{u'a': [u'EPAC 2004'], u'9': [u'2004-07-07T15:30:00'], u'c': [u'Lucerne - '], u'z': [u'2004-07-07T15:50:00'], u'g': [u'a042767']}]
+[{u'a': [u'Strassler, M J']}, {u'a': [u'Zaffaroni, A']}]
+964__
+[{u'a': [u'0001']}]
 980__
-[{u'a': [u'Indico']}, {u'b': [u'TALK']}]
-961__
-[{u'x': [u'2004-06-21T00:00:00'], u'c': [u'2013-07-19T14:32:42']}]
-859__
-[{u'f': [u'alan.barr@cern.ch']}]
-269__
-[{u'c': [u'2004-07-07']}]
-8567_
-[{u'x': [u'Absolute master path'], u'2': [u'MediaArchive'], u'd': [u'\\\\cern.ch\\dfs\\Services\\MediaArchive\\Video\\Masters\\Conferences\\2004\\a042767cs21t3.mpg']}, {u'y': [u'0480 kbps 384x288 25 fps audio 128 kbps 48 kHz stereo'], u'x': [u'wmv0480'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t3/a042767cs21t3-0480-kbps-384x288-25-fps-audio-128-kbps-48-kHz-stereo.wmv']}, {u'y': [u'0600 kbps maxH 360 25 fps audio 128 kbps 48 kHz stereo'], u'x': [u'mp40600'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t3/a042767cs21t3-0600-kbps-maxH-360-25-fps-audio-128-kbps-48-kHz-stereo.mp4']}, {u'y': [u'0753 kbps 480x360 25 fps audio 64 kbps 44 kHz stereo'], u'x': [u'flv0753'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t3/a042767cs21t3-0753-kbps-480x360-25-fps-audio-64-kbps-44-kHz-stereo.flv']}, {u'y': [u'posterframe 480x360 at 0 percent'], u'x': [u'jpgposterframe'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t3/a042767cs21t3-posterframe-480x360-at-0-percent.jpg']}, {u'y': [u'posterframe 480x360 at 10 percent'], u'x': [u'jpgposterframe'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t3/a042767cs21t3-posterframe-480x360-at-10-percent.jpg']}, {u'y': [u'posterframe 480x360 at 20 percent'], u'x': [u'jpgposterframe'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t3/a042767cs21t3-posterframe-480x360-at-20-percent.jpg']}, {u'y': [u'posterframe 480x360 at 30 percent'], u'x': [u'jpgposterframe'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t3/a042767cs21t3-posterframe-480x360-at-30-percent.jpg']}, {u'y': [u'posterframe 480x360 at 40 percent'], u'x': [u'jpgposterframe'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t3/a042767cs21t3-posterframe-480x360-at-40-percent.jpg']}, {u'y': [u'posterframe 480x360 at 50 percent'], u'x': [u'jpgposterframe'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t3/a042767cs21t3-posterframe-480x360-at-50-percent.jpg']}, {u'y': [u'posterframe 480x360 at 60 percent'], u'x': [u'jpgposterframe'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t3/a042767cs21t3-posterframe-480x360-at-60-percent.jpg']}, {u'y': [u'posterframe 480x360 at 70 percent'], u'x': [u'jpgposterframe'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t3/a042767cs21t3-posterframe-480x360-at-70-percent.jpg']}, {u'y': [u'posterframe 480x360 at 80 percent'], u'x': [u'jpgposterframe'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t3/a042767cs21t3-posterframe-480x360-at-80-percent.jpg']}, {u'y': [u'posterframe 480x360 at 90 percent'], u'x': [u'jpgposterframe'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t3/a042767cs21t3-posterframe-480x360-at-90-percent.jpg']}, {u'y': [u'thumbnail 180x135 at 05 percent'], u'x': [u'jpgthumbnail'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t3/a042767cs21t3-thumbnail-180x135-at-05-percent.jpg']}, {u'y': [u'thumbnail 80x60 at 10 percent'], u'x': [u'jpgthumbnail'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t3/a042767cs21t3-thumbnail-80x60-at-10-percent.jpg']}, {u'y': [u'thumbnail 80x60 at 20 percent'], u'x': [u'jpgthumbnail'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t3/a042767cs21t3-thumbnail-80x60-at-20-percent.jpg']}, {u'y': [u'thumbnail 80x60 at 30 percent'], u'x': [u'jpgthumbnail'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t3/a042767cs21t3-thumbnail-80x60-at-30-percent.jpg']}, {u'y': [u'thumbnail 80x60 at 40 percent'], u'x': [u'jpgthumbnail'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t3/a042767cs21t3-thumbnail-80x60-at-40-percent.jpg']}, {u'y': [u'thumbnail 80x60 at 50 percent'], u'x': [u'jpgthumbnail'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t3/a042767cs21t3-thumbnail-80x60-at-50-percent.jpg']}, {u'y': [u'thumbnail 80x60 at 60 percent'], u'x': [u'jpgthumbnail'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t3/a042767cs21t3-thumbnail-80x60-at-60-percent.jpg']}, {u'y': [u'thumbnail 80x60 at 70 percent'], u'x': [u'jpgthumbnail'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t3/a042767cs21t3-thumbnail-80x60-at-70-percent.jpg']}, {u'y': [u'thumbnail 80x60 at 80 percent'], u'x': [u'jpgthumbnail'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t3/a042767cs21t3-thumbnail-80x60-at-80-percent.jpg']}, {u'y': [u'thumbnail 80x60 at 90 percent'], u'x': [u'jpgthumbnail'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t3/a042767cs21t3-thumbnail-80x60-at-90-percent.jpg']}]
-245__
-[{u'a': [u'Industrial Involvement in the Construction of Synchrotron Light Sources']}]
-340__
-[{u'a': [u'Streaming video']}]
-65017
-[{u'a': [u'Conferences']}]
-005__
-[u'20130727220519.0']
-
-		================================================================================
-						-------- 9 --------
-		================================================================================
-
-518__
-[{u'd': [u'2004-07-07T15:10:00']}]
-970__
-[{u'a': [u'INDICO.a042767cs21t2']}]
-260__
-[{u'c': [u'2004']}]
-490__
-[{u'a': [u'Conferences']}, {u'a': [u'EPAC 2004']}]
-001__
-[u'1564920']
-300__
-[{u'a': [u'Streaming video'], u'b': [u'720x576 4/3, 25']}]
-0248_
-[{u'a': [u'oai:cds.cern.ch:1564920'], u'p': [u'cerncds:TALK']}]
-65027
-[{u'a': [u'Event']}]
+[{u'a': [u'ARTICLE']}]
 690C_
-[{u'a': [u'TALK']}, {u'a': [u'CERN']}]
+[{u'a': [u'ARTICLE']}]
 8564_
-[{u'y': [u'Talk details'], u'u': [u'http://indico.cern.ch/contributionDisplay.py?confId=a042767&contribId=s21t2']}, {u'y': [u'Event details'], u'u': [u'http://indico.cern.ch/conferenceDisplay.py?confId=a042767']}]
-041__
-[{u'a': [u'eng']}]
-963__
-[{u'a': [u'PUBLIC']}]
-700__
-[{u'a': [u'Wilcox, David'], u'e': [u'speaker']}]
-110__
-[{u'a': [u'CERN. Geneva']}]
-111__
-[{u'a': [u'EPAC 2004'], u'9': [u'2004-07-07T15:10:00'], u'c': [u'Lucerne - '], u'z': [u'2004-07-07T15:30:00'], u'g': [u'a042767']}]
-980__
-[{u'a': [u'Indico']}, {u'b': [u'TALK']}]
-961__
-[{u'x': [u'2004-06-21T00:00:00'], u'c': [u'2013-07-19T14:32:42']}]
+[{u'y': [u'Access to fulltext document'], u'u': [u'http://preprints.cern.ch/cgi-bin/setlink?base=preprint&categ=hep-th&id=9707244']}, {u'y': [u'Access to fulltext document'], u'u': [u'http://cds.cern.ch/record/331153/files/9707244.pdf']}]
+100__
+[{u'a': [u'Hanany, A']}]
 859__
-[{u'f': [u'alan.barr@cern.ch']}]
+[{u'f': [u'strasslr@ias.edu']}]
 269__
-[{u'c': [u'2004-07-07']}]
-8567_
-[{u'x': [u'Absolute master path'], u'2': [u'MediaArchive'], u'd': [u'\\\\cern.ch\\dfs\\Services\\MediaArchive\\Video\\Masters\\Conferences\\2004\\a042767cs21t2.mpg']}, {u'y': [u'0480 kbps 384x288 25 fps audio 128 kbps 48 kHz stereo'], u'x': [u'wmv0480'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t2/a042767cs21t2-0480-kbps-384x288-25-fps-audio-128-kbps-48-kHz-stereo.wmv']}, {u'y': [u'0600 kbps maxH 360 25 fps audio 128 kbps 48 kHz stereo'], u'x': [u'mp40600'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t2/a042767cs21t2-0600-kbps-maxH-360-25-fps-audio-128-kbps-48-kHz-stereo.mp4']}, {u'y': [u'0753 kbps 480x360 25 fps audio 64 kbps 44 kHz stereo'], u'x': [u'flv0753'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t2/a042767cs21t2-0753-kbps-480x360-25-fps-audio-64-kbps-44-kHz-stereo.flv']}, {u'y': [u'posterframe 480x360 at 0 percent'], u'x': [u'jpgposterframe'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t2/a042767cs21t2-posterframe-480x360-at-0-percent.jpg']}, {u'y': [u'posterframe 480x360 at 10 percent'], u'x': [u'jpgposterframe'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t2/a042767cs21t2-posterframe-480x360-at-10-percent.jpg']}, {u'y': [u'posterframe 480x360 at 20 percent'], u'x': [u'jpgposterframe'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t2/a042767cs21t2-posterframe-480x360-at-20-percent.jpg']}, {u'y': [u'posterframe 480x360 at 30 percent'], u'x': [u'jpgposterframe'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t2/a042767cs21t2-posterframe-480x360-at-30-percent.jpg']}, {u'y': [u'posterframe 480x360 at 40 percent'], u'x': [u'jpgposterframe'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t2/a042767cs21t2-posterframe-480x360-at-40-percent.jpg']}, {u'y': [u'posterframe 480x360 at 50 percent'], u'x': [u'jpgposterframe'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t2/a042767cs21t2-posterframe-480x360-at-50-percent.jpg']}, {u'y': [u'posterframe 480x360 at 60 percent'], u'x': [u'jpgposterframe'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t2/a042767cs21t2-posterframe-480x360-at-60-percent.jpg']}, {u'y': [u'posterframe 480x360 at 70 percent'], u'x': [u'jpgposterframe'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t2/a042767cs21t2-posterframe-480x360-at-70-percent.jpg']}, {u'y': [u'posterframe 480x360 at 80 percent'], u'x': [u'jpgposterframe'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t2/a042767cs21t2-posterframe-480x360-at-80-percent.jpg']}, {u'y': [u'posterframe 480x360 at 90 percent'], u'x': [u'jpgposterframe'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t2/a042767cs21t2-posterframe-480x360-at-90-percent.jpg']}, {u'y': [u'thumbnail 180x135 at 05 percent'], u'x': [u'jpgthumbnail'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t2/a042767cs21t2-thumbnail-180x135-at-05-percent.jpg']}, {u'y': [u'thumbnail 80x60 at 10 percent'], u'x': [u'jpgthumbnail'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t2/a042767cs21t2-thumbnail-80x60-at-10-percent.jpg']}, {u'y': [u'thumbnail 80x60 at 20 percent'], u'x': [u'jpgthumbnail'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t2/a042767cs21t2-thumbnail-80x60-at-20-percent.jpg']}, {u'y': [u'thumbnail 80x60 at 30 percent'], u'x': [u'jpgthumbnail'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t2/a042767cs21t2-thumbnail-80x60-at-30-percent.jpg']}, {u'y': [u'thumbnail 80x60 at 40 percent'], u'x': [u'jpgthumbnail'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t2/a042767cs21t2-thumbnail-80x60-at-40-percent.jpg']}, {u'y': [u'thumbnail 80x60 at 50 percent'], u'x': [u'jpgthumbnail'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t2/a042767cs21t2-thumbnail-80x60-at-50-percent.jpg']}, {u'y': [u'thumbnail 80x60 at 60 percent'], u'x': [u'jpgthumbnail'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t2/a042767cs21t2-thumbnail-80x60-at-60-percent.jpg']}, {u'y': [u'thumbnail 80x60 at 70 percent'], u'x': [u'jpgthumbnail'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t2/a042767cs21t2-thumbnail-80x60-at-70-percent.jpg']}, {u'y': [u'thumbnail 80x60 at 80 percent'], u'x': [u'jpgthumbnail'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t2/a042767cs21t2-thumbnail-80x60-at-80-percent.jpg']}, {u'y': [u'thumbnail 80x60 at 90 percent'], u'x': [u'jpgthumbnail'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t2/a042767cs21t2-thumbnail-80x60-at-90-percent.jpg']}]
+[{u'a': [u'Princeton, NJ'], u'c': [u'31 Jul 1997'], u'b': [u'Princeton Univ. Inst. Adv. Stud.']}]
+003__
+[u'SzGeCERN']
 245__
-[{u'a': [u'Industrial Response to RF Power Requirements']}]
-340__
-[{u'a': [u'Streaming video']}]
+[{u'a': [u'Confinement and Strings in MQCD']}]
+520__
+[{u'a': [u'We study aspects of confinement in the M theory fivebrane version of QCD (MQCD). We show heavy quarks are confined in hadrons (which take the form of membrane-fivebrane bound states) for N=1 and softly broken N=2 SU(Nc) MQCD. We explore and clarify the transition from the exotic physics of the latter to the standard physics of the former. In particular, the many strings and quark-antiquark mesons found in N=2 field theory by Douglas and Shenker are reproduced. It is seen that in the N=1 limit all but one such meson disappears while all of the strings survive. The strings of softly broken N=2, N=1, and even non-supersymmetric SU(Nc) MQCD have a common ratio for their tensions as a function of the amount of flux they carry. We also comment on the almost BPS properties of the Douglas-Shenker strings and discuss the brane picture for monopole confinement on N=2 QCD Higgs branches.']}]
 65017
-[{u'a': [u'Conferences']}]
+[{u'a': [u'Particle Physics - Theory'], u'2': [u'SzGeCERN']}]
 005__
-[u'20130727220519.0']
-
-		================================================================================
-						-------- 10 --------
-		================================================================================
-
-518__
-[{u'd': [u'2004-07-07T14:50:00']}]
-970__
-[{u'a': [u'INDICO.a042767cs21t1']}]
-260__
-[{u'c': [u'2004']}]
-490__
-[{u'a': [u'Conferences']}, {u'a': [u'EPAC 2004']}]
-001__
-[u'1564919']
-300__
-[{u'a': [u'Streaming video'], u'b': [u'720x576 4/3, 25']}]
-0248_
-[{u'a': [u'oai:cds.cern.ch:1564919'], u'p': [u'cerncds:TALK']}]
-65027
-[{u'a': [u'Event']}]
-690C_
-[{u'a': [u'TALK']}, {u'a': [u'CERN']}]
-8564_
-[{u'y': [u'Talk details'], u'u': [u'http://indico.cern.ch/contributionDisplay.py?confId=a042767&contribId=s21t1']}, {u'y': [u'Event details'], u'u': [u'http://indico.cern.ch/conferenceDisplay.py?confId=a042767']}]
-041__
-[{u'a': [u'eng']}]
-963__
-[{u'a': [u'PUBLIC']}]
-700__
-[{u'a': [u'Ursic, Rok'], u'e': [u'speaker']}]
-110__
-[{u'a': [u'CERN. Geneva']}]
-111__
-[{u'a': [u'EPAC 2004'], u'9': [u'2004-07-07T14:50:00'], u'c': [u'Lucerne - '], u'z': [u'2004-07-07T15:10:00'], u'g': [u'a042767']}]
-980__
-[{u'a': [u'Indico']}, {u'b': [u'TALK']}]
-961__
-[{u'x': [u'2004-06-21T00:00:00'], u'c': [u'2013-07-19T14:32:42']}]
-859__
-[{u'f': [u'alan.barr@cern.ch']}]
-269__
-[{u'c': [u'2004-07-07']}]
-8567_
-[{u'x': [u'Absolute master path'], u'2': [u'MediaArchive'], u'd': [u'\\\\cern.ch\\dfs\\Services\\MediaArchive\\Video\\Masters\\Conferences\\2004\\a042767cs21t1.mpg']}, {u'y': [u'0480 kbps 384x288 25 fps audio 128 kbps 48 kHz stereo'], u'x': [u'wmv0480'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t1/a042767cs21t1-0480-kbps-384x288-25-fps-audio-128-kbps-48-kHz-stereo.wmv']}, {u'y': [u'0600 kbps maxH 360 25 fps audio 128 kbps 48 kHz stereo'], u'x': [u'mp40600'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t1/a042767cs21t1-0600-kbps-maxH-360-25-fps-audio-128-kbps-48-kHz-stereo.mp4']}, {u'y': [u'0753 kbps 480x360 25 fps audio 64 kbps 44 kHz stereo'], u'x': [u'flv0753'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t1/a042767cs21t1-0753-kbps-480x360-25-fps-audio-64-kbps-44-kHz-stereo.flv']}, {u'y': [u'posterframe 480x360 at 0 percent'], u'x': [u'jpgposterframe'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t1/a042767cs21t1-posterframe-480x360-at-0-percent.jpg']}, {u'y': [u'posterframe 480x360 at 10 percent'], u'x': [u'jpgposterframe'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t1/a042767cs21t1-posterframe-480x360-at-10-percent.jpg']}, {u'y': [u'posterframe 480x360 at 20 percent'], u'x': [u'jpgposterframe'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t1/a042767cs21t1-posterframe-480x360-at-20-percent.jpg']}, {u'y': [u'posterframe 480x360 at 30 percent'], u'x': [u'jpgposterframe'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t1/a042767cs21t1-posterframe-480x360-at-30-percent.jpg']}, {u'y': [u'posterframe 480x360 at 40 percent'], u'x': [u'jpgposterframe'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t1/a042767cs21t1-posterframe-480x360-at-40-percent.jpg']}, {u'y': [u'posterframe 480x360 at 50 percent'], u'x': [u'jpgposterframe'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t1/a042767cs21t1-posterframe-480x360-at-50-percent.jpg']}, {u'y': [u'posterframe 480x360 at 60 percent'], u'x': [u'jpgposterframe'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t1/a042767cs21t1-posterframe-480x360-at-60-percent.jpg']}, {u'y': [u'posterframe 480x360 at 70 percent'], u'x': [u'jpgposterframe'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t1/a042767cs21t1-posterframe-480x360-at-70-percent.jpg']}, {u'y': [u'posterframe 480x360 at 80 percent'], u'x': [u'jpgposterframe'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t1/a042767cs21t1-posterframe-480x360-at-80-percent.jpg']}, {u'y': [u'posterframe 480x360 at 90 percent'], u'x': [u'jpgposterframe'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t1/a042767cs21t1-posterframe-480x360-at-90-percent.jpg']}, {u'y': [u'thumbnail 180x135 at 05 percent'], u'x': [u'jpgthumbnail'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t1/a042767cs21t1-thumbnail-180x135-at-05-percent.jpg']}, {u'y': [u'thumbnail 80x60 at 10 percent'], u'x': [u'jpgthumbnail'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t1/a042767cs21t1-thumbnail-80x60-at-10-percent.jpg']}, {u'y': [u'thumbnail 80x60 at 20 percent'], u'x': [u'jpgthumbnail'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t1/a042767cs21t1-thumbnail-80x60-at-20-percent.jpg']}, {u'y': [u'thumbnail 80x60 at 30 percent'], u'x': [u'jpgthumbnail'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t1/a042767cs21t1-thumbnail-80x60-at-30-percent.jpg']}, {u'y': [u'thumbnail 80x60 at 40 percent'], u'x': [u'jpgthumbnail'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t1/a042767cs21t1-thumbnail-80x60-at-40-percent.jpg']}, {u'y': [u'thumbnail 80x60 at 50 percent'], u'x': [u'jpgthumbnail'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t1/a042767cs21t1-thumbnail-80x60-at-50-percent.jpg']}, {u'y': [u'thumbnail 80x60 at 60 percent'], u'x': [u'jpgthumbnail'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t1/a042767cs21t1-thumbnail-80x60-at-60-percent.jpg']}, {u'y': [u'thumbnail 80x60 at 70 percent'], u'x': [u'jpgthumbnail'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t1/a042767cs21t1-thumbnail-80x60-at-70-percent.jpg']}, {u'y': [u'thumbnail 80x60 at 80 percent'], u'x': [u'jpgthumbnail'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t1/a042767cs21t1-thumbnail-80x60-at-80-percent.jpg']}, {u'y': [u'thumbnail 80x60 at 90 percent'], u'x': [u'jpgthumbnail'], u'2': [u'MediaArchive'], u'u': [u'http://mediaarchive.cern.ch/MediaArchive/Video/Public/Conferences/2004/a042767cs21t1/a042767cs21t1-thumbnail-80x60-at-90-percent.jpg']}]
-245__
-[{u'a': [u'Collaboration between Industry and Institutes']}]
-340__
-[{u'a': [u'Streaming video']}]
-65017
-[{u'a': [u'Conferences']}]
-005__
-[u'20130727220519.0']
+[u'20121218210819.0']
+916__
+[{u's': [u'n'], u'w': [u'199731']}]
