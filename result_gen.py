@@ -39,4 +39,4 @@ for i in xrange(len(results)):
 
 file.close()
 
-print "\n\n....please check the results piped into ./10_def_op \n"
+print "\n\n....please check the results piped into ./output \n"
