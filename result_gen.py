@@ -24,7 +24,7 @@ results = cds.search(p=kwarg,rg=size,ln='en',c=collection)
 count=len(results)
 
 '''write results into a file'''
-file = open("10_def_op","w")
+file = open("output","w")
 if len(collection)==0:
     collection = 'All'
 
