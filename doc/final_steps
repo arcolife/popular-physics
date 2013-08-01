@@ -1,0 +1,20 @@
+'''Final steps'''
+..using a local Instance, with the dbDump from CDS loaded onto it, curate:
+
+- Authors List
+- Keywords, Authors and Article Topic Correlations --> JSON file
+- Photographs of Physicists (if not present, then their names)
+- Introduce PyBossa somehow, somewhere, for filtering out the keywords. (If unable to generate keywords through BibClassify module of Invenio, form one's own list somehow and run scripts on documents to generate keywords)
+- Decide a Visualization and format the input accordingly.
+- Implement such an interface that makes it impressive and comprehensible for both Physicists and normal Users. (somehow linking the cause and impact of the Physics being shown)
+
+'''BottleNecks'''
+
+- Way of bypassing Hourly Rate Limits 
+- Way of bypassing the now 200 result return limit.
+- Eliminate Admin rights, so anyone could generate keywords from a document --> https://pcuds54.cern.ch/record/91/keywords (CERN internal link - not accessible outside, just in case)
+- Bibclassify's Keyword error investigation  --> [ AttributeError: 'BibDocFile' object has no attribute 'doctype' (bibclassify_daemon.py:356:_analyze_documents) ] --> use help from http://invenio-demo.cern.ch/help/admin/bibclassify-admin-guide
+
+
+
+For Wiki, refer to -> https://github.com/arcolife/popular-physics/wiki/
