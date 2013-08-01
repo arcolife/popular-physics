@@ -1,0 +1,20 @@
+260_c = publication date (yyyy-mm-dd)
+65017_a  = subject (from INSPIRE: Astrophysics, Accelerators, Computing, Experiment-HEP, Gravitation and Cosmology, Instrumentation,  Lattice, Math and Math Physics, Theory-Nucl, Other, Phenomenology-HEP,  General Physics, Theory-HEP)
+037_c = category (from arXiv: astro-ph, cond-mat, gr-qc, hep-ex, hep-lat, hep-ph, hep-th, math-ph, nlin, nucl-ex, nucl-th, physics, quant-ph)
+773_y = journal publication year*
+ 
+*each record could be complete in different levels so if a record doesn’t have 260_c then resort to 773_y, vice-versa. 
+ 
+Other record markup codes can be found here: https://twiki.cern.ch/twiki/bin/view/Inspire/DevelopmentRecordMarkup
+
+245_a = title
+245_b = subtitle
+520_a = abstract_text
+520_b = expansion of summary note
+100_a = author name
+100_u = author affiliation
+=================================================================================================================================
+
+[1] http://invenio-demo.cern.ch/help/hacking/search-engine-apit
+[2] http://invenio-software.org/wiki/Talk/WebAPIs#a1.1.SearchAPI
+[3] <root_dir>/modules/miscutil/lib/invenio_connector.py
