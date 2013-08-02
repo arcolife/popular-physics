@@ -79,12 +79,14 @@
 
   -> Edit invenio.conf and go to 
 
-    ## CFG_WEBSEARCH_DEF_RECORDS_IN_GROUPS -- the default number of                                                                                             ## records to display per page in the search results pages.                                                                                             
+    ## CFG_WEBSEARCH_DEF_RECORDS_IN_GROUPS -- the default number of
+    ## records to display per page in the search results pages.
     CFG_WEBSEARCH_DEF_RECORDS_IN_GROUPS = 10
 
-    ## CFG_WEBSEARCH_MAX_RECORDS_IN_GROUPS -- in order to limit denial of                                                                                   
-    ## service attacks the total number of records per group displayed as a                                                                                     ## result of a search query will be limited to this number. Only the superuser                                                                          
-    ## queries will not be affected by this limit.                                      
+    ## CFG_WEBSEARCH_MAX_RECORDS_IN_GROUPS -- in order to limit denial of
+    ## service attacks the total number of records per group displayed as a
+    ## result of a search query will be limited to this number. Only the superuser
+    ## queries will not be affected by this limit.
     CFG_WEBSEARCH_MAX_RECORDS_IN_GROUPS = 200
 
     Voila! change the numbers! So, now map the dbDump onto local instance and change your numbers and finally just query local instance for returning larger number of records.
