@@ -2,8 +2,8 @@ from invenio.invenio_connector import *
 from invenio.search_engine import  perform_request_search
 #from invenio.dbquery import run_sql as rs
 
-cds = InvenioConnector("http://cds.cern.ch/")
-#cds = InvenioConnector("http://pcuds54.cern.ch/")
+#cds = InvenioConnector("http://cds.cern.ch/")
+cds = InvenioConnector("http://pcuds54.cern.ch/")
 
 kwarg = raw_input("enter a search query: ")
 size = int(raw_input('Specify no. of records: '))
@@ -20,7 +20,12 @@ collection = raw_input("Enter Collection name: ")
 id_records = perform_request_search(p=kwarg,c=collection)
 
 '''To search inside CDS'''
-results = cds.search(p=kwarg,rg=size,ln='en',c=collection)
+results = cds.search(p="keyword:'numerical calculations'",ln='en',c=collection)
+#(p=kwarg,rg=size,ln='en',c=collection)
+# p=keyword:'numerical calculations',ln=en
+# p=find+key+4904389
+# p= 
+
 count=len(results)
 
 '''write results into a file'''
