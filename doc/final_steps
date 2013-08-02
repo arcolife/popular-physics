@@ -74,7 +74,6 @@
 >   way of bypassing Hourly Rate Limits 
     	-> edit conf files??
 
-
 >   way of bypassing the now 200 result return limit.
 
   -> Edit invenio.conf and go to 
@@ -91,12 +90,9 @@
 
     Voila! change the numbers! So, now map the dbDump onto local instance and change your numbers and finally just query local instance for returning larger number of records.
 
-
 >   Eliminate Admin rights, so anyone could generate keywords from a document --> https://pcuds54.cern.ch/record/91/keywords (CERN internal link - not accessible outside, just in case)
-
 
 >   Make an API or a script that queries the server in a way that doesnt put load on CERN's servers. (we are mapping 1M records now for God's sake! :'D )
 
 >   Bibclassify's Keyword error investigation  --> [ AttributeError: 'BibDocFile' object has no attribute 'doctype' (bibclassify_daemon.py:356:_analyze_documents) ]
      --> use help from http://invenio-demo.cern.ch/help/admin/bibclassify-admin-guide
-
