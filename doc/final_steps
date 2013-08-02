@@ -23,7 +23,6 @@
 
 >    Implement such an interface that makes it impressive and comprehensible for both Physicists and normal Users. (somehow linking the cause and impact of the Physics being shown)
 
-
 ==========================
 '''Addition Information'''
 --------------------------
@@ -42,6 +41,29 @@
 
 ** THE LIST OF KEYWORDS used by CERN -> http://www-library.desy.de/schlagw2.html  & its usage https://invenio-demo.cern.ch/help/hacking/bibclassify-hep-taxonomy
 
+** For uploading the DB dump (if any), follow these simple steps:
+
+   # go to the parent folder which contains sub-folders containing XML files
+   # Run this python script for putting all XML files in sub-folder to a common XML file:
+
+     	 import os
+	 folders = os.listdir(".")
+	 for folder in folders:
+	     os.chdir(folder)
+	     os.system("cat * > %s.xml" % folder)
+	     os.chdir("..")
+   
+   # Move all major XML files outside folder for getting all in 1 place for further processing
+   shell> mv ?/?.xml . ; mv ??/??.xml .
+
+   # uplaod to invenio instance
+   shell> for i in `ls *.xml`; do sudo -u www-data /opt/invenio/bin/bibupload -i -r --force $i ; done
+
+   # Run webcoll to upate on webinterface
+   shell> sudo -u www-data /opt/invenio/bin/webcoll   
+   
+   # check task(s) failure/success through bibsched to confirm upload
+   shell> sudo -u www-data bibsched
 
 =================
 '''BottleNecks''' 
