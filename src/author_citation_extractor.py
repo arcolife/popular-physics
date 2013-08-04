@@ -11,7 +11,7 @@ file.close()
 #print len(l)
 c = 0
 data = {}
-file = open('../../data/author_citation','w')
+file = open('../data/author_citation','w')
 limit = int(raw_input("Enter response limit/count: "))
 
 def allot(keys,author):
