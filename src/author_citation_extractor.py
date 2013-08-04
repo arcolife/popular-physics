@@ -1,6 +1,6 @@
 import json
 
-file = open('../../../records.json','r')
+file = open('../../records.json','r')
 l=[]
 for i in file:
     l.append(i.split('\n')[0])
