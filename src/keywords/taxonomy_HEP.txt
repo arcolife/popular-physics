@@ -1,0 +1,4503 @@
+
+Column 1 :            <blank>        main keyword
+                      *       descriptive keyword
+                      -               non-keyword
+
+
+
+ A(4) 
+ A(4) x Z(3) 
+ A(4) x Z(3) x U(1) 
+ A(5) 
+ a0(1320) 
+ a0(1450) 
+ a0(980) (was delta(980))
+ a1(1260) (was A1(1270))
+ a1(1640) (added 2010-08-10)
+ a2(1320) (was A2(1320))
+ a2(1700) (added 2010-08-10)
+ a3(2050) (was A(2050))
+ a4(2040) (was delta(2040))
+ a6(2450) (was delta(2450))
+ abelian 
+ aberration 
+ ABJM model 
+ absorption 
+ acceleration 
+-acceleration of the universe (use 'expansion acceleration')
+ accelerator 
+ acceptance 
+   [accelerators and detectors]
+ accretion 
+ accumulator 
+   [for accelerators only]
+-acoplanarity (use 'planarity')
+ acoustic 
+ actinium 
+*action 
+   [restricted use]
+-active galactic nuclei (use 'AGN')
+-active galactic nucleus (use 'AGN')
+ activity report 
+   [restricted use, e.g. for annual reports]
+-ADC (use 'analog-to-digital converter')
+ ADD model 
+   [was ADD]
+ adelic 
+ adiabatic 
+ admixture 
+-AdS (use 'anti-de Sitter')
+ AdS(2) x R(2) 
+ AdS(2) x S(2) 
+ AdS(3) x S(1) 
+ AdS(4) x CP(3) 
+ AdS(4) x S(4) 
+ AdS(5) x S(5) 
+ AdS(6) x S(4) 
+ AdS/CFT correspondence (since dec 08)
+-AdS/CFT (use 'AdS/CFT correspondence')
+ aerogel 
+-aether (use 'ether')
+ affine 
+ Affleck-Dine model 
+   [was Affleck-Dine]
+ AFS (added 2010-05-04)
+   [VERTEX DETECTOR AT THE CERN ISR]
+ AGASA 
+   [111 detectors on the ground (surface detectors) and 27 detectors under absorbers (muon detectors) to study origin of extremely high energy cosmic rays]
+ agegraphic (added 2010-05-05)
+ AGN 
+-AGS (use 'Brookhaven PS')
+ Aharonov-Bohm effect 
+   [was Aharonov-Bohm]
+ Aharonov-Casher effect 
+   [was Aharonov-Casher]
+ air 
+-AKENO GIANT AIR SHOWER ARRAY (use 'AGASA')
+ ALADIN 
+   [Nuclear Fragmentation]
+ ALEPH 
+   [magnetic detector at LEP]
+ algebra 
+ algebraic geometry (since Jan 10)
+ ALICE 
+   [magnetic detector at LHC]
+   [not for accelerator at Daresbury]
+ alignment 
+ alloy 
+-alpha particle (use 'helium')
+-ALS (use 'Saclay ALS')
+-Altarelli-Parisi equation  (use DGLAP equation)
+-aluminium (use 'aluminum')
+ aluminum 
+ AMANDA 
+   [deep underground detector in the Antarctic]
+ americium 
+ amplifier 
+ amplitude analysis 
+-AmPS (use 'Amsterdam AmPS Stor')
+ AMS (since dec 08)
+   [antimatter]
+ Amsterdam AmPS Stor 
+ Amsterdam MEA 
+ AMY 
+   [magnetic detector at TRISTAN]
+*analog 
+   [electronics]
+ analog-to-digital converter 
+*analysis 
+   [only for mathematics; for other fields see: amplitude analysis - partial wave analysis - data analysis method - event shape analysis - statistical analysis - track data analysis]
+ analytic properties 
+-analyticity (use 'analytic properties')
+ analyzing power 
+ anapole 
+   [moment, anapole]
+ angular correlation 
+ angular dependence 
+ angular distribution 
+ angular momentum 
+ angular resolution 
+ anisotropy 
+ ANITA 
+ ANKE 
+   [Medium Energy Hadrons]
+ annihilation 
+ anomalon (was 'postulated particle' and 'total cross section, anomaly')
+ anomalous dimension 
+ anomaly 
+-Antarctic Impulsive Transient Antenna (use 'ANITA')
+ ANTARES 
+ anthropic principle 
+   [was anthropic]
+ anti-B 
+ anti-B/s0 
+ anti-B0 
+-anti-beauty (use 'anti-bottom')
+ anti-bottom (added 2010-09-22) (was was 'antiquark, bottom')
+ anti-charm (added 2010-09-22) (was was 'antiquark, charm')
+ anti-D 
+ anti-D0 
+ anti-de Sitter 
+ anti-down (added 2010-09-22) (was was 'antiquark, down')
+ anti-K 
+ anti-K nucleon 
+ anti-K0 
+ anti-K0 deuteron (added 2010-03-02)
+ anti-n 
+ anti-n deuteron 
+ anti-n nucleus 
+ anti-p 
+ anti-p deuteron 
+ anti-p n 
+ anti-p nucleon 
+ anti-p nucleus 
+ anti-p p 
+ anti-strangeness (added 2010-09-22) (was was 'antiquark, strangeness')
+ anti-top (added 2010-09-22) (was was 'antiquark, top')
+-anti-truth (use 'anti-top')
+ anti-up (added 2010-09-22) (was was 'antiquark, up')
+ antibaryon 
+ antidecuplet (added 2010-05-05)
+ antideuteron 
+ antifermion 
+ antiferromagnet 
+ antifield 
+ antigravitation 
+-antigravity (use 'antigravitation')
+ antihydrogen 
+ antihyperon 
+ Antilambda 
+-Antilambda/b (use 'Antilambda/b0')
+ Antilambda/b0 
+-Antilambda/c (use 'Antilambda/c+')
+ Antilambda/c+ 
+   [negative charge]
+ antilepton 
+ antimatter 
+ antimony 
+ antineutrino 
+ antineutrino baryon 
+ antineutrino deuteron 
+ antineutrino electron 
+ antineutrino meson 
+ antineutrino muon (added 2010-03-02)
+ antineutrino n 
+ antineutrino nucleon 
+ antineutrino nucleus 
+ antineutrino p 
+ antineutrino quark 
+ antineutrino/e 
+ antineutrino/L 
+   [heavy lepton antineutrino]
+ antineutrino/mu 
+ antineutrino/tau 
+-antineutron (use 'anti-n')
+ antinucleon 
+ antinucleon nucleus 
+ antinucleus 
+ Antiomega- 
+   [positive charge]
+ antiparticle 
+-antiproton (use 'anti-p')
+ antiquark 
+ Antisigma 
+ Antisigma+ 
+   [negative charge]
+ Antisigma- 
+   [positive charge]
+ Antisigma0 
+ Antixi 
+ Antixi- 
+   [positive charge]
+ Antixi0 
+ any-dimensional 
+ anyon 
+ applied physics 
+*approximation 
+ argon 
+ Argonne Lab 
+   [for unspecified accelerators at ANL]
+ ARGUS 
+   [magnetic detector at DORIS]
+ arsenic 
+ artificial intelligence 
+-ASIC (use 'integrated circuit')
+ ASP (added 2010-05-04)
+ associated production 
+ astatine 
+*astrophysics 
+ asymmetry 
+ asymptotic behavior 
+-asymptotic behaviour (use 'asymptotic behavior')
+ asymptotic expansion 
+ asymptotic freedom 
+   [for low energies use 'infrared problem']
+ asymptotic safety 
+ at rest 
+   [in energy category '0 GeV, ((1))' is added]
+ ATIC (added 2010-05-05)
+   [Advanced Thin Ionization Calorimeter, balloon-borne instrument to measure cosmic rays]
+ ATLAS 
+   [magnetic detector at LHC]
+ atmosphere 
+ atom 
+-atomic number (use 'mass number')
+ atomic physics 
+ ATRAP 
+   [Antihydrogen]
+ attenuation (since Dec 07)
+ attractor 
+ Auger (since Apr 08)
+ avalanche 
+ axial 
+ axial gauge 
+ axial-vector 
+ axial-vector meson 
+ axigluon 
+ axino 
+ axiomatic field theory 
+ axion 
+-azimuthal correlation (use 'angular correlation')
+-azimuthal dependence (use 'angular dependence')
+-azimuthal distribution (use 'angular distribution')
+
+                     --- B ---
+
+*B 
+ B anti-B 
+-B meson (use 'B')
+ B*(5320) 
+ B*2(5732) 
+*B+ 
+ B+L number 
+*B- 
+ B-factory (since 2008, was 'B, particle source')
+   [about 10.5 GeV-cms e+e-]
+ B-L number 
+-B-L symmetry (use 'B-L number')
+ B-parameter 
+-b-quark (use 'bottom')
+*B/c 
+ B/c* 
+-B/d (use 'B')
+*B/s 
+ B/s anti-B/s 
+ B/s*(5430) 
+ B/s*2(5880) 
+ B/s0 
+ B/s0 anti-B/s0 
+ B/s1(5890) 
+ B/s2*(5840) (added 2010-08-10)
+ B/s2*(5910) 
+ B/sJ*(5850) (added 2010-08-10)
+*B0 
+ B0 anti-B0 
+ b1(1235) (was B(1235))
+ B1(5721) (added 2010-08-10)
+ BaBar 
+   [magnetic detector at PEP]
+ back reaction 
+ background 
+ background field 
+-Backlund transformation (use 'Baecklund transformation')
+ backscatter 
+ Baecklund transformation 
+ bag model 
+ Bagger-Lambert-Gustavsson model 
+ Baikal 
+ Baksan 
+ Balitsky-Kovchegov equation 
+-Balitsky-Kovchegov (use 'Balitsky-Kovchegov equation')
+-Banados-Teitelboim-Zanelli (use 'BTZ')
+-BAO (use 'baryon acoustic oscillation')
+-Barbero-Immirzi parameter (use 'Immirzi parameter')
+ barium 
+ Barrett-Crane model 
+ baryogenesis 
+ baryon 
+ baryon acoustic oscillation 
+   [bypass ckw problem]
+ baryon antibaryon 
+ baryon baryon 
+ baryon number 
+ baryon resonance 
+   [not used for heavy quark baryons]
+-baryonic resonance (use 'baryon resonance')
+ baryonium 
+ Batalin-Vilkovisky 
+ Batavia TEVATRON Coll 
+   [2000 GeV-cms protons]
+ Batavia TEVATRON PS 
+   [1000 GeV protons]
+-Bates Linac (use 'MIT Linac')
+-BATES-BLAST (use 'BLAST')
+ Baxter 
+ Baxter equation (since Jan 10)
+ Bayesian 
+-bbar (use 'anti-bottom')
+*beam 
+-beam chopper (use 'bunching')
+ beam cooling 
+   [for proton beams; for electron beams use 'beam damping']
+ beam damping 
+   [for electron beams; for proton beams use 'beam cooling']
+-beam diagnostics (use 'beam monitoring')
+ beam dump 
+ beam dynamics 
+ beam emittance 
+-beam filling (use 'beam loading')
+ beam focusing 
+ beam instability 
+-beam line (use 'beam transport')
+ beam loading 
+   [not used for 'injection']
+ beam loss 
+ beam monitoring 
+ beam optics 
+ beam oscillation 
+   [For longitudinal beam oscillation use 'synchrotron oscillation'; for transverse beam oscillation use 'betatron oscillation'.]
+ beam position 
+ beam profile 
+-beam shape (use 'beam profile')
+-beam steering (use 'beam position')
+ beam transport 
+ beam tune (since Jul 2008)
+ beam-beam 
+ beamstrahlung 
+ beat-wave 
+ Becchi-Rouet-Stora 
+ Beijing Stor 
+ Bell inequality 
+ BELLE 
+   [magnetic detector at TRISTAN]
+-Belle (use 'BELLE')
+ Beltrami 
+ bending magnet 
+ bent crystal 
+-BEPC (use 'Beijing Stor')
+ Berkeley Bevalac 
+   [2 GeV/A ions]
+ Berkeley ES 
+   [ALS, 1-2 GeV electrons, synchrotron radiation]
+ Berkeley Lab 
+   [for unspecified accelerators at Berkeley]
+ berkelium 
+ Berlin BESSY Stor 
+ Berry phase 
+ Bertotti-Robinson (added 2010-05-05)
+ beryllium 
+ BES 
+   [magnetic spectrometer at Beijing Stor]
+-BES-II (use 'BES')
+-BES-III (use 'BES')
+-BESII (use 'BES')
+-BESIII (use 'BES')
+-BESSY (use 'Berlin BESSY Stor')
+ beta beam 
+   [electron neutrino beams produced by beta decay of radioactive ions]
+-beta decay (use 'semileptonic decay')
+ beta function 
+ betatron 
+ betatron oscillation 
+ Bethe ansatz 
+ Bethe-Heitler 
+ Bethe-Salpeter equation 
+-Bevalac (use 'Berkeley Bevalac')
+-beyond the Standard Model (use 'new physics')
+ BF model 
+-BF theory (use 'BF model')
+ BFKL equation 
+-BFKL (use 'BFKL equation')
+ Bianchi 
+ Bianchi identity 
+ bibliography 
+ bifurcation 
+ big bang 
+ big rip 
+ bilepton 
+ billiard (added 2010-05-05)
+   [2mal]
+ binary 
+ binding energy 
+ bino 
+ biology 
+ birefringence 
+ Birkhoff theorem (added 2010-05-05)
+ bismuth 
+ bismuth-germanate 
+ Bjorken 
+ black body (added 2010-05-05)
+ black brane 
+ black hole 
+ black ring 
+ black string 
+ BLAST 
+   [Electron-hadron scattering]
+ blast wave 
+ blazar 
+-BLG model (use 'Bagger-Lambert-Gustavsson model')
+ block spin transformation 
+-BNL (use 'Brookhaven Lab')
+-BNL-RHIC-BRAHMS (use 'BRAHMS')
+ Bogolyubov transformation 
+-Bogomolny-Prasad-Sommerfield (use 'BPS')
+ Bogomolnyi equation 
+ Bohmian (since Oct 08)
+ bolometer 
+ Boltzmann equation 
+ Bonn ELSA Stor 
+-BONN-ELSA-CRYSTAL-BARREL (use 'Crystal Barrel')
+ book 
+ BooNE 
+   [mu_nu --> mu_e escillations]
+ booster 
+ bootstrap 
+-Borel resummation (use 'Borel transformation')
+-Borel summation (use 'Borel transformation')
+ Borel transformation 
+ Borexino 
+ Born approximation 
+ Born-Infeld model 
+ Born-Oppenheimer approximation 
+ boron 
+ Bose-Einstein 
+*boson 
+   [was bosonic]
+ boson boson 
+ bosonization 
+*bottom 
+ bottom baryon (was was 'beautiful baryon' till Apr 09)
+ bottom meson (was was 'beautiful meson' till Apr 09)
+ bottom particle (was was 'beautiful particle' till Apr 09)
+ bottomonium (was was 'quarkonium, beauty') (since Apr 09)
+ Boulby 
+ bounce 
+ bound state 
+ boundary condition 
+ BPS 
+ BRAHMS 
+ braid group 
+-branching fraction (use 'branching ratio')
+ branching ratio 
+-brane (use 'membrane model')
+-braneworld (use 'membrane model')
+ branon 
+ Brans-Dicke model 
+   [was BD model]
+   [was Brans-Dicke]
+*Brauer (added 2010-06-16)
+ Breit frame 
+ Breit-Wigner 
+ bremsstrahlung 
+ brick wall model 
+ brightness 
+-brilliance (use 'brightness')
+ broadening 
+-broken symmetry (use 'symmetry breaking')
+ bromine 
+ Brookhaven ES 
+   [0.75, 2.5 GeV electrons, synchrotron radiation]
+ Brookhaven Lab 
+   [for unspecified accelerators at BNL]
+ Brookhaven PS 
+   [33 GeV protons]
+ Brookhaven RHIC Coll 
+   [100 GeV/A ions]
+ Brownian motion 
+-BRS (use 'Becchi-Rouet-Stora')
+-BRST (use 'Becchi-Rouet-Stora')
+-BSE (use 'Bethe-Salpeter equation')
+ BTeV 
+   [b-flavored hadrons]
+ BTZ 
+ bubble 
+ bubble chamber 
+ buildings 
+   [do not use for 'model building']
+ bunching 
+ Burgers equation (added 2010-05-05)
+ burst 
+
+                     --- C ---
+
+*C* 
+ c-function 
+-C-parity (use 'charge conjugation')
+ Cabibbo angle 
+ Cabibbo model 
+-Cabibbo-Kobayashi-Maskawa matrix (use 'CKM matrix')
+ cadmium 
+ Calabi-Yau 
+ calcium 
+*calculated (added 2010-05-05)
+   [only to indicate prediction of a quantity]
+ calibration 
+ CALICE 
+ californium 
+ Callan-Gross 
+ Calogero model 
+ Calogero-Moser model 
+-Calogero-Moser (use 'Calogero-Moser model')
+ Calogero-Sutherland model 
+-Calogero-Sutherland (use 'Calogero-Sutherland model')
+ calorimeter 
+ caloron 
+ CAMAC system 
+*canonical 
+   [restricted use]
+ capture 
+   [trapping added 2010-06-16]
+-CAR (use 'commutation relations')
+ carbon 
+ Cartan 
+ cascade 
+-cascade baryon (use 'Xi')
+ cascade decay 
+ Casimir 
+ catastrophe theory 
+-catastrophe (use 'catastrophe theory')
+ category 
+-Cauchy problem (use 'boundary condition')
+ causal set 
+   [partially ordered set (poset) consisting of points and relations between them which encode causal ordering]
+ causality 
+   [was causal]
+ cavity 
+-cbar (use 'anti-charm')
+ CBM 
+ CCD 
+   [charge-coupled device]
+ CCFM equation 
+   [was CCFM]
+-CCR (use 'commutation relations')
+ CDF 
+   [magnetic detector at TEVATRON Coll]
+-CDM (use 'dark matter')
+ CDMS (added 2010-05-05)
+-CEBAF Large Acceptance Spectrometer (use 'CLAS')
+-CEBAF (use 'Newport News CEBAF Linac')
+ CELLO 
+   [magnetic detector at PETRA]
+ cellular automaton 
+-CELSIUS (use 'Uppsala CELSIUS Stor')
+ centauro 
+ central charge 
+ central charge dependence 
+-central collision (use 'impact parameter')
+ central region 
+   [for scattering]
+ ceramics 
+ CERES 
+   [e+ e- pairs in heavy ion collision]
+ cerium 
+ CERN CLIC 
+ CERN Lab 
+   [for unspecified accelerators at CERN]
+ CERN LEAR 
+   [low energy antiprotons]
+ CERN LEP Stor 
+   [up to 210 GeV-cms e+e-]
+ CERN LHC Coll 
+   [16000 GeV-cms protons]
+ CERN SPS 
+   [450 GeV protons, 200 AGeV ions]
+ CERN SPS Coll 
+   [900 GeV-cms anti-p p]
+-CERN (use 'CERN Lab')
+-CERN-ATRAP (use 'ATRAP')
+-CERN-CNGS (use 'CNGS')
+-CERN-LHC-ALICE (use 'ALICE')
+-CERN-LHC-ATLAS (use 'ATLAS')
+-CERN-LHC-CMS (use 'CMS')
+-CERN-LHeC (use 'LHeC')
+-CERN-NA-045 (use 'CERES')
+-CERN-NA-058 (use 'COMPASS')
+-CERN-PS-195 (use 'CPLEAR')
+-CERN-PS-212 (use 'DIRAC')
+-CERN-PS-214 (use 'HARP')
+-CERN-WA-095 (use 'CHORUS')
+ cesium 
+-CESR (use 'Cornell CESR Stor')
+-CESR-CLEO-II (use 'CLEO-II')
+-CFL (use 'color flavor locked phase')
+ CGHS model (added 2010-05-05)
+*chain 
+ chameleon 
+ Chan-Paton factor (added 2010-07-30)
+ channel cross section 
+   [for exclusive reactions]
+ channeling 
+ CHAOS 
+ chaos 
+-chaotic (use 'chaos')
+ Chaplygin 
+*character 
+   [group theory]
+*charge 
+ charge conjugation 
+ charge correlation 
+ charge dependence 
+ charge distribution 
+   [for beams, jets and nuclei; for particles use 'form factor, electric']
+ charge exchange 
+ charged current 
+ charged particle 
+ chargino 
+ charm 
+ charmed baryon 
+ charmed meson 
+ charmed particle 
+   [for hidden charm use 'charmonium' or e.g. 'psi mesons']
+ charmonium 
+*chemical 
+ chemistry 
+ Cherenkov 
+ Cherenkov counter 
+-Cherenkov detector (use 'Cherenkov counter')
+-Cherenkov telescope (use 'Cherenkov counter')
+-Chern-Simons formulation (use 'Chern-Simons term')
+ Chern-Simons number 
+ Chern-Simons term 
+ chi mesons 
+   [for chi/c and chi/b]
+ chi/b0(10235) (was chi/b(10235))
+ chi/b0(9860) (was chi/b(9875))
+ chi/b1(10255) (was chi/b(10255))
+ chi/b1(9890) (was chi/b(9895))
+ chi/b2(10270) (was chi/b(10270))
+ chi/b2(9915) (was chi/b(9915))
+ chi/c0(3415) (was chi(3415))
+ chi/c1(3510) (was chi(3510))
+ chi/c2(3555) (was chi(3555))
+ chi/c2(3930) (added 2010-08-10)
+ chi/d (added 2010-08-10)
+ chi/s (added 2010-08-10)
+ chiral 
+ chiral quark soliton model 
+ chiral ring (added 2010-05-05)
+ chlorine 
+ CHORUS 
+   [Neutrino oscillation search]
+ Chou-Yang model 
+ chromaticity 
+ chromium 
+ chromoelectric (since Jan 10)
+ chromomagnetic 
+ circle 
+-CKM angle (use 'CKM matrix')
+ CKM matrix (was was 'Kobayashi-Maskawa angle')
+-clan (use 'cluster')
+ CLAS 
+   [magnetic spectrometer at CEBAF]
+*classical 
+   [restricted use]
+ Clebsch-Gordan coefficients 
+ CLEO 
+   [magnetic detector at CESR]
+-CLEO-II  (use 'CLEO' instead)
+-CLIC (use 'CERN CLIC')
+ Clifford 
+-clock (use 'time')
+*closed 
+   [field theory]
+ closure approximation 
+ cloud 
+ clover (added 2010-05-05)
+ cluster 
+-CMB (use 'cosmic background radiation')
+ CMD 
+   [at Novosibirsk]
+ CMD-2 
+   [e+ e- --> hadrons]
+-CMOS (use 'semiconductor detector')
+ CMS 
+   [magnetic detector at LHC]
+ CNGS 
+ coalescence 
+ cobalt 
+ COBRA 
+ coherence 
+ coherent interaction 
+-coherent scattering (use 'coherent interaction')
+ coherent state 
+ cohomology 
+ coil 
+ collapse 
+ collective 
+ collective phenomena 
+-colliding beam detector  (use more specific term if possible)
+ colliding beams 
+   [for accelerator use 'storage ring' or 'linear collider']
+ collimator 
+ collinear 
+ Collins (since Jan 10)
+ color 
+ color flavor locked phase 
+ color glass condensate 
+   [was CGC]
+ color spin locked phase 
+ colored particle 
+ coloron 
+-combinatorics (added 2010-05-05) (rejected)
+*communications 
+ commutation relations 
+-commutator (use 'commutation relations')
+*compact 
+ compactification 
+ compacton 
+   [soliton with compact support]
+ COMPASS 
+   [Hadron structure using muons]
+ CompHEP 
+*complex 
+   [used only in the mathematical sense]
+ composite 
+-Compton process (use 'Compton scattering')
+ Compton scattering 
+ computer 
+*concrete 
+ condensation 
+ condensed matter 
+ conductivity (added 2010-05-05)
+*conference proceedings 
+*conference summary 
+ confidence limit 
+   [restricted use]
+ confinement 
+   [was confining]
+ conformal 
+   [was superconformal]
+ conformal gauge 
+ conifold 
+ conservation law 
+   [was conservation]
+-conserved vector current (use 'CVC model')
+*constant 
+   [for fields constant in space and time]
+-constant of motion (use 'conservation law')
+ constituent 
+   [constituent quark]
+ constituent interchange 
+*constraint 
+   [was constrained]
+   [for field theory]
+ constructive 
+   [field theory]
+ contact interaction 
+ continuum limit 
+ control system 
+-coplanar (use 'planar')
+-coplanarity (use 'planarity')
+ copper 
+ Cornell CESR Stor 
+   [16 GeV-cms e+e-]
+ Cornell Lab 
+   [for unspecified accelerators at Cornell]
+*correction 
+ correlation 
+ correlation function 
+-correlator (use 'correlation function')
+ coset space 
+-coset (use 'coset space')
+-cosmic acceleration (use 'expansion acceleration')
+ cosmic background radiation 
+ cosmic censorship 
+ cosmic coincidence (added 2010-05-05)
+-cosmic microwave background (use 'cosmic background radiation')
+ cosmic radiation 
+-cosmic ray (use 'cosmic radiation')
+ cosmic string 
+ cosmion 
+ cosmological constant (was astrophysics, fundamental constant)
+   [energy of empty space]
+ cosmological model (was till Jul 08 'astrophysics, model')
+-cosmological term (use 'cosmological constant')
+-cosmologies (use 'cosmological model')
+ cosmon (added 2010-06-25)
+ costs 
+-COSY (use 'Juelich COSY PS')
+ COSY-11 
+   [Medium Energy Hadrons]
+-COSY-ANKE (use 'ANKE')
+-COSY-EDDA (use 'EDDA')
+ COSY-TOF 
+   [Medium Energy Hadrons]
+ Coulomb 
+ Coulomb gauge 
+-counters and detectors  (obsolete use 'detector')
+ coupled channel 
+*coupling 
+   [was coupled]
+   [restricted use]
+ coupling constant 
+-coupling strength (use 'coupling constant')
+ covariance 
+ Coxeter (added 2010-09-01)
+*CP 
+ CP(1) 
+ CP(2) 
+ CP(3) 
+ CP(N) 
+   [was CP^N]
+ CP(N) model 
+ CPLEAR 
+   [Detector for CP, CPT symmetry studies at CERN SPS]
+ CPT 
+ CREAM (since Mar 2010)
+   [high energy cosmic rays (10^11 - 10^15 eV)]
+-creation (use 'production')
+ CRESST 
+   [WIMP detector]
+-critical exponent (use 'critical phenomena')
+ critical phenomena 
+-critical point (use 'critical phenomena')
+ Cronin effect (added 2010-06-17)
+*cross section 
+ crossing 
+ crumpling 
+ cryogenics 
+-cryostat (use 'cryogenics')
+ crystal 
+ Crystal Ball 
+   [four-pi-detector at DORIS]
+ Crystal Barrel 
+-CSL (use 'color spin locked phase')
+ cumulant expansion 
+ cumulative production 
+ curium 
+*current 
+ current algebra 
+ curvaton 
+ curvature 
+-curved space (use 'space-time')
+ CUSB 
+   [four-pi-detector at CESR]
+ cusp effect (since Jan 10)
+   [cusp in pi pi mass spectrum]
+ custodial (since Jan 10)
+ CVC model 
+ cyclic 
+ cyclotron 
+ cylinder 
+
+                     --- D ---
+
+*D 
+ D anti-D 
+ D(2440) 
+ D*(2010) 
+ D*(2010)+ (added 2010-08-10)
+ D*(2010)0 (added 2010-08-10)
+ D*(2640) (added 2010-08-10)
+ D*0(2400) (added 2010-08-10)
+ D*0(2400)+ (added 2010-08-10)
+ D*0(2400)0 (added 2010-08-10)
+ D*2(2460) 
+ D*2(2460)+ (added 2010-08-10)
+ D*2(2460)+ (added 2010-08-10)
+ D*2(2460)0 (added 2010-08-10)
+ D*2(2460)0 (added 2010-08-10)
+*D+ 
+*D- 
+ D-brane 
+-d-dimensional (use 'any-dimensional')
+-D-instanton (use 'instanton')
+ D-particle 
+   [not for D-mesons]
+-d-quark (use 'down')
+ D-term 
+*D/s (was F)
+ D/s(2564) 
+ D/s*(2110) (was F*(2140))
+ D/s*(2110)+ 
+ D/s*(2110)- 
+ D/s*(2790) 
+ D/s*2(2536) 
+ D/s*2(2573) 
+ D/s+ (was F+)
+ D/s- (was F-)
+ D/s0*(2317) (was D/sJ*(2317))
+ D/s1(2460) (was (2463), D/sJ*(2460)) (added 2010-08-10)
+ D/s1(2536) 
+ D/s1(2536)+ (added 2010-08-10)
+ D/s1(2536)- (added 2010-08-10)
+ D/s1(2700) (added 2010-08-10)
+ D/s1(2700)+ (added 2010-08-10)
+ D/sJ*(2632) 
+ D/sJ*(2860) 
+ D/sJ*(3040) 
+*D0 
+   [meson; for the detector use 'DZERO']
+ D0 anti-D0 
+ D1(2420) (was D/J(2420), D*(2420))
+ D1(2420)0 (added 2010-08-10)
+ D1(2430)0 (added 2010-08-10)
+-DAFNE (use 'Frascati Stor')
+ Dalitz plot 
+ DAMA (since Mar 09)
+ damage 
+-DAPHNE (use 'Frascati Stor')
+-DAQ (use 'data acquisition')
+ Darboux transformation 
+ Daresbury ES 
+ dark energy 
+ dark matter (was astrophysics, missing-mass)
+ Darmstadt ESR 
+ Darmstadt GSI FAIR 
+ Darmstadt Lab 
+ Darmstadt SIS 
+ data acquisition 
+   [electronics, software trigger]
+ data analysis method 
+   [off-line]
+ data compilation 
+   [for printed data summaries, manuals on contents of data bases, etc.]
+ data management 
+   [used for data bases, file and memory management, data access and storage methods]
+ data preservation 
+-database (use 'data management')
+-dbar (use 'anti-down')
+-DBI (use 'Born-Infeld model')
+ de Sitter 
+-DE (use 'dark energy')
+-dE/dx (use 'energy loss')
+ DEAP-3600 
+   [1000kg liquid argon WIMP detector]
+ DEAR 
+   [at DAFNE]
+ debunching 
+ Debye 
+*decay 
+ decay constant 
+ decay modes 
+ decay rate 
+   [for large decay rates use 'width']
+ deceleration 
+ decoherence 
+   [process that causes quantum particles to lose their distinctively quantum behavior]
+-decoherent histories (added 2010-07-27) (rejected)
+ deconfinement 
+ deconstruction 
+ decoupling 
+ decuplet 
+ deep inelastic scattering 
+ deep underground detector 
+ deeply virtual Compton scattering 
+ defect 
+ deflection 
+ deformation 
+-deformed special relativity (use 'doubly special relativity')
+-deformed (use 'deformation')
+ del Pezzo 
+ Delaunay triangulation (added 2010-05-05)
+-delay line (use 'time delay')
+-delay time (use 'time delay')
+ DELCO (added 2010-05-04)
+ delocalization 
+ DELPHI 
+   [magnetic detector at LEP]
+*Delta 
+ delta expansion 
+ Delta(1232) 
+   [partial wave P33]
+ Delta(1232)+ 
+ Delta(1232)++ 
+ Delta(1232)- 
+ Delta(1232)0 
+ Delta(1600) 
+   [partial wave P33]
+ Delta(1620) 
+   [partial wave S31]
+ Delta(1700) 
+   [partial wave D33]
+ Delta(1750) 
+   [partial wave P31]
+ Delta(1900) 
+   [partial wave S31]
+ Delta(1905) 
+   [partial wave F35]
+ Delta(1910) 
+   [partial wave P31]
+ Delta(1920) 
+   [partial wave P33]
+ Delta(1930) 
+   [partial wave D35]
+ Delta(1940) 
+   [partial wave D33]
+ Delta(1950) 
+   [partial wave F37]
+ Delta(2000) 
+   [partial wave F35]
+ Delta(2150) 
+   [partial wave S31]
+ Delta(2200) 
+   [partial wave G37]
+ Delta(2300) 
+   [partial wave H39]
+ Delta(2350) 
+   [partial wave D35]
+ Delta(2390) 
+   [partial wave F37]
+ Delta(2400) 
+   [partial wave G39]
+ Delta(2420) 
+   [partial wave H311]
+ Delta(2750) 
+ Delta(2950) 
+-Delta+ (use 'Delta(1232)+')
+-Delta++ (use 'Delta(1232)++')
+-Delta- (use 'Delta(1232)-')
+ density 
+ density dependence 
+ density matrix 
+*dependence 
+-DEPFET (use 'semiconductor detector')
+ depolarization 
+*derivative 
+*design 
+   [basic design only]
+ desorption 
+ DESY DORIS Stor 
+ DESY FLASH 
+ DESY HERA Stor 
+ DESY Lab 
+   [for unspecified accelerators at DESY]
+ DESY PETRA Stor 
+ DESY TESLA Linac 
+ DESY XFEL 
+*detector (was was 'counters and detectors')
+   [use more specific term if possible]
+ determinant 
+ deuterium 
+ deuteron 
+ deuteron deuteron 
+ deuteron nucleus 
+ DGLAP equation (was was 'Altarelli-Parisi equation')
+-DGLAP (use 'DGLAP equation')
+-DGP model (use 'Dvali-Gabadadze-Porrati model')
+-di hadron (use 'hadron hadron')
+-di meson (use 'meson meson')
+ diamond 
+ DIANA 
+ dibaryon 
+ dielectric 
+ diffeomorphism 
+*difference 
+*differential 
+ differential cross section 
+ differential equations 
+ differential forms 
+ differential geometry 
+ diffraction 
+ diffusion 
+ dihadron 
+-dilatation (use 'dilation')
+ dilation 
+ dilaton 
+ dilepton 
+ dilute gas approximation 
+*dimension 
+   [usually coupled with the number of dimensions]
+*dimensional 
+ dimensional reduction 
+ dimuon 
+ dip 
+ dipole 
+   [for dipole magnet use 'bending magnet']
+-dipole magnet (use 'bending magnet')
+ diquark 
+ DIRAC 
+   [pi+ pi- atom lifetime]
+*Dirac 
+ Dirac equation 
+ Dirac-Kaehler equation 
+ DIRC (added 2010-05-05)
+-DIRC (use 'Cherenkov counter')
+ direct detection (added 2010-05-05)
+ direct production 
+-DIS (use 'deep inelastic scattering')
+*discrete 
+ discrete light cone quantization 
+ dispersion 
+ dispersion relation 
+-dissertation (use 'thesis')
+ dissipation 
+ dissociation 
+ DISTO 
+ distorted wave Born approximation 
+ distorted wave impulse approximation 
+ distribution amplitude (added 2010-05-05)
+ distribution function 
+-DLCQ (use 'discrete light cone quantization')
+-DM (use 'dark matter')
+ DM2 (added 2010-05-04)
+ domain wall 
+ Donaldson theory 
+ DONUT 
+   [Tau production from nu_tau + N --> tau + X]
+-DOOCS (use 'control system')
+ Doppler effect 
+-DORIS (use 'DESY DORIS Stor')
+ Dortmund DELTA Stor 
+ dosimetry 
+ Double Chooz 
+   [reactor-based neutrino oscillation experiment, France]
+ double-beta decay (was before 1994 see 'nucleus, semileptonic decay')
+   [For neutrinoless mode use 'double-beta decay, (0neutrino)']
+ doublet 
+ doubling (since 2008)
+-doubly charged (use 'charged particle')
+ doubly special relativity 
+   [special relativity with a second limit in addition to the speed of light]
+*down 
+ drag force (since Jan 10)
+ Drell-Hearn-Gerasimov 
+ Drell-Yan process 
+ drift chamber 
+-drift detector (use 'drift chamber')
+ drift tube 
+ drift velocity 
+ droplet 
+-DSB (use 'dynamical symmetry breaking')
+ dual resonance model 
+ duality 
+ Dubna Lab 
+   [for unspecified accelerators at JINR]
+ Dubna Nuclotron 
+   [8 GeV/A ion collider]
+ Dubna PS 
+   [10 GeV protons, 6 GeV/A ions]
+ Duffin-Kemmer-Petiau equation 
+ DUMAND 
+ DUSEL (added 2010-06-16)
+   [Deep Underground Science and Engineering Lab]
+*dust (added 2010-06-16)
+ Dvali-Gabadadze-Porrati model 
+-Dvali-Gabadadze-Porrati (use 'Dvali-Gabadadze-Porrati model')
+-DVCS (use 'deeply virtual Compton scattering')
+-DWBA (use 'distorted wave Born approximation')
+ dynamical symmetry breaking 
+   [was dynamically broken]
+   [was dynamical breaking]
+ dynamical system 
+ dyon 
+   [was dyonic]
+ Dyson-Schwinger equation 
+ dysprosium 
+ DZERO 
+   [four-pi-detector at TEVATRON Coll]
+
+                     --- E ---
+
+-e p (use 'electron p')
+ E(10) 
+ E(11) 
+ E(6) 
+ E(7) 
+ E(8) 
+ E(8) x E(8) 
+ e* (since Jan 10)
+-e+ e- (use 'electron positron')
+-e+ (use 'positron')
+-e- p (use 'electron p')
+-e- (use 'electron')
+ E787 (since Mar 2010)
+   [E787 is a rare kaon decay experiment at the AGS. ]
+ EDDA 
+   [study p + p excitation functions at Cooler Synchrotron COSY]
+ EDELWEISS 
+   [dark matter detector]
+-EDM (use 'electric moment')
+*effect 
+   [restricted use]
+ effective action 
+ effective field theory 
+ effective gauge boson approximation 
+ effective Hamiltonian 
+ effective Lagrangian 
+ effective potential 
+ effective range 
+ efficiency 
+   [instrumentation]
+-EFT (use 'effective field theory')
+-EGEE (use 'Grid computing')
+ Eguchi-Kawai model 
+ EHS 
+   [four-pi-detector at SPS]
+-eight (use '8')
+ eikonal 
+ Einstein (added 2010-05-05)
+ Einstein equation 
+ Einstein Telescope (since Jan 10)
+ Einstein-Cartan 
+-Einstein-Gauss-Bonnet (use 'Gauss-Bonnet term')
+ Einstein-Gordon (added 2010-05-05)
+ Einstein-Hilbert 
+ Einstein-Maxwell equation 
+   [was Einstein-Maxwell]
+ Einstein-Podolsky-Rosen paradox 
+ Einstein-Yang-Mills theory 
+-Einstein-Yang-Mills (use 'Einstein-Yang-Mills theory')
+ Einstein-Yang-Mills-Higgs theory 
+ einsteinium 
+ ejection 
+ ekpyrotic 
+ elastic scattering 
+*electric 
+-electric dipole moment (use 'electric moment')
+ electric field 
+ electric moment 
+ electrical engineering 
+ electrode 
+-electrodynamics (use 'electromagnetic field')
+ electrofission 
+   [fission induced by electrons or muons]
+ electromagnetic 
+ electromagnetic component 
+ electromagnetic decay 
+ electromagnetic field 
+ electromagnetic interaction 
+ electron 
+   [also used when charge is irrelevant]
+ electron cooling 
+ electron deuteron 
+ electron electron 
+   [also used when charge is irrelevant]
+ electron hadron 
+-electron ion (use 'electron nucleus')
+ electron meson 
+ electron muon 
+ electron muon+ 
+ electron muon- 
+ electron n 
+-electron neutron (use 'electron n')
+ electron nucleon 
+ electron nucleus 
+ electron number 
+ electron p 
+ electron pi 
+ electron positron 
+-electron proton (use 'electron p')
+ electron quark 
+ electron synchrotron 
+ electronics 
+ electroproduction 
+   [for particle production by electrons]
+ electrostatic 
+ electroweak interaction 
+-electroweak (use 'electroweak interaction')
+*elements 
+-ELETTRA (use 'Trieste ES')
+-eleven (use '11')
+-ELKO (added 2010-05-05) (rejected)
+ elliptic flow 
+ Ellis-Jaffe 
+-ELSA (use 'Bonn ELSA Stor')
+ embedding 
+*emergence 
+*emission 
+-emission rate (use 'flux')
+-emulsion chamber (use 'nuclear emulsion')
+*energy 
+ energy dependence 
+ energy eigenstate 
+ energy flow 
+ energy levels 
+ energy loss 
+ energy recovery 
+ energy resolution 
+-energy scale (use 'scale')
+ energy spectrum 
+ energy-momentum 
+ engineering 
+ enhancement 
+ enhancon 
+ entanglement 
+   [Properties of a system of particles can't be explained as properties of the individual particles]
+ entropy 
+   [measure of the number of possible ways molecules in a substance can be arranged for a given amount of energy]
+-EOS (use 'equation of state')
+-EPR (use 'Einstein-Podolsky-Rosen paradox')
+ EPRL model (since Jan 10)
+ epsilon expansion 
+ equation of state 
+*equilibrium (since Jan 10)
+ equivalence principle 
+   [acceleration produces an artificial gravity and, conversely, gravity is indistinguishable from acceleration]
+ equivalence theorem 
+ equivalent gauge boson 
+ equivalent photon approximation 
+ erbium 
+ Erevan ES 
+-ERGE (use 'renormalization group')
+ eRHIC 
+   [high luminosity polarized Electron Ion Collider]
+ Ernst 
+ Ernst equation (added 2010-05-05)
+*error 
+-ESR (use 'Darmstadt ESR')
+-ESRF (use 'Grenoble ESRF')
+*eta 
+ eta nucleon 
+-eta' (use 'eta(958)')
+ eta(1295) 
+ eta(1405) (added 2010-08-10)
+ eta(1440) (was iota(1440))
+ eta(1475) (added 2010-08-10)
+ eta(1760) 
+ eta(2100) 
+ eta(2225) 
+ eta(958) 
+ eta/b 
+-eta/c(1S) (use 'eta/c(2980)')
+ eta/c(2980) 
+-eta/c(2S) (use 'eta/c(3590)')
+ eta/c(3590) 
+ eta/t 
+ eta2(1645) (added 2010-08-10)
+ eta2(1870) 
+-ETC (use 'technicolor')
+ ether 
+ Euclidean 
+ europium 
+ evaporation 
+-event generator (use 'Monte Carlo')
+ event shape analysis 
+ evolution equation (since Jan 10)
+ exceptional 
+*exchange 
+-excited electron (use 'e*')
+ excited nucleus 
+ excited state 
+   [was excitation]
+ exciton (added 2010-09-06)
+ exclusive production 
+ exclusive reaction 
+*exotic 
+*expansion 
+ expansion 1/d 
+ expansion 1/N 
+ expansion 1/N color 
+   [bypass ckw problem]
+ expansion acceleration 
+   [bypass ckw problem]
+ experimental equipment 
+ experimental methods 
+-experimental results  (use '..., measured' instead)
+ extended particle 
+*external 
+ external field 
+-extra neutral gauge boson (use 'Z'')
+-extremely high energy (use 'UHE')
+-EYM (use 'Einstein-Yang-Mills theory')
+-EYMH (use 'Einstein-Yang-Mills-Higgs theory')
+
+                     --- F ---
+
+ F(4) 
+*f(R) 
+ F-term (since Jan 10)
+ F-theory 
+ f0(1240) 
+ f0(1300) 
+ f0(1370) 
+ f0(1400) 
+ f0(1500) 
+ f0(1525) 
+ f0(1590) 
+ f0(1710) (was f2(1720), Theta(1690))
+ f0(1750) (was S(1730), see also 'X(1740)')
+ f0(2020) (added 2010-08-10)
+ f0(2100) (added 2010-08-10)
+ f0(2200) (added 2010-08-10)
+ f0(2330) (added 2010-08-10)
+ f0(600) (was swapped Apr 09)
+ f0(980) (was S*(975), later f0(975))
+ f1(1285) (was D(1285))
+ f1(1420) (was E(1420))
+ f1(1510) (was D(1530))
+ f2(1270) (was f(1270))
+ f2(1430) 
+ f2(1520) 
+ f2(1525) 
+ f2(1565) (added 2010-08-10)
+ f2(1640) 
+ f2(1810) (was f(1815))
+ f2(1910) (added 2010-08-10)
+ f2(1950) (added 2010-08-10)
+ f2(2010) (was g/t(2010...2160))
+ f2(2150) (was epsilon(2150))
+ f2(2175) (was PDG: f2(2150)?)
+ f2(2300) (was g/t(2240))
+ f2(2340) (was g/t(2340))
+ f4(2050) (was h(2030))
+ f4(2300) (was epsilon(2300))
+ f6(2510) (was r(2510))
+ fabrication 
+ factorization 
+-factory (use 'particle source')
+-FADC (use 'analog-to-digital converter')
+-FAIR facility (use 'Darmstadt GSI FAIR')
+ false vacuum 
+ familon 
+ family 
+   [for quark/lepton families, e.g. 'family, 4']
+   [generation]
+ far detector 
+ fast logic 
+ FASTBUS system 
+ feedback 
+   [used only in connection with accelerators]
+-FEL (use 'free electron laser')
+ FENICE 
+   [colliding beam detector at DAFNE, non-magnetic]
+-Fermi Gamma-ray Space Telescope (use 'GLAST')
+ Fermi gas 
+-Fermi LAT (use 'GLAST')
+ Fermi liquid 
+-Fermi-LAT (use 'GLAST')
+*Fermilab 
+   [for unspecified accelerators at FNAL; see also 'Batavia ...']
+*fermion 
+   [was fermionic]
+ fermion antifermion 
+ fermion boson 
+ fermion fermion 
+ fermion magnetic monopole 
+ fermion nucleus 
+ fermion number 
+ fermion parastatistics 
+   [bypass ckw problem]
+ fermionization 
+ fermium 
+ ferromagnet 
+ few-body problem 
+ Feynman 
+-Feynman diagram (use 'Feynman graph')
+ Feynman gauge 
+ Feynman graph 
+-Feynman integral (use 'Feynman graph')
+-Feynman path (use 'path integral')
+-Feynman rule (use 'Feynman graph')
+ FFAG (since Dec 07)
+-fiber bundle (use 'fibre bundle')
+-fiber (use 'fibre')
+ fibre 
+ fibre bundle 
+ field equations 
+-Field Programmable Gate Array (use 'FPGA')
+ field strength 
+   [only for field theory]
+ field theoretical model 
+*field theory 
+ Fierz identity (since Jan 10)
+ fifth force 
+-fifth (use '5')
+ final focus 
+*final state 
+ final-state interaction 
+ fine structure 
+ FINeSSE 
+   [FIne-grained Neutrino Scattering Scintillator Experiment]
+*finite 
+ finite element 
+ finite energy 
+ finite size 
+ finite temperature 
+-finite volume (use 'finite size')
+ Finsler 
+ FINUDA 
+   [magnetic spectrometer at DAFNE]
+ fireball 
+ fission 
+-five (use '5')
+-Fixed Field Alternating Gradient (use 'FFAG')
+ fixed point 
+ fJ(2220) (was X(2220), xi(2220), f4(2220)) (added 2010-08-10)
+-FLASH (use 'DESY FLASH')
+ flat direction 
+ flavon (added 2010-06-16)
+   [scalar field with non vanishing VEV to reproduce fermion masses and mixings]
+ flavor 
+ flavor changing 
+-flipped SU(5) (use 'SU(5) x U(1)')
+ flow 
+-FLRW (use 'Robertson-Walker')
+ flucton (added 2010-06-25)
+ fluctuation 
+ fluid 
+   [only used for 'fluid: model'; otherwise use 'liquid']
+ FLUKA (added 2010-05-05)
+ fluorescence 
+ fluorine 
+ flux 
+ flux tube 
+-FNAL-E-0815 (use 'NuTeV')
+-FNAL-E-0823 (use 'DZERO')
+-FNAL-E-0830 (use 'CDF')
+-FNAL-E-0831 (use 'FOCUS')
+-FNAL-E-0872 (use 'DONUT')
+-FNAL-E-0898 (use 'BooNE')
+-FNAL-E-0918 (use 'BTeV')
+ FNAL-E-0921 
+   [Charged Kaons at the Main-Injector, also known as CKM]
+-FNAL-E-0937 (use 'FINeSSE')
+ foam 
+ Fock space 
+ FOCUS 
+   [Heavy quark states]
+ Fokker-Planck equation 
+ Foldy-Wouthuysen transformation 
+ foliation (added 2010-05-05)
+ FOPI 
+   [Heavy ion collisions]
+*force 
+ form factor 
+   [no specifier is used for electromagnetic form factor, otherwise 'form factor, electric' or 'form factor, magnetic']
+ formation 
+*formula 
+-forward detector (use 'forward spectrometer')
+ forward scattering 
+   [used only for zero-degree scattering, otherwise use 'small-angle']
+ forward spectrometer 
+-four (use '4')
+ four-fermion interaction 
+ four-pi-detector 
+ Fourier transformation 
+-fourth (use '4')
+ FPGA 
+ fractal (was fractals till jul 08)
+   [irregular structure with the same structure repeating on ever finer scales]
+ fractional 
+ fragmentation 
+   [for nuclei use 'fission']
+ fragmentation function 
+ francium 
+ Frascati Stor 
+-FRASCATI-DAFNE-DEAR (use 'DEAR')
+-FRASCATI-DAFNE-FINUDA (use 'FINUDA')
+ free electron laser 
+ free energy 
+-free field (added 2010-09-03) (rejected)
+-free path (use 'path length')
+ freeze-out 
+ Frejus 
+*frequency 
+ Friedberg-Lee (added 2010-06-16)
+ Friedman model 
+-Friedmann equation (use 'Friedman model')
+ Frobenius (added 2010-05-05)
+ Froissart bound 
+-FRW (use 'Robertson-Walker')
+-FSI (use 'final-state interaction')
+-function of time (use 'time dependence')
+ functional analysis 
+ fundamental constant 
+ fusion 
+ fuzzy 
+
+                     --- G ---
+
+ G parity 
+ G(2) 
+ G0 Experiment 
+ gadolinium 
+-gain (use 'yield')
+ galaxy 
+   [was galactic]
+-Galilean (use 'Galilei')
+ Galilei 
+ GALLEX 
+ gallium 
+ Galois 
+-gamma gamma (use 'photon photon')
+ gamma ray 
+   [energy > 100 keV]
+-Gamma-ray Large Area Space Telescope (use 'GLAST')
+-gamma-ray (use 'gamma ray')
+ GAMS 
+   [calorimeter at Serpukhov and CERN]
+ gap 
+ gap equation (added 2010-05-05)
+ Garfield 
+ Garfinkle-Horowitz-Strominger 
+ gas 
+ gas electron multiplier 
+-gaseous detector (use 'ionization chamber')
+*gauge 
+ gauge boson 
+ gauge dependence 
+ gauge field theory 
+   [was gauge field]
+ gauge field theory Yang-Mills 
+   [bypass ckw problem]
+ gauge fixing 
+-gauge theory (use 'gauge field theory')
+ gaugino 
+ Gauss law 
+ Gauss model 
+-Gauss-Bonnet model (use 'Gauss-Bonnet term')
+ Gauss-Bonnet term 
+-GDH (use 'Drell-Hearn-Gerasimov')
+ GEANT 
+ Gell-Mann-Oakes-Renner (added 2010-05-05)
+ Gell-Mann-Okubo 
+-GEM (use 'gas electron multiplier')
+ general relativity 
+ generalized parton distribution 
+ generalized uncertainty principle 
+ GEO600 
+ geodesic 
+*geometrical 
+ geometrodynamics (added 2010-05-05)
+ geometry 
+ geon 
+   [gravitational-electromagnetic entity]
+ geophysics 
+ Georgi-Glashow model 
+ Gepner model 
+ GERDA 
+ germanium 
+-Germanium detector array (use 'GERDA')
+ ghost 
+*giant 
+-GigaZ (use 'Z0-factory')
+-GIM (use 'Glashow-Iliopoulos-Maiani model')
+ Ginsparg-Wilson relation 
+   [was Ginsparg-Wilson]
+-Ginzburg-Landau model (use 'Landau-Ginzburg model')
+-Ginzburg-Landau theory (use 'Landau-Ginzburg model')
+ GL(1) 
+ GL(1,C) 
+ GL(1,R) 
+ GL(1|1) 
+ GL(2) 
+ GL(2,C) 
+ GL(2,R) 
+ GL(2|2) 
+ GL(3) 
+ GL(3,C) 
+ GL(3,R) 
+ GL(3|1) 
+ GL(4) 
+ GL(4,C) 
+ GL(4,R) 
+ GL(4|4) 
+ GL(5) 
+ GL(N) 
+ GL(N,C) 
+ GL(N,R) 
+-GLAP (use 'DGLAP equation')
+ Glashow-Iliopoulos-Maiani model 
+ glasma 
+   [strongly interacting, non-equilibrium state formed by colliding sheets of colored glass]
+ glass 
+ GLAST 
+ Glauber 
+*global 
+ glueball 
+-gluelump (use 'multigluon')
+ gluino 
+ gluon 
+ gluon gluon 
+ GNO 
+   [obsolete]
+ Goedel 
+ gold 
+ Goldstino 
+-Goldstone boson (use 'Goldstone particle')
+ Goldstone particle 
+   [was PNGB]
+ Goldstone theorem 
+ Gott (added 2010-06-16)
+ Gottfried 
+ Gowdy 
+-GPD (use 'generalized parton distribution')
+*gradient 
+ Gran Sasso 
+ grand unified theory 
+   [theory describing electromagnetism, weak and strong force as aspects of a single force]
+-granule (use 'droplet')
+ graph theory 
+ graphene 
+ graphics 
+ Grassmann 
+ gravastar 
+ graviphoton 
+ graviscalar (added 2010-06-25)
+ gravitation 
+ gravitational radiation 
+ gravitational radiation detector 
+-gravitational vacuum star (use 'gravastar')
+-gravitational wave detector (use 'gravitational radiation detector')
+-gravitational wave (use 'gravitational radiation')
+ gravitino 
+ graviton 
+-gravity wave (use 'gravitational radiation')
+-GRD (use 'gravitational radiation detector')
+ Grenoble ESRF 
+-Gribov ambiguity (use 'Gribov problem')
+ Gribov problem 
+ Gribov-Levin-Ryskin equation (added 2010-05-04)
+ Grid computing 
+-Grid (use 'Grid computing')
+ Gromov-Witten theory 
+ Gross-Neveu model 
+ Grosse-Wulkenhaar model 
+ ground state 
+*group 
+ group theory 
+-GRT (use 'general relativity')
+-GSI-FAIR-CBM (use 'CBM')
+-GSI-SIS-ALADIN (use 'ALADIN')
+-GSI-SIS-FOPI (use 'FOPI')
+-GUT (use 'grand unified theory')
+-gyraton (added 2010-05-05) (rejected)
+-gyromagnetic ratio (use 'magnetic moment')
+ GZK effect 
+-GZK (use 'GZK effect')
+
+                     --- H ---
+
+ H baryon 
+   [di-Lambda]
+-H-particle (use 'H baryon')
+-H.E.S.S. (use 'HESS')
+ h/c(3526) 
+   [c anti-c]
+*H1 
+   [magnetic detector at HERA]
+ h1(1170) (was H(1190))
+ h1(1380) 
+ h1(1595) (added 2010-08-10)
+ Hadamard state (added 2010-05-05)
+ hadron 
+ hadron deuteron 
+ hadron hadron 
+ hadron nucleon 
+ hadron nucleus 
+ hadron spectroscopy 
+-hadron spectrum (use 'hadron spectroscopy')
+-hadron therapy (use 'nuclear medicine')
+ hadron+ 
+ hadron- (added 2010-03-02)
+*hadronic 
+ hadronic atom 
+ hadronic component 
+ hadronic decay 
+-hadronic (use 'hadron')
+ hadronium 
+ hadronization 
+ hadroproduction 
+   [for particle produced in hadron interactions]
+ hafnium 
+ Hagedorn 
+ hair 
+   [no-hair theorem: a black hole is characerized fully by its mass, spin and charge]
+-hairy (use 'hair')
+-half (use '1/2')
+ Hall effect 
+ halo 
+ Hamilton-Jacobi equation 
+ Hamiltonian (added 2010-05-05)
+-Hamiltonian approach (use 'Hamiltonian formalism')
+ Hamiltonian formalism 
+ Hanbury-Brown-Twiss effect 
+ HAPPEX 
+   [Measurement of Nucleon Strange Form Factors at High Q2]
+ hard scattering 
+ hard thermal loop approximation 
+   [was hard thermal loop]
+ hardware 
+*harmonic 
+ HARP (added 2010-03-02)
+   [p/ pi+/ pi- beams, momentum 1.5-15GeV; target: H to Pb]
+ Hartree approximation 
+ Hartree-Fock approximation 
+*Hawking 
+-HBT (use 'Hanbury-Brown-Twiss effect')
+-He-3 (use 'helium')
+-He-4 (use 'helium')
+ heat engineering 
+   [for low temperatures use 'cryogenics']
+ heat kernel 
+*heavy 
+-heavy flavor  (use 'heavy quark ')
+ heavy ion 
+ heavy lepton 
+ heavy liquid 
+ heavy quark (since Jan 10, was 'quark, heavy')
+-heavy quark effective theory (use 'HQET model')
+ Hecke 
+ Heisenberg 
+ Heisenberg model 
+ helicity 
+ helium 
+-heptaquark (added 2010-05-05) (use 'multiquark')
+-HERA (use 'DESY HERA Stor')
+ HERA-B 
+   [magnetic detector at HERA]
+ HERMES 
+   [magnetic spectrometer at HERA]
+ HERWIG 
+-herwig (use 'HERWIG')
+ HESS 
+   [Atmospheric Cherenkov Telescopes for detection of very high energy gamma-rays]
+ heterotic 
+ Heun equation (was 2010-6-16 Annette)
+ hidden sector 
+ hidden symmetry 
+ hidden variable 
+   [quantities that are part of a putative theory underlying quantum theory]
+-hierarchical (use 'hierarchy')
+ hierarchy 
+-hierarchy problem  use 'hierarchy, XXX' (usually 'hierarchy, coupling constant')
+*Higgs 
+-Higgs boson (use 'Higgs particle')
+ Higgs mechanism (since nov 08, was 'effect, Higgs')
+ Higgs model 
+ Higgs particle 
+   [was Higgses]
+ Higgs particle doublet 
+   [bypass ckw problem]
+ Higgsino 
+ Higgsless model 
+*high 
+ high energy behavior 
+-high energy physics (use 'particle physics')
+ high temperature expansion 
+-high-voltage system (use 'power supply')
+-higher dimension (use 'higher-dimensional')
+-higher (use 'high')
+ higher-dimensional 
+ higher-order 
+ higher-twist 
+ Hilbert space 
+ history 
+ Hitchin equation (added 2010-06-16)
+-HJE (use 'Hamilton-Jacobi equation')
+ hodoscope 
+ hollow beam 
+ holmium 
+ holography 
+   [The holographic principle states that the amount of information in a region is proportional not to its volume but to the area of its boundary]
+ holomorphic 
+ holonomy 
+ Holst term (added 2010-05-05)
+ Homestake 
+ homology 
+ homotopy 
+ Hopf 
+ Hopf term 
+ hopping (added 2010-05-05)
+-hopping expansion (use 'hopping parameter expansion')
+ hopping parameter expansion 
+ Horava-Lifshitz 
+ Horava-Witten model 
+ horizon 
+ horizontal symmetry 
+ HQET model 
+-HQET (use 'HQET model')
+ HRS (added 2010-05-05)
+-HTLA (use 'hard thermal loop approximation')
+ Hubbard model 
+ Hubble constant 
+-Hubble parameter (use 'Hubble constant')
+-Hubble rate (use 'Hubble constant')
+-HV system (use 'power supply')
+ hybrid 
+ hydrodynamics 
+ hydrogen 
+ hypercharge 
+ hypercolor 
+-hyperfine splitting (use 'hyperfine structure')
+ hyperfine structure 
+-hyperfragment (use 'hypernucleus')
+-hyperKaehler (use 'Kaehler')
+ hypernucleus 
+ hyperon 
+ hyperon hyperon 
+ hyperon nucleon (added 2010-03-02)
+ hyperon nucleus 
+ hyperonic atom 
+ hyperphoton 
+
+                     --- I ---
+
+ ice 
+ IceCube 
+-IHEP (use 'Serpukhov PS')
+ Iizuka-Okubo-Zweig rule 
+ Iizuka-Okubo-Zweig rule violation 
+   [bypass ckw problem]
+ ILC Coll 
+   [was ILC]
+ ILD (added 2010-05-05)
+   [International Large Detector for ILC]
+   [LoI : 8613117]
+ imaging 
+ IMB 
+ Immirzi parameter 
+ impact parameter 
+   [for track data analysis see also 'path length']
+ impedance 
+ impulse approximation 
+ inclusive production 
+ inclusive reaction 
+ incoherent interaction 
+ indefinite metric 
+ index theorem 
+ indium 
+*induced 
+   [use 'induction' for classical electromagnetism]
+ induction 
+ inelastic scattering 
+*infinite 
+ inflation (was until Jul 08 'inflationary universe')
+ inflaton 
+-information loss (use 'information theory')
+ information management 
+-information paradox (use 'information theory')
+-information puzzle (use 'information theory')
+ information theory 
+ infrared 
+ infrared problem 
+-initial condition (use 'boundary condition')
+-initial data (use 'boundary condition')
+ initial state 
+-initial value (use 'boundary condition')
+ initial-state interaction 
+ injection 
+ inorganic compounds 
+-instability (use 'stability')
+ instanton 
+ insulation 
+ integrability 
+ integral equations 
+ integrated circuit 
+*interaction 
+   [restricted use, if possible use more specific term]
+ interface 
+ interference 
+   [between different processes (paths) leading from the same initial state to the same final state]
+ interferometer 
+ intermediate boson 
+ intermediate state 
+ intermittency 
+*internal 
+-International Linear Collider (use 'ILC Coll')
+-International Space Station (use 'satellite')
+ interpretation of experiments 
+ intranuclear cascade 
+ introductory 
+   [restricted use]
+*invariance 
+ invariance gauge 
+   [bypass ckw problem]
+-invariant (added 2010-05-05) ('use invariance' or 'conservation law')
+*inverse 
+ inverse scattering method 
+ invisible decay (since dec 08)
+ iodine 
+ ion 
+ ionization 
+ ionization chamber 
+ iridium 
+ iron 
+ irradiation 
+ Isgur-Wise function 
+ Ising model 
+-ISIS (use 'Rutherford ISIS PS')
+-ISM (use 'inverse scattering method')
+ ISO(2,1) 
+ isobar model 
+   [for the nucleon isobar use 'nucleon resonance']
+ isolated production (added 2010-05-05)
+ isometry (added 2010-05-05)
+ isoscalar 
+ isospin 
+ isovector 
+-ISS (use 'satellite')
+-ITEP-913 (use 'DIANA')
+
+                     --- J ---
+
+-J-matrix (use 'Jacobi matrix')
+ J-PARC Lab 
+-J-PARC (use 'J-PARC Lab')
+-J/psi (use 'J/psi(3100)')
+ J/psi(3100) 
+ Jacobi identity 
+ Jacobi matrix (since Jan 10)
+ JADE 
+   [magnetic detector at PETRA]
+-Japan Proton Accelerator Complex (use 'J-PARC Lab')
+ Jefferson Lab 
+   [for unspecified experiments at JLAB]
+*jet 
+-jet algorithm (use 'track data analysis')
+-JHF (use 'KEK JHF PS')
+-JINR (use 'Dubna Lab')
+-JLab (use 'Jefferson Lab')
+-JLAB-E-00-006 (use 'G0 Experiment')
+-JLAB-E-00-114 (use 'HAPPEX')
+-JLAB-E-04-115-101 (use 'G0 Experiment')
+-JLAB-E-05-008 (use 'G0 Experiment')
+-JLN (use 'Jona-Lasinio-Nambu model')
+ Jona-Lasinio-Nambu model 
+ Jones polynomial 
+ Jordan 
+ Juelich COSY PS 
+
+                     --- K ---
+
+*K 
+ K anti-K 
+ K deuteron 
+ K K 
+ K n 
+ K nucleon 
+ K nucleus 
+ K p 
+ K(1460) 
+ K(1630) (added 2010-08-10)
+ K(1830) 
+ K(3100) 
+-K(L) (use 'K0(L)')
+-K(S) (use 'K0(S)')
+-K* (use 'K*(892)')
+ K*(1410) (was K*(1370), earlier K*(1410))
+ K*(1680) 
+ K*(1680)- 
+*K*(892) 
+ K*(892)+ (added 2010-09-17)
+ K*(892)- (added 2010-09-17)
+ K*(892)0 (added 2010-08-10)
+ K*0(1430) (was kappa(1350))
+ K*0(1950) 
+ K*0(800) (added 2010-08-10)
+ K*2(1430) (was K*(1430))
+ K*2(1980) 
+ K*3(1780) (was K*(1780))
+ K*4(2045) (was K*(2060))
+ K*5(2380) 
+*K+ 
+ K+ deuteron 
+ K+ K- 
+ K+ n 
+ K+ nucleon 
+ K+ nucleus 
+ K+ p 
+*K- 
+ K- deuteron 
+ K- n 
+ K- nucleon 
+ K- nucleus 
+ K- p 
+ k-essence 
+ K-theory 
+*K0 
+ K0 anti-K0 
+ K0 deuteron 
+ K0 n 
+ K0 nucleon 
+ K0 nucleus 
+ K0 p 
+ K0(L) 
+ K0(S) 
+ K1(1270) (was Q1(1280))
+ K1(1400) (was Q2(1400))
+ K1(1650) 
+ K2(1580) (was L(1580))
+ K2(1770) (was L(1770))
+ K2(1820) 
+ K2(2250) (was K(2200))
+-K2K (use 'KAMIOKANDE')
+-K2K (use 'KEK Lab')
+ K3(2320) 
+ K4(2500) 
+ Kac-Moody 
+ Kadanoff-Baym equation 
+ Kadomtsev-Petviashvili equation 
+ Kaehler 
+-Kahler (use 'Kaehler')
+ kaium (since Jan 10)
+   [K+ electron bound state]
+ Kaluza-Klein 
+ Kaluza-Klein model 
+   [was KK model]
+-Kaluza-Klein theory (use 'Kaluza-Klein model')
+ KAMIOKANDE 
+ KamLAND 
+ Kantowski-Sachs 
+-kaon (use 'K')
+ kappa meson 
+ kappa symmetry 
+ Karch-Randall model (added 2010-06-16)
+ Kasner 
+ Kazakov-Migdal model 
+-KdV (use 'Korteweg-de Vries equation')
+ KEDR 
+   [magnetic detector at Novosibirsk Stor4]
+ KEK JHF PS (was KEK JHP PS)
+   [hadron factory, 50 GeV protons]
+ KEK Lab 
+   [for unspecified accelerators at KEK]
+ KEK Linac 
+   [2.5 GeV electrons]
+ KEK PF Stor 
+   [2.5/8.0 GeV electrons, synchrotron radiation]
+-KEK PF (use 'KEK PF Stor')
+ KEK PS 
+   [12 GeV protons]
+ KEK TRISTAN Stor 
+   [60 GeV-cms e+e-]
+ KEK-B 
+-KEK-BF-BELLE (use 'BELLE')
+-KEK-TE-003 (use 'AMY')
+ Kerr 
+ Kerr-Newman 
+ Kerr-NUT 
+ Kerr-Schild 
+ Kerr-Sen (added 2010-05-05)
+ Kerr/CFT corresponendce (added 2010-09-03)
+-Kerr/CFT (use 'Kerr/CFT corresponendce')
+-KGE (use 'Klein-Gordon equation')
+-KGF (use 'Kolar Gold Fields')
+ Kharkov Linac 
+   [2 GeV electrons, 0.4 GeV protons]
+ Killing 
+ Killing-Yano 
+ kinematics 
+ kinetic 
+ kink 
+ Klein-Gordon equation 
+ KLOE 
+   [magnetic detector at DAFNE]
+-KLOE (use 'Frascati Stor')
+-klystron (use 'cavity')
+ Knizhnik-Zamolodchikov equation 
+ KNO 
+-knock-out (use 'emission')
+-knot invariant (use 'knot theory')
+ knot theory 
+-Koba-Nielsen-Olesen (use 'KNO')
+-Kobayashi-Maskawa angle (use 'CKM matrix')
+ Kobayashi-Maskawa model 
+ Kodama state (since 2008)
+ Kolar Gold Fields 
+-Kolmogorov-Smirnov test (use 'statistical analysis')
+ Konishi (added 2010-05-05)
+ Kontsevich model 
+ Korteweg-de Vries equation 
+ Krein (added 2010-05-05)
+ Krichever-Novikov 
+ krypton 
+ KTeV 
+   [magnetic detector at Fermilab]
+ Kundt (added 2010-05-05)
+
+                     --- L ---
+
+*L3 
+   [magnetic detector at LEP]
+ ladder approximation 
+ Lagrangian formalism 
+ Lamb shift (added 2010-05-05)
+*Lambda 
+ Lambda deuteron 
+ Lambda Lambda 
+ Lambda nucleus 
+ Lambda parameter 
+ Lambda(1405) 
+   [partial wave S01]
+ Lambda(1520) 
+   [partial wave D03]
+ Lambda(1600) 
+   [partial wave P01]
+ Lambda(1670) 
+   [partial wave S01]
+ Lambda(1690) 
+   [partial wave D03]
+ Lambda(1800) 
+   [partial wave S01]
+ Lambda(1810) 
+   [partial wave P01]
+ Lambda(1820) 
+   [partial wave F05]
+ Lambda(1830) 
+   [partial wave D05]
+ Lambda(1890) 
+   [partial wave P03]
+ Lambda(2000) 
+ Lambda(2020) 
+   [partial wave F07]
+ Lambda(2100) 
+   [partial wave G07]
+ Lambda(2110) 
+   [partial wave F05]
+ Lambda(2325) 
+   [partial wave D03]
+ Lambda(2350) 
+   [partial wave H09]
+ Lambda(2585) 
+-Lambda/b (use 'Lambda/b0')
+*Lambda/b0 
+   [mass 5640]
+-Lambda/c (use 'Lambda/c+')
+ Lambda/c(2593) 
+   [ground state of Lambda/c(2625) ?]
+ Lambda/c(2625) 
+ Lambda/c(2765) 
+ Lambda/c(2880) 
+ Lambda/c(2940) (added 2010-08-10)
+*Lambda/c+ 
+ LAMPF Linac 
+   [meson factory, 0.8 GeV protons]
+-LAMPF (use 'LAMPF Linac')
+-LAMPF-1173 (use 'LSND')
+ Landau gauge 
+ Landau problem (since Jan 10)
+ Landau-Ginzburg model 
+ Landau-Pomeranchuk-Migdal effect 
+ landscape 
+   [possible shapes of the hidden dimensions of space each corresponding to a different set of particles and forces in 3d space]
+ Langevin equation 
+ lanthanum 
+ Laplace 
+ Laplace gauge 
+ Laplace transformation 
+-LAr (use 'liquid argon')
+-Large Hadron Collider (use 'CERN LHC Coll')
+-large N (use 'expansion 1/N')
+-large-angle (use 'wide-angle')
+ laser 
+-Laser Interferometer Gravitational wave Observatory (use 'LIGO')
+-Laser Interferometer Space Antenna (use 'LISA')
+ LASS 
+   [magnetic spectrometer at SLAC Linac]
+ lattice 
+ lattice field theory 
+   [was lattice QCD]
+   [was lattice quantum chromodynamics]
+   [was LQCD]
+   [was lattice gauge theory]
+ lawrencium 
+ Lax 
+ LBL-E-0987 
+   [Berkley Bevelac project EOS]
+-LCG (use 'Grid computing')
+*lead 
+ lead-glass 
+ leading logarithm approximation 
+ leading particle 
+-LEAR (use 'CERN LEAR')
+ lectures 
+ Lee model (added 2010-08-03)
+ Lee-Wick model 
+-Lee-Wick (use 'Lee-Wick model')
+ Lee-Yang model (added 2010-09-03)
+ left-handed 
+ left-right 
+ Legendre transformation 
+ Lemaitre-Tolman-Bondi model (added 2010-06-16)
+ LENA (added 2010-03-02)
+*length 
+ lens 
+   [was lensing]
+-LEP (use 'CERN LEP Stor')
+-LEP2 (use 'CERN LEP Stor')
+ leptogenesis 
+ leptogluon 
+ lepton 
+ lepton antilepton 
+ lepton baryon 
+ lepton deuteron 
+ lepton hadron 
+ lepton K 
+ lepton lepton 
+ lepton n 
+ lepton nucleon 
+ lepton nucleus 
+ lepton number 
+ lepton p 
+ lepton quark 
+ lepton+ 
+ lepton- 
+*leptonic 
+ leptonic decay 
+-leptophilic (added 2010-05-05) (rejected)
+ leptoproduction 
+   [for particle production by electrons, muons or neutrinos]
+ leptoquark 
+-LG model (use 'Landau-Ginzburg model')
+-LHC (use 'CERN LHC Coll')
+ LHC-B 
+   [magnetic detector at LHC]
+ LHC-F 
+   [magnetic detector at LHC]
+-LHCb (use 'LHC-B')
+-LHCf (use 'LHC-F')
+ LHeC 
+   [proposed colliding beam facility at CERN]
+ Lie 
+ lifetime 
+ light cone 
+ light cone behavior 
+ light cone gauge 
+   [was light-cone gauge]
+ light front 
+ light nucleus 
+   [up to mass number 20 (incl.)]
+ LIGO 
+-linac (use 'linear accelerator')
+ linac-ring collider 
+*linear 
+ linear accelerator 
+ linear collider 
+ linear space 
+ Liouville 
+ Lipatov equation 
+ Lippmann-Schwinger equation 
+ liquid 
+ liquid argon 
+ LISA 
+   [gravitational wave detector]
+ lithium 
+ little Higgs model 
+-little Higgs (use 'little Higgs model')
+ littlest Higgs model 
+-LNGS (use 'Gran Sasso')
+*local 
+   [restricted use, for local supersymmetry use 'supergravity']
+ localization 
+ logic 
+   [mathematics only; for electronics use 'fast logic']
+ long-range 
+ longitudinal 
+ longitudinal momentum 
+ loop integral (since Jan 10)
+-loop model  (use 'loop space' if applicable)
+ loop space 
+ Lorentz 
+ Lorentz gauge 
+ Los Alamos Lab 
+   [for unspecified accelerators at LANL]
+*loss 
+ Lovelock 
+*low 
+-low Bjorken x (use 'small-x')
+-Low Energy Neutrino Astronomy (use 'LENA ')
+ low temperature expansion 
+ low-energy constant 
+ low-energy theorem 
+-low-x (use 'small-x')
+*lower limit 
+-LPM effect (use 'Landau-Pomeranchuk-Migdal effect')
+ LSND 
+   [search for anti-neutrino/mu --> anti-neutrino/e oscillations]
+ LSP 
+   [lightest supersymmetric particle]
+*luminosity 
+ lunar 
+ Lund MAX Stor 
+-LURE (use 'Orsay Lab')
+ lutetium 
+ Lyapunov exponent (added 2010-05-05)
+ Lyra 
+
+                     --- M ---
+
+ M-brane (since dec 08)
+ M-theory 
+ MAC (added 2010-05-04)
+ Mach principle 
+ MACHO 
+ MACRO 
+   [deep underground detector]
+-MAG (use 'maximal abelian gauge')
+ MAGIC (added 2010-03-02)
+   [atmospheric imaging Cherenkov telescope, cosmic gamma-rays at an energy threshold of 25 GeV]
+ magnesium 
+ magnet 
+ magnetar (added 2010-05-05)
+*magnetic 
+ magnetic detector 
+   [For small-angle detectors see also 'magnetic spectrometer']
+ magnetic field 
+ magnetic moment 
+ magnetic monopole 
+ magnetic spectrometer 
+ magnetization 
+ magnetostatic 
+ magnon 
+ Mainz Linac 
+ MAINZ-A1 
+ MAINZ-A2 
+ Majorana 
+ Majoron 
+-MAMI (use 'Mainz Linac')
+ manganese 
+-manifold (use 'space')
+ manual 
+-manufacturing (use 'fabrication')
+ many-body problem 
+   [was many-body]
+*marginal 
+ MARK I (added 2010-05-05)
+ MARK II 
+   [magnetic detector at PEP and SLC]
+ MARK III 
+   [magnetic detector at SPEAR]
+ MARK J (added 2010-05-05)
+ Markov chain (added 2010-05-05)
+*mass 
+   [was masses]
+ mass dependence 
+ mass difference 
+-mass distribution (use 'mass spectrum')
+ mass enhancement 
+ mass formula 
+ mass generation 
+ mass number 
+ mass ratio 
+ mass resolution (since Aug 07)
+ mass spectrum 
+-mass splitting (use 'mass difference')
+*massive 
+*massless 
+ master equation 
+ master integral (since Dec 08)
+ mathematical methods 
+*matrix (since Dec 07)
+ matrix model 
+-matrix theory (use 'matrix model')
+*matter 
+ maximal abelian gauge 
+ Maxwell equation 
+ mean field approximation 
+-mean free path (use 'path length')
+*measure 
+   [only in mathematical sense, e.g. 'path integral: measure']
+*measured (added 2010-05-05)
+   [only to indicate experimental result of a quantity]
+ measurement methods 
+-measurement problem (use 'measurement theory')
+ measurement theory 
+ mechanical engineering 
+ mechanics 
+ mediation 
+-medical (use 'medicine')
+ medicine (since Dec 07)
+-MEDIPIX (use 'semiconductor detector')
+ Meissner effect 
+ Mellin transformation 
+ Melvin 
+ membrane 
+ membrane model 
+ mendelevium 
+ mercury 
+ meron 
+ mesic atom 
+ meson 
+ meson baryon 
+ meson deuteron 
+ meson dominance 
+   [used for scalar, pseudoscalar and tensor mesons]
+ meson meson 
+ meson n 
+ meson nucleon 
+ meson nucleus 
+ meson p 
+ meson quark 
+ meson resonance 
+ meson trajectory (since Jan 10)
+   [trajectory in Chew-Frautschi Plot (angular momentum vs. mass**2)]
+ messenger 
+ metal 
+*metric 
+-MFA (use 'mean field approximation')
+ MICE 
+   [INTERNATIONAL MUON IONIZATION COOLING EXPERIMENT]
+ Michel parameter 
+ micro-pattern detector 
+ Micromegas 
+ microprocessor 
+ microstrip 
+-microtechnology (added 2010-05-05) (rejected)
+ microtron 
+ microwaves 
+ midisuperspace (added 2010-05-05)
+ Milan Cycl 
+ Milne 
+ MIMAC 
+   [dark matter detector]
+ mineral 
+-MiniBooNE (use 'BooNE')
+ MiniCLEAN 
+   [100kg liquid argon WIMP detector]
+ minijet 
+*minimal 
+   [for field theoretical models]
+ minimal supersymmetric standard model 
+-minimum (use 'minimal')
+ minisuperspace 
+ Minkowski 
+ MINOS 
+ mirage (added 2010-05-05)
+ mirror 
+ mirror particle 
+-misalignment (use 'alignment')
+ Misner 
+ missing-energy 
+ missing-mass 
+ MIT Linac 
+ Miura transformation 
+ mixing (was interference)
+ mixing angle 
+ mixmaster model (added 2010-05-05)
+-mKdV (use 'Korteweg-de Vries equation')
+*model 
+ modular 
+ modulation 
+ moduli 
+ moduli space 
+ Moessbauer (added 2010-05-05)
+*molecule 
+ molybdenum 
+ moment 
+*momentum 
+ momentum dependence 
+-momentum distribution (use 'momentum spectrum')
+ momentum resolution 
+ momentum spectrum 
+ momentum transfer 
+ momentum transfer dependence 
+ MOND 
+ monitoring 
+ monochromatic beam 
+ monodromy 
+ monopole 
+ monster (added 2010-05-05)
+ Mont Blanc 
+ Monte Carlo 
+-moon (use 'lunar')
+ moose 
+ Morita equivalence 
+ Morse theory 
+ Moscow ES 
+ Moscow ITEF PS 
+-MOSFET (use 'semiconductor detector')
+*Moyal 
+ Moyal product 
+ Moyal-Voros (since Jan 10)
+-MPGD (use 'micro-pattern detector')
+-MSSM (use 'minimal supersymmetric standard model')
+-mSUGRA (use 'supergravity')
+ MSW effect 
+-MSW (use 'MSW effect')
+-mu-parameter (use 'mu-problem')
+ mu-problem 
+-mu-term (use 'mu-problem')
+ multi-Regge 
+ multibaryon 
+ multigluon 
+ multiperipheral 
+*multiple 
+ multiple field 
+ multiple production 
+   [was multiparticle production]
+   [was multiproduction]
+ multiple scattering 
+ multiplet 
+ multiplicity 
+ multipole 
+ multiprocessor 
+ multiquark 
+ multiverse 
+ muon 
+ muon deuteron 
+-muon electron (added 2010-05-05) (use electron muon)
+ muon hadron 
+ muon n 
+ muon nucleon 
+ muon nucleus 
+ muon number 
+ muon p 
+ muon tau 
+ muon+ 
+ muon+ deuteron 
+ muon+ muon+ 
+ muon+ muon- 
+ muon+ n 
+ muon+ nucleon 
+ muon+ nucleus 
+ muon+ p 
+ muon- 
+ muon- deuteron 
+ muon- muon- 
+ muon- n 
+ muon- nucleon 
+ muon- nucleus 
+ muon- p 
+ muonic atom 
+ muonium 
+-MWPC (use 'proportional chamber')
+ Myers-Perry (added 2010-06-16)
+
+                     --- N ---
+
+*n 
+ n anti-n 
+ n deuteron 
+ n Lambda 
+*n n 
+ n nucleus 
+ n Sigma 
+ N(1440) 
+   [partial wave P11]
+ N(1520) 
+   [partial wave D13]
+ N(1535) 
+   [partial wave S11]
+ N(1650) 
+   [partial wave S11]
+ N(1675) 
+   [partial wave D15]
+ N(1680) 
+   [partial wave F15]
+ N(1700) 
+   [partial wave D13]
+ N(1710) 
+   [partial wave P11]
+ N(1720) 
+   [partial wave P13]
+ N(1900) 
+   [partial wave P13]
+ N(1990) 
+   [partial wave F17]
+ N(2000) 
+   [partial wave F15]
+ N(2080) 
+   [partial wave D13]
+ N(2090) 
+   [partial wave S11]
+ N(2100) 
+   [partial wave P11]
+ N(2190) 
+   [partial wave G17]
+ N(2200) 
+   [partial wave D15]
+ N(2220) 
+   [partial wave H19]
+ N(2250) 
+   [partial wave G19]
+ N(2600) 
+   [partial wave I111]
+ N(2700) 
+   [partial wave K113]
+-N-body (use 'many-body problem')
+-n-dimensional (use 'any-dimensional')
+-N-gluon (use 'multigluon')
+-N-particle (use 'many-body problem')
+ n-point function 
+ NA48 
+   [K+ K- Decays]
+ NA49 (since Jan 10)
+   [Hadron Detector for Pb-induced production of charged hadrons and neutral strange particles]
+ Nahm equation 
+ Nahm transformation 
+-NaI (use 'sodium-iodide')
+ Nambu bracket (added 2010-05-05)
+-Nambu-Goldstone (use 'Goldstone particle')
+ Nariai (added 2010-05-05)
+ narrow resonance 
+ Navier-Stokes equation (added 2010-05-05)
+ near detector 
+-NEC (use 'null-energy condition')
+*negative 
+ negative particle 
+ NEMO (added 2010-03-02)
+   [Underwater Cherenkov Telescope in the Mediterranean Sea Looking for High Energy Neutrinos]
+ neodymium 
+ neon 
+ neptunium 
+ NESTOR 
+   [deep underground detector]
+ network 
+ neural network 
+ neutral current 
+   [for weak currents; otherwise see e.g. 'exchange, one-photon']
+ neutral particle 
+ neutralino 
+ neutralino nucleon 
+ neutralino nucleus 
+ neutralino p 
+*neutrino 
+ neutrino antineutrino 
+ neutrino deuteron 
+ neutrino electron 
+ neutrino hadron 
+ neutrino lepton 
+ neutrino muon 
+ neutrino n 
+ neutrino neutrino 
+ neutrino nucleon 
+ neutrino nucleus 
+ neutrino p 
+ neutrino pi 
+ neutrino quark 
+*neutrino/e 
+ neutrino/L 
+   [heavy lepton neutrino]
+*neutrino/mu 
+*neutrino/tau 
+ neutrinoless 
+ neutrinoproduction 
+   [used for production by neutrinos or antineutrinos]
+ neutron star (was 'n, matter')
+-neutron (use 'n')
+ new interaction 
+ new particle 
+   [fuer im Experiment (vermeintlich) gefundene]
+ new physics (since Dec 08)
+ Newport News CEBAF Linac 
+ Newton-Hooke (added 2010-06-16)
+-next-to-leading order (use 'higher-order')
+ nickel 
+ Nicolai map 
+ Nieh-Yan term (added 2010-06-16)
+-nine (use '9')
+ niobium 
+ nitrogen 
+-NJL (use 'Jona-Lasinio-Nambu model')
+ NLSP 
+-NMSSM (use 'minimal supersymmetric standard model')
+ nobelium 
+ Noether 
+ noise 
+   [restricted use]
+ NOMAD 
+   [at SPS]
+ non-Gaussianity (was Apr 08)
+   [provisorisch]
+-non-perturbative (use 'nonperturbative')
+ nonabelian 
+   [not used together with 'gauge field theory, Yang-Mills']
+ noncommutative 
+ noncompact 
+ nondiffractive 
+ nonet (added 2010-05-05)
+ nonlinear 
+ nonlocal 
+ nonminimal 
+ nonperturbative 
+ nonpolynomial 
+ nonrelativistic 
+ nonrenormalizable 
+ Novosibirsk Lab 
+   [for unspecified accelerators at Novosibirsk]
+ Novosibirsk Stor2 
+ Novosibirsk Stor3 
+ Novosibirsk Stor4 
+ Novosibirsk VEPP-2000 
+-NOVOSIBIRSK-CMD-2 (use 'CMD-2')
+-NSLS (use 'Brookhaven ES')
+-nu/e (use 'neutrino/e')
+-nu/mu (use 'neutrino/mu')
+-nu/tau (use 'neutrino/tau')
+ nuclear emulsion 
+ nuclear force 
+ nuclear matter 
+ nuclear medicine 
+-nuclear medium (use 'nuclear matter')
+ nuclear model 
+ nuclear physics 
+ nuclear properties 
+ nuclear reaction 
+ nuclear reactor 
+-nuclear (use 'nucleus')
+ nucleation 
+-nuclei (use 'nucleus')
+ nucleon 
+ nucleon antinucleon 
+ nucleon deuteron 
+ nucleon hyperon 
+ nucleon Lambda 
+ nucleon n 
+ nucleon nucleon 
+ nucleon nucleus 
+ nucleon quark 
+ nucleon resonance 
+ nucleon Sigma 
+ nucleon Xi (added 2010-03-02)
+ nucleosynthesis 
+ nucleus 
+ nucleus nucleus 
+ nuclide 
+-Nuclotron (use 'Dubna Nuclotron')
+ null-energy condition 
+ number theory 
+ numerical calculations 
+   [was numerical simulations]
+   [was numerical computation]
+   [was numerical solution]
+   [was numerical result]
+ numerical methods 
+ NUSEX 
+ NUT (added 2010-05-05)
+ NuTeV 
+
+                     --- O ---
+
+ O'Raifeartaigh model (added 2010-05-05)
+ O(2) 
+ O(2,1) 
+ O(2,6) 
+ O(3) 
+ O(4) 
+ O(4) x U(1) 
+ O(4,2) 
+ O(6) 
+ O(N) 
+ O(N,N) 
+ Oak Ridge SNS PS 
+ oblique 
+ observatory (since Apr 08)
+   [astronomical observatory]
+*octet 
+ octonion 
+ odderon 
+ off-line 
+ off-shell 
+-Okubo-Zweig-Iizuka (use 'Iizuka-Okubo-Zweig rule')
+ OMEGA 
+   [magnetic detector at CERN SPS]
+ omega(1390) 
+ omega(1600) 
+ omega(1650) 
+ Omega(2250) 
+ Omega(2380) 
+ Omega(2470) 
+ omega(783) 
+*Omega- 
+*Omega/b 
+ Omega/c(2770)0 (added 2010-08-10)
+ Omega/c0 
+ omega3(1670) (was omega(1670))
+ on-line 
+*on-shell 
+-one (use '1')
+ one-boson 
+ one-meson 
+ one-particle 
+ one-photon 
+ one-pion 
+ opacity 
+ OPAL 
+   [magnetic detector at LEP]
+*open 
+ OPERA (added 2010-05-04)
+   [OSCILLATION PROJECT WITH EMULSION-TRACKING APPARATUS]
+*operator 
+ operator product expansion 
+ optical 
+ optical theorem 
+ optics 
+ orbifold 
+ orbit 
+ organic compounds 
+ orientifold 
+ Orsay Lab 
+   [for unspecified accelerators at LAL]
+ Orsay Stor 
+   [DCI, 7.2 GeV-cms e+e-]
+-orthopositronium (use 'positronium')
+ oscillation 
+   [was oscillating]
+ oscillator 
+ oscillon (added 2010-06-25)
+ osmium 
+ OSp(1|2) 
+ OSp(2|2) 
+ OSp(4|2) 
+ OSp(N,M) 
+-Osterwalder-Schrader (use 'axiomatic field theory')
+ overlap 
+ oxygen 
+-OZI rule (use 'Iizuka-Okubo-Zweig rule')
+
+                     --- P ---
+
+*p 
+ p anti-n 
+ p antinucleon 
+ p baryon 
+ p deuteron 
+ p hyperon 
+ p Lambda 
+ p n 
+ p nucleon 
+ p nucleus 
+ p Omega- 
+*p p 
+ p Sigma 
+ p Sigma+ 
+ p Sigma- 
+ p Sigma0 
+ p Xi 
+ p Xi- 
+ p Xi0 
+ p-adic 
+ p-brane 
+-p-form (use 'differential forms')
+ Pade approximation 
+*pair 
+-pair creation (use 'pair production')
+ pair production 
+-pairing (use 'pair')
+ Palatini model 
+ palladium 
+ PAMELA (since Oct 08)
+ PANDA (added 2010-06-16)
+   [experiment at FAIR (GSI)]
+-parafermion (use 'fermion parastatistics')
+*parameter space 
+ parametric 
+ parametrization 
+ paraphoton 
+ parastatistics 
+ parity 
+ partial wave 
+ partial wave analysis 
+-partially conserved axial-vector current (use 'PCAC model')
+*particle 
+ particle antiparticle 
+ particle flow 
+ particle identification 
+ particle number 
+*particle physics 
+   [restricted use]
+ particle separator 
+ particle source 
+ partition function 
+ parton 
+ parton hadron 
+ path integral 
+ path length 
+ Pati-Salam model 
+-pattern recognition (use 'track data analysis')
+ Pauli equation (added 2010-05-05)
+ Pauli principle 
+ Pauli-Villars 
+ PCAC model 
+-PCAC (use 'PCAC model')
+ Peccei-Quinn 
+ penguin 
+ Penner model (since Jul 08)
+ Penning trap 
+ Penrose limit 
+ pentaquark 
+ percolation 
+ performance 
+ peripheral 
+-permutation (added 2010-05-05) (rejected)
+ perturbation 
+ perturbation theory 
+-PETRA (use 'DESY PETRA Stor')
+ phantom 
+*phase 
+-phase diagram (use 'critical phenomena')
+ phase shift (was 'partial wave' or 'partial wave analysis')
+ phase space 
+-phase structure (use 'critical phenomena')
+-phase transition (use 'critical phenomena')
+ PHENIX 
+   [magnetic detector at RHIC]
+-Phi meson (use 'Phi(1020)')
+ Phi(1020) 
+ Phi(1680) 
+ Phi(2170) (added 2010-08-10)
+ phi**n model (was before 1990 'field theoretical model, scalar')
+   [may be coupled with specific n]
+ Phi3(1850) (was X(1850), Phi/J(1850))
+ philosophy 
+ PHOBOS 
+   [magnetic detector at RHIC]
+ phonon 
+ phosphorus 
+ photino 
+-photocathode (use 'photomultiplier')
+-photodiode (use 'photomultiplier')
+-photoelectric effect (use 'photoelectron')
+ photoelectron 
+ photofission 
+ photomultiplier 
+ photon 
+ photon axion 
+ photon baryon 
+ photon deuteron 
+ photon electron 
+ photon gluon 
+ photon hadron 
+ photon lepton 
+ photon meson 
+ photon n 
+ photon nucleon 
+ photon nucleus 
+ photon p 
+ photon photon 
+ photon pi 
+ photon quark 
+-photon sensor (use 'photomultiplier')
+ photon Z0 
+ photoproduction 
+   [for particle production by photons]
+*pi 
+ pi deuteron 
+ pi K 
+ pi n 
+ pi nucleon 
+ pi nucleus 
+ pi p 
+ pi pi 
+ pi quark 
+ pi(1300) 
+ pi(1770) 
+ pi(1775) 
+ pi(1800) (added 2010-08-10)
+ pi(749) 
+*pi+ 
+ pi+ deuteron 
+ pi+ n 
+ pi+ nucleon 
+ pi+ nucleus 
+ pi+ p 
+ pi+ pi- 
+*pi- 
+ pi- deuteron 
+ pi- n 
+ pi- nucleon 
+ pi- nucleus 
+ pi- p 
+ pi0 
+ pi0 deuteron 
+ pi0 n 
+ pi0 nucleon 
+ pi0 nucleus 
+ pi0 p 
+ pi0 pi+ 
+ pi0 pi- 
+ pi1(1400) (added 2010-08-10)
+ pi1(1600) 
+ pi2(1670) (was A3(1680))
+ pi2(1835) 
+ pi2(1880) (added 2010-08-10)
+ pi2(2100) (was A(2100))
+ Picard-Fuchs equation 
+-PID (use 'particle identification')
+-pion p (use 'pi p')
+-pion pion (use 'pi pi')
+-pion proton (use 'pi p')
+-pion (use 'pi')
+ Pioneer anomaly 
+ pixel 
+*planar 
+ planarity 
+ Planck 
+   [for detector use 'satellite: Planck']
+ plane wave 
+ plasma 
+ plasmon 
+ Plastic Ball (added 2010-05-04)
+ plastics 
+ platinum 
+ Plebanski (added 2010-05-05)
+ PLUTO (added 2010-05-05)
+ plutonium 
+-PMT (use 'photomultiplier')
+ Poincare 
+ point splitting 
+ Poisson 
+ Poisson bracket 
+ polarizability 
+   [was polarisability]
+ polarization 
+ polarized beam 
+   [was polarised beam]
+ polarized target 
+   [was polarised target]
+ polaron 
+ pole 
+ polonium 
+ Polyakov action (since Jan 10)
+-Polyakov line (use 'Polyakov loop')
+ Polyakov loop 
+ polymer 
+ pomeron 
+ Ponzano-Regge model (added 2010-05-05)
+ position dependence 
+-position resolution (use 'spatial resolution')
+ position sensitive 
+ positive particle 
+ positron 
+ positron deuteron 
+ positron hadron 
+ positron n 
+ positron nucleon 
+ positron nucleus 
+ positron p 
+ positron positron (added 2010-05-05)
+ positronium 
+ postulated particle 
+   [fuer von der Theorie vorhergesagte]
+ potassium 
+*potential 
+ potential model (since 2008 and in old times)
+ Potts model 
+ power engineering 
+ power spectrum 
+ power supply 
+ pp-wave 
+ praseodymium 
+ precession (added 2010-06-25)
+ preheating 
+   [was pre-heating]
+ preon 
+ prepotential 
+ preprocessing 
+ pressure 
+ Primakoff effect 
+*primary 
+*primordial 
+-principle of equivalence (use 'equivalence principle')
+ Proca 
+*production 
+ programming 
+ promethium 
+ propagation (added 2010-05-05)
+ propagator 
+ proportional chamber 
+-proportional wire chamber (use 'proportional chamber')
+*proposal 
+   [only for submitted proposals]
+*proposed 
+ proposed experiment 
+ protactinium 
+-proton antinucleon (use 'p antinucleon')
+-proton baryon (use 'p baryon')
+-proton deuteron (use 'p deuteron')
+-proton hyperon (use 'p hyperon')
+-proton Lambda (use 'p Lambda')
+-proton neutron (use 'p n')
+-proton nucleon (use 'p nucleon')
+-proton nucleus (use 'p nucleus')
+-proton proton (use 'p p')
+ proton synchrotron 
+-proton (use 'p')
+ protoneutron star 
+-pseudo-Goldstone (use 'Goldstone particle')
+ pseudoparticle 
+-pseudorapidity (use 'rapidity')
+ pseudoscalar 
+ pseudoscalar meson 
+ pseudoscalar particle 
+ pseudotensor (added 2010-09-03)
+ pseudovector 
+ PSI Cycl 
+ psi mesons 
+-psi(2S) (use 'psi(3685)')
+-psi(3100) (use 'J/psi(3100)')
+ psi(3685) 
+ psi(3770) 
+ psi(4040) 
+ psi(4160) 
+ psi(4415) 
+ PT symmetry 
+   [parity time reversal symmetry]
+ publishing 
+ pulsar 
+ pulse stretcher 
+ pulsed 
+ PYTHIA 
+
+                     --- Q ---
+
+ Q(6) 
+ Q-ball 
+-QCD (use 'quantum chromodynamics')
+-QED (use 'quantum electrodynamics')
+-QFT (use 'field theory')
+-QHD (use 'quantum hadrodynamics')
+-QMD (use 'quantum molecular dynamics')
+-QNM (use 'quasinormal mode')
+ quadrupole lens 
+-quadrupole magnet (use 'quadrupole lens')
+ quality 
+ quantization 
+*quantum 
+ quantum algebra 
+ quantum chromodynamics 
+ quantum cosmology 
+ quantum dot (since Jan 10)
+ quantum electrodynamics 
+-quantum field (use 'field theory')
+ quantum geometry 
+ quantum gravity 
+ quantum group 
+ quantum hadrodynamics 
+-quantum measurement (use 'measurement theory')
+ quantum mechanics 
+ quantum molecular dynamics 
+ quantum number 
+ quantum space 
+ quark 
+ quark antiquark 
+ quark gluon 
+ quark hadron 
+ quark model 
+   [if possible use more specific term, not used for QCD]
+-quark number (use 'fermion number')
+ quark parton 
+ quark quark 
+-quark-gluon (use 'quark gluon')
+ quarkonium 
+ quarz 
+ quasar 
+-quasiclassical (use 'semiclassical')
+-quasielastic scattering (use 'inelastic scattering')
+ quasinormal mode 
+ quasiparticle (was pseudoparticle)
+ quasipotential 
+ quaternion 
+ qubit 
+ quenching 
+ quintessence 
+ quintom 
+ quiver 
+ quon 
+
+                     --- R ---
+
+ R parity 
+ R-hadron (since Jan 10)
+ R-matrix 
+*radiation 
+ radiation detector 
+ radiation protection 
+ radiative capture 
+ radiative correction 
+ radiative decay 
+-radiative effect (use 'radiative correction')
+-radio emission (use 'radio wave')
+-radio signal (use 'radio wave')
+ radio wave 
+ radioactivity 
+ radion 
+ radium 
+ radon 
+ rainbow 
+ ramping 
+ Randall-Sundrum model 
+   [was Randall-Sundrum]
+*random 
+ random field 
+ random lattice 
+ random phase approximation 
+ random surface 
+ random walk 
+ rapidity 
+ rapidity dependence 
+ rapidity spectrum 
+ rare decay 
+ Rarita-Schwinger equation 
+-Rarita-Schwinger (use 'Rarita-Schwinger equation')
+*ratio 
+*rational 
+-reactor (use 'nuclear reactor')
+ readout 
+ recoil 
+ recombination 
+-records theory (use 'information theory')
+ redshift 
+   [was red-shift]
+*reduced 
+ reflection 
+ regeneration 
+ Regge 
+ Regge calculus 
+ Regge poles 
+-Regge trajectories (use 'Regge poles')
+ regularization 
+ reheating 
+-reionization (use 'ionization')
+ Reissner-Nordstroem 
+*relativistic 
+ relativity theory 
+-relativity (use 'relativity theory')
+ relic density (since Jan 10)
+ renormalizable 
+ renormalization 
+ renormalization group 
+ renormalon 
+ reparametrization 
+*representation 
+   [group theory]
+ rescaling 
+ resistive plate chamber 
+ resolution 
+*resolved 
+*resonance 
+ resonating group method 
+ resummation (since Jan 10)
+*review 
+-RF structure (use 'RF system')
+ RF system 
+-RG (use 'renormalization group')
+-RGM (use 'resonating group method')
+ rhenium 
+-RHIC (use 'Brookhaven RHIC Coll')
+-rho meson (use 'rho(770)')
+ rho parameter 
+ rho(1405) 
+ rho(1450) (was rho(1600))
+ rho(1450)+ (added 2010-09-17)
+ rho(1450)- (added 2010-09-17)
+ rho(1450)0 (added 2010-09-17)
+ rho(1570) (added 2010-08-10)
+ rho(1700) (was rho(1600))
+ rho(1900) (added 2010-08-10)
+ rho(2110) 
+ rho(2150) 
+ rho(2210) 
+ rho(770) 
+ rho(770)+ 
+ rho(770)- 
+ rho(770)0 
+ rho3(1690) (was g(1690))
+ rho3(1990) (added 2010-08-10)
+ rho3(2250) (was rho(2250))
+ rho5(2350) (was rho(2350))
+ rhodium 
+ Riccati equation (added 2010-05-05)
+ Ricci 
+ RICH 
+ Riemann surface 
+ Riemann-Cartan 
+ right-handed 
+ Rindler 
+*ring 
+-ring imaging Cherenkov counter (use 'RICH')
+ rishon (added 2010-05-05)
+   [hypothetical consituents of quarks and leptons]
+ Robertson-Walker 
+ Robinson-Trautmann (added 2010-05-05)
+-Roper resonance (use 'N(1440)')
+ rotation 
+   [was rotating]
+ rotator 
+   ['model: rotator' or 'spin: rotator']
+-RPA (use 'random phase approximation')
+-RPC (use 'resistive plate chamber')
+-RS model (use 'Randall-Sundrum model')
+ Rubakov effect 
+ rubidium 
+ ruthenium 
+ Rutherford ISIS PS 
+
+                     --- S ---
+
+ S(2) 
+ S(2) x R(1) 
+ S(3) 
+ S(3) x R(1) 
+ S(4) 
+ S(4) x SU(5) 
+ S(4) x Z(2) 
+ S(5) 
+ S(6) 
+ S(7) 
+ S(N) 
+ S-brane 
+ S-duality 
+   [was S-dual]
+ S-matrix 
+-S-parameter (added 2010-05-05) (rejected)
+ Sachs-Wolfe effect (added 2010-05-05)
+ Saclay ALS 
+   [1.7 GeV electrons]
+ Saclay Lab 
+   [for unspecified accelerators at Saclay]
+ Saclay PS 
+   [3 GeV protons, 1.2 AGeV ions]
+ saddle-point approximation 
+ safety 
+   [for nuclear aspects use 'dosimetry', 'shielding' or 'radiation protection']
+ Sagnac effect (added 2010-05-05)
+ Sakai-Sugimoto model 
+ Salam-Weinberg model 
+ Salpeter equation 
+ samarium 
+ sandwich 
+ SAPHIR (added 2010-03-02)
+   [large solid angle detector]
+ SASE 
+ satellite 
+   [used in connection with cosmic radiation experiments]
+ saturation 
+-SATURNE (use 'Saclay PS')
+-SATURNE-213 (use 'DISTO')
+ saxion (since dec 08)
+-sbar (use 'anti-strangeness')
+*scalar 
+ scalar meson 
+ scalar particle 
+ scalar tensor 
+   [was scalar-tensor]
+   ['gravitation, scalar tensor']
+-scalaron (added 2010-05-05) (rejected)
+*scale 
+ scale dependence 
+ scaling 
+ scandium 
+ scattering 
+ scattering amplitude 
+   [was tree amplitude]
+ scattering length 
+-scattering matrix (use 'S-matrix')
+-SCET (use 'soft collinear effective theory')
+ Schroedinger 
+ Schroedinger equation 
+ Schwarzschild 
+ Schwinger model 
+ Schwinger terms 
+-Schwinger-Dyson equation (use 'Dyson-Schwinger equation')
+ SciBooNE (since Mar 08)
+*science 
+   [very restricted use]
+ scintillation counter 
+-scintillator (use 'scintillation counter')
+ screening 
+ SDC 
+   [magnetic detector at SSC]
+*sea 
+ seagull 
+*search for 
+   [restricted use, only for experimental results]
+ second-class current 
+*secondary (was was secondary radiation)
+ secondary beam 
+ seesaw model 
+ Seiberg-Witten map 
+ Seiberg-Witten model 
+-Seiberg-Witten theory (use 'Seiberg-Witten model')
+ selection rule 
+ selectron 
+ selenium 
+-self amplified spontaneous emission (use 'SASE')
+ self-duality 
+-self-energy (use 'propagator')
+ self-force 
+ semi-inclusive reaction 
+ semiclassical 
+ semiconductor 
+ semiconductor detector 
+ semileptonic decay 
+ sensitivity 
+-sensor (use 'detector')
+-SEP (use 'equivalence principle')
+ separable potential 
+ separated beam 
+-separator (use 'particle separator')
+ septum 
+ Serpukhov Lab 
+   [for unspecified accelerators at ITEF]
+ Serpukhov PS 
+   [70 GeV protons, 3.5 GeV/A ions]
+ Serpukhov UNK Stor 
+   [600/3000 GeV protons; 2200 GeV-cms pp]
+ Serpukhov VLEPP Coll 
+ set theory (added 2010-05-05)
+-seven (use '7')
+ sextet 
+ sfermion 
+ sgoldstino 
+ shadowing 
+ shape analysis (since Jan 10)
+ shell model 
+ shielding 
+ shock waves 
+ short-distance behavior 
+ short-range 
+ shower detector 
+ showers 
+*Sigma 
+ Sigma deuteron 
+-sigma meson (use 'f0(600)')
+ sigma model 
+ Sigma nucleus 
+ sigma term 
+ Sigma(1385) 
+   [partial wave P13]
+ Sigma(1385)+ (added 2010-08-10)
+ Sigma(1385)- (added 2010-08-10)
+ Sigma(1385)0 (added 2010-08-10)
+ Sigma(1480) 
+ Sigma(1560) 
+ Sigma(1580) 
+   [partial wave D13]
+ Sigma(1620) 
+   [partial wave S11]
+ Sigma(1660) 
+   [partial wave P11]
+ Sigma(1670) 
+   [partial wave D13 and other partial wave]
+ Sigma(1690) 
+ Sigma(1750) 
+   [partial wave S11]
+ Sigma(1770) 
+   [partial wave P11]
+ Sigma(1775) 
+   [partial wave D15]
+ Sigma(1840) 
+   [partial wave P13]
+ Sigma(1880) 
+   [partial wave P11]
+ Sigma(1915) 
+   [partial wave F15]
+ Sigma(1940) 
+   [partial wave D13]
+ Sigma(2000) 
+   [partial wave S11]
+ Sigma(2030) 
+   [partial wave F17]
+ Sigma(2070) 
+   [partial wave F15]
+ Sigma(2080) 
+   [partial wave P13]
+ Sigma(2100) 
+   [partial wave G17]
+ Sigma(2250) 
+ Sigma(2455) 
+ Sigma(2620) 
+ Sigma(3000) 
+ Sigma(3170) 
+*Sigma+ 
+*Sigma- 
+ Sigma/b 
+ Sigma/b* (added 2010-08-10)
+ Sigma/b*+ (added 2010-08-10)
+ Sigma/b*- (added 2010-08-10)
+ Sigma/b+ (added 2010-08-10)
+ Sigma/b- (added 2010-08-10)
+ Sigma/bc 
+ Sigma/c(2455) (was Sigma/c)
+ Sigma/c(2455)+ 
+ Sigma/c(2455)++ 
+ Sigma/c(2455)0 
+ Sigma/c(2520) (was Sigma/c(2530))
+ Sigma/c(2520)+ (added 2010-08-10)
+ Sigma/c(2520)++ (added 2010-08-10)
+ Sigma/c(2520)0 (added 2010-08-10)
+ Sigma/c(2800) 
+ Sigma/c(2800)+ (added 2010-08-10)
+ Sigma/c(2800)++ (added 2010-08-10)
+ Sigma/c(2800)0 (added 2010-08-10)
+*Sigma0 
+ signal processing 
+   [restricted use, e.g. electronic methods]
+ signature (since ~09 also for experimental papers)
+ silicon 
+-silicon counter (use 'semiconductor detector')
+-silicon detector (use 'semiconductor detector')
+-silicon sensor (use 'semiconductor detector')
+ silver 
+ simplex 
+ sine-Gordon equation 
+ sine-Gordon model 
+ single production (since May 09)
+ singlet 
+ singleton 
+ singularity 
+ sinh-Gordon equation 
+-SIS (use 'Darmstadt SIS')
+ site (since Feb 08)
+ Sivers function 
+-six (use '6')
+*size 
+ Skyrme model 
+ Skyrmion 
+ SL(2) 
+ SL(2,C) 
+ SL(2,R) 
+ SL(2,R)/U(1) 
+ SL(2,Z) 
+ SL(3) 
+ SL(3) x SL(2) 
+ SL(3,R) 
+ SL(4) 
+ SL(4,R) 
+ SL(5) 
+ SL(N) 
+ SL(N,C) 
+ SL(N,R) 
+ SLAC Lab 
+   [for unspecified accelerators at SLAC]
+ SLAC Linac 
+   [25 GeV electrons]
+ SLAC PEP Stor 
+   [29 GeV-cms e+e-]
+ SLAC SLC Linac 
+   [100 GeV-cms e+e-, linear collider]
+ SLAC SPEAR Stor 
+   [8 GeV-cms e+e-]
+-SLAC-PEP2-BABAR (use 'BaBar')
+ Slavnov identity 
+-Slavnov-Taylor identity (use 'Slavnov identity')
+-SLC (use 'SLAC SLC Linac')
+ SLD 
+   [magnetic detector at SLC]
+ slepton 
+ sliver 
+ slope 
+-slow control (use 'control system')
+ slow-roll approximation 
+ small-angle 
+ small-x 
+ smuon 
+ SND 
+-SNe (use 'supernova')
+ sneutrino 
+-SnIa (use 'supernova')
+ SNO (was Sudbury)
+-SNS (use 'Oak Ridge SNS PS')
+ Snyder (added 2010-09-01)
+ Snyder model (added 2010-05-05)
+ SO(1,1) 
+ SO(10) 
+ SO(10) x A(4) 
+ SO(10) x U(1) 
+ SO(10) x U(1) x U(1) 
+ SO(16) 
+ SO(2) 
+ SO(2,1) 
+ SO(2,2) 
+ SO(2N) 
+ SO(3) 
+ SO(3) x SO(3) 
+ SO(3) x SO(6) 
+ SO(3,1) 
+ SO(3,2) 
+ SO(32) 
+ SO(4) 
+ SO(4) x SO(4) 
+ SO(4,1) 
+ SO(4,2) 
+ SO(4,3) 
+ SO(4,4) 
+ SO(5) 
+ SO(5) x SO(5) 
+ SO(5) x U(1) 
+ SO(5,5) 
+ SO(6) 
+ SO(8) 
+ SO(N) 
+ SO(N,1) 
+ SO(N,N) 
+ sociology 
+ sodium 
+ sodium-iodide 
+ soft collinear effective theory 
+-software (use 'programming')
+ solar 
+ solar system 
+ solenoid 
+ solid-state counter 
+-solid-state detector (use 'solid-state counter')
+ solids 
+ soliton 
+*solution 
+-sonic (use 'acoustic')
+ Soudan 
+ Sp(1) x Sp(1) 
+ Sp(2) 
+ Sp(2N) 
+ Sp(6) x U(1) 
+ Sp(N) 
+*space 
+ space charge 
+   [for accelerators only]
+ space dependence 
+-space telescope (use 'satellite')
+ space-time 
+ space-time Bianchi 
+   [bypass ckw problem]
+ space-time dependence 
+-spallation (use 'fission')
+ spark chamber 
+ sparticle 
+   [supersymmetric particle]
+ spatial distribution 
+ spatial resolution 
+-SPEAR (use 'SLAC SPEAR Stor')
+ special focusing 
+ special relativity 
+ specific heat 
+ spectator 
+-spectra (use 'spectrum')
+ spectral 
+-spectral function (use 'spectral representation')
+-spectral index (use 'power spectrum')
+ spectral representation 
+ spectral triple (added 2010-06-25)
+ spectrometer 
+   [restricted use]
+*spectrum 
+ sphaleron 
+ sphere 
+ sphericity 
+ spin 
+ spin dependence 
+   [bypass ckw problem]
+ Spin(7) 
+ Spin(N) 
+ spinless 
+ spinor 
+*split 
+ Split-Field (added 2010-05-05)
+ splitting 
+ spontaneous symmetry breaking (was till Jul 08 'symmetry, spontaneously broken')
+   [was spontaneously broken]
+ SPring-8 Stor 
+-SPring-8 (use 'SPring-8 Stor')
+-SPS (use 'CERN SPS')
+ spurion (added 2010-05-05)
+ squark 
+ squeezed state 
+-SSB (use 'spontaneous symmetry breaking')
+ SSC Coll 
+ SSC GEM (added 2010-05-05)
+ St. Petersburg Cycl 
+ stability 
+ stacking 
+ staggered 
+*standard model 
+ star 
+ STAR 
+   [magnetic detector at RHIC]
+ Starobinsky model (added 2010-05-05)
+-state  (use 'xyz' instead of 'state, xyz')
+-state equation (use 'equation of state')
+ statefinder (added 2010-06-16)
+*static 
+ statistical 
+ statistical analysis 
+ statistical mechanics 
+ statistics 
+ statistics quantum 
+   [bypass ckw problem]
+-status report (use 'activity report')
+ stau 
+-steel (use 'iron')
+ sterile 
+-STI (use 'Slavnov identity')
+ stochastic 
+ stochastic cooling 
+ Stokes theorem 
+*stop 
+*storage ring 
+   [for accelerator aspects only; for experimental results use 'colliding beams']
+ Stoughton ES 
+-strange baryon (use 'hyperon')
+ strange meson 
+-strange nucleus (use 'hypernucleus')
+ strange particle 
+ strangelet 
+ strangeness 
+ strangeness parton 
+   [bypass ckw problem]
+-straw (use 'tube')
+ streamer chamber 
+-stretcher (use 'pulse stretcher')
+ string 
+   [was stringy]
+ string model 
+ string tension 
+ strong coupling 
+ strong field 
+   [for field theoretical aspects, otherwise use e.g. 'magnetic field, high']
+-strong force (use 'strong coupling')
+ strong interaction 
+ strontium 
+ structure function 
+ SU(1,1) 
+ SU(1,1|1) 
+ SU(15) 
+ SU(2) 
+ SU(2) x SU(2) 
+ SU(2) x SU(2) x SU(4) 
+ SU(2) x SU(2) x U(1) 
+ SU(2) x U(1) 
+ SU(2) x U(1) x U(1) 
+ SU(2,2) 
+ SU(2,C) 
+ SU(2N) 
+ SU(3) 
+ SU(3) x SU(2) 
+ SU(3) x SU(2) x SU(2) x U(1) 
+ SU(3) x SU(2) x U(1) 
+ SU(3) x SU(2) x U(1) x U(1) 
+ SU(3) x SU(3) 
+ SU(3) x SU(3) x SU(2) x U(1) 
+ SU(3) x SU(3) x SU(3) 
+ SU(3) x SU(3) x U(1) 
+ SU(3) x SU(4) x U(1) 
+ SU(3) x U(1) 
+ SU(3) x Z(3) x Z(3) 
+ SU(4) 
+ SU(4) x SU(2) x SU(2) 
+ SU(4) x SU(2) x U(1) 
+ SU(4) x SU(3) x SU(2) x U(1) 
+ SU(4) x U(1) 
+ SU(5) 
+ SU(5) x SU(5) 
+ SU(5) x U(1) 
+ SU(6) 
+ SU(7) 
+ SU(8) 
+ SU(9) 
+ SU(N) 
+ SU(N) x SU(M) 
+ SU(N) x SU(N) 
+ SU(N) x U(1) 
+ SU(N)**4 x U(1)**2 
+ SU(N,M) 
+ Sudakov 
+-Sudbury  (use 'SNO')
+-SUGRA (use 'supergravity')
+ sulfur 
+ sum rule 
+-Super-Kamiokande (use 'KAMIOKANDE')
+ supercharge 
+ superconductivity 
+ superfield 
+ superfluid 
+-superfluidity (use 'superfluid')
+ superfragment 
+   [charmed or beautiful nucleus]
+ supergravity 
+ superluminal 
+-supermassive (use 'massive')
+ supernova 
+   [was supernovae]
+-superparticle (use 'sparticle')
+-superpartner (use 'sparticle')
+ superplane (since Jan 10 )
+ superpotential 
+ superradiance (since 2008)
+ superselection rule 
+ superspace 
+ superstring 
+ supersymmetry 
+   [was super-Yang-Mills]
+ superweak interaction 
+-suppressed decay (use 'rare decay')
+ suppression 
+ surface 
+ surface tension 
+ susceptibility 
+-SUSY (use 'supersymmetry')
+ SVD 
+-SYM (use 'Yang-Mills')
+*symmetry 
+ symmetry breaking 
+ symmetry planar 
+   [bypass ckw problem]
+ symplectic 
+ synchrotron 
+ synchrotron oscillation 
+ synchrotron radiation 
+
+                     --- T ---
+
+ T(3) 
+ T-duality 
+   [was T-dual]
+   [equivalence between a small extra dimension and a large one]
+-T-invariance (use 'time reversal')
+-T-matrix (use 'S-matrix')
+-T-parameter (added 2010-05-05) (rejected)
+ T-parity 
+-T2K (use 'J-PARC Lab')
+-T2K (use 'KAMIOKANDE')
+*tables (since Jan 10)
+ tachyon 
+ tadpole 
+ tagged beam 
+*talk 
+ TAMA 
+ Tamm-Dancoff approximation 
+ tantalum 
+*target 
+-TARN (use 'Tokyo TARN')
+ TASSO (added 2010-05-05)
+ taste 
+*tau 
+-tau lepton (use 'tau')
+*tau+ 
+*tau- 
+ tau-function 
+ Taub-NUT 
+ Taylor expansion 
+-tbar (use 'anti-top')
+-TCP (use 'CPT')
+-TDC (use 'time-to-digital converter')
+ technetium 
+ technicolor 
+ technipion 
+ technirho 
+*technology 
+   [for important technological methods]
+ Teichmueller 
+ teleparallel 
+ teleportation (added 2010-05-05)
+-telescope (use 'detector')
+ tellurium 
+ temperature 
+ temperature dependence 
+ Temperley-Lieb (added 2010-07-30)
+ temporal gauge 
+-temporal-dependence (use 'time dependence')
+-temporal-variation (use 'time dependence')
+-ten (use '10')
+ tension 
+*tensor 
+ tensor meson 
+-tensor vector scalar (use 'TeVeS')
+ terbium 
+ tetrad 
+-tetrahedron  (not enough HEP)
+ tetraquark 
+-tetron (added 2010-05-05) (rejected)
+ Teukolsky equation (added 2010-05-05)
+*TeV 
+   [tera electron volt]
+-Tevatron (use 'Batavia TEVATRON Coll')
+*TeVeS (since Apr 09)
+ texture 
+ thallium 
+ thermal 
+-thermodynamic (use 'thermodynamical')
+ thermodynamical 
+ thermodynamics 
+-thermofield (use 'finite temperature')
+*thesis 
+   [including masters' theses]
+ Theta parameter 
+ Theta(1540) 
+-third (use '3')
+ Thirring model 
+ thorium 
+-three (use '3')
+-three-body interaction (use 'three-body problem')
+ three-body problem 
+*threshold 
+ throat (since Jan 10)
+ thrust 
+ thulium 
+*time 
+ time delay 
+ time dependence 
+-time derivative (use 'time dependence')
+ time machine 
+ time projection 
+ time projection chamber (was drift chamber, time projection) (added 2010-03-02)
+ time resolution 
+ time reversal 
+-time varying (use 'time dependence')
+-time-dependence (use 'time dependence')
+ time-of-flight 
+ time-of-flight counter (added 2010-05-05)
+ time-to-digital converter (since Apr 08)
+ tin 
+ titanium 
+ Toda 
+-TOF (use 'time-of-flight')
+ Tokai J-PARC PS 
+ Tokyo ES 
+ Tokyo TARN 
+ Tolman-Oppenheimer-Volkoff equation (added 2010-05-05)
+ Tomsk ES 
+*top 
+-top-quark (use 'top')
+ TOPAZ 
+   [magnetic detector at TRISTAN]
+ topcolor 
+ topological 
+ topology 
+   [restricted use; for experimental papers use e.g. 'event shape analysis' ]
+ toponium (was was 'quarkonium, truth') (since Apr 09)
+-toppion (added 2010-05-05) (use 'pi, topcolor')
+ torelon (added 2010-06-16)
+-toroidal (use 'torus')
+ torsion 
+ torus 
+ total cross section 
+   [for inclusive reaction]
+ total-absorption counter 
+ TOTEM 
+   [magnetic detector at LHC]
+ toy model (added 2010-05-05)
+-TPC (use 'time projection chamber')
+ trace anomaly (since 2008)
+ track data analysis 
+-track following (use 'track data analysis')
+ track photography 
+-track reconstruction (use 'track data analysis')
+ track sensitive 
+   [only used for tracks visualized in matter, e.g. 'plastics, track sensitive']
+-tracker (use 'tracking detector')
+ tracking detector 
+   [restricted use, if possible use more specific term, e.g. 'drift chamber']
+-tracking system (use 'tracking detector')
+ tracks 
+ trajectory 
+ transducer 
+ transfer matrix 
+*transformation 
+*transition 
+ transition radiation 
+ transition radiation detector 
+ translation 
+   [only in cases of central importance, e.g. 'invariance, translation']
+ transmutation 
+   [for particles and nuclear waste, e.g. 'nuclide, transmutation']
+ transparency 
+-transport coefficient (use 'transport theory')
+-transport model (use 'transport theory')
+-transport properties (use 'transport theory')
+ transport theory 
+   [not for beam transport]
+ transuranium 
+ transverse 
+ transverse energy 
+ transverse momentum 
+ transverse momentum factorization 
+   [bypass ckw problem]
+ transversity 
+-trapped surface (since Jan 10) (too special)
+-trapping (use 'capture')
+ traversable (since Jan 10)
+-TRD (use 'transition radiation detector')
+ tree approximation 
+   [was tree amplitude]
+-tree level (use 'tree approximation')
+ triality 
+ triangulation 
+ Trieste ES 
+ trigger 
+ triple-Regge limit 
+ triplet 
+-triply special relativity (added 2010-05-05) (rejected)
+-TRISTAN (use 'KEK TRISTAN Stor')
+ tritium 
+ TRIUMF Cycl 
+   [meson factory at Vancouver]
+-TRIUMF-CHAOS (use 'CHAOS')
+ triviality 
+   [for field theoretical aspects]
+-TRT (use 'transition radiation detector')
+ Tsallis (added 2010-08-12)
+ tube 
+ tumbling 
+ tungsten 
+-tunnel effect (use 'tunneling')
+ tunneling 
+ Turaev-Viro model (added 2010-05-05)
+ turbulence 
+ twin Higgs model 
+ TWIST 
+ twist 
+-twisted (use 'twist')
+ twistor 
+-two (use '2')
+ two-beam 
+ Two-Gamma 
+   [magnetic detector at PEP]
+ two-gluon 
+-two-nucleon (use 'nucleon nucleon')
+ two-particle 
+ two-photon 
+-two-photon decay (use 'radiative decay')
+ two-pion 
+ two-point function 
+ Type I (since Jan 10)
+ Type IIA (since Jan 10)
+ Type IIB 
+
+                     --- U ---
+
+ U(1) 
+ U(1) problem 
+ U(1) x U(1) 
+ U(1) x U(1) x Z(2) 
+ U(2) 
+ U(2) x U(2) 
+ U(2,2) 
+ U(3) 
+ U(3) x U(3) 
+ U(4) 
+ U(4) x U(4) 
+ U(5) 
+ U(6) x U(6) 
+ U(N) 
+ U(N) x U(N) 
+ U-duality 
+-u-quark (use 'up')
+ UA1 
+   [magnetic detector at CERN SPS Coll]
+ UA2 
+   [magnetic detector at CERN SPS Coll]
+ UA4 
+   [forward spectrometer at CERN SPS Coll]
+ UA5 (added 2010-03-02)
+   [streamer chamber at CERN SPS Coll]
+ UA6 (added 2010-05-05)
+-ubar (use 'anti-up')
+-UED (use 'universal extra dimension')
+ UHE (since Aug 08)
+-ultra high energy (use 'UHE')
+-ultraperipheral (use 'peripheral')
+ ultraviolet 
+-uncertainty principle (use 'uncertainty relations')
+ uncertainty relations 
+-underground detector (use 'deep underground detector')
+ underlying event 
+ undulator 
+ unified field theory 
+-unified theory (use 'unified field theory')
+ unitarity 
+ unitary gauge 
+ universal extra dimension 
+ universality 
+-UNK (use 'Serpukhov UNK Stor')
+ unparticle 
+ Unruh effect 
+*up 
+ upgrade 
+*upper limit 
+ Uppsala CELSIUS Stor 
+ upsilon mesons 
+ Upsilon(10020) 
+ Upsilon(10160) (added 2010-08-10)
+ Upsilon(10355) 
+ Upsilon(10570) 
+ Upsilon(10870) 
+ Upsilon(11020) 
+-Upsilon(1D) (use 'Upsilon(10160)')
+-Upsilon(1S) (use 'Upsilon(9460)')
+-Upsilon(2S) (use 'Upsilon(10020)')
+-Upsilon(3S) (use 'Upsilon(10355)')
+-Upsilon(4S) (use 'Upsilon(10570)')
+-Upsilon(5S) (use 'Upsilon(10870)')
+-Upsilon(6S) (use 'Upsilon(11020)')
+ Upsilon(9460) 
+ uranium 
+ Urca process 
+ USp(2) (added 2010-03-17)
+ USp(2N) (added 2010-03-17)
+ USp(4) (added 2010-03-17)
+ USp(N) (added 2010-03-17)
+
+                     --- V ---
+
+-vacua (use 'vacuum state')
+*vacuum 
+-vacuum chamber (use 'vacuum system')
+ vacuum polarization 
+ vacuum state 
+ vacuum system 
+ Vaidya 
+ valence 
+ validity test 
+   [restricted use for general tests but not for interpretations]
+ valon model 
+ van der Waals 
+ vanadium 
+ Vancouver KAON PS 
+ variable speed of light 
+   [was VSL]
+ variational 
+-variational principle (added 2010-05-05) (use 'mathematical methods: variational')
+*vector 
+ vector boson (since Jan 10)
+ vector dominance 
+ vector manifestation 
+ vector meson 
+-VELO (use 'vertex detector')
+ velocity 
+ velocity dependence 
+ Veneziano 
+ VENUS 
+   [magnetic detector at TRISTAN]
+-VEPP-2 (use 'Novosibirsk Stor2')
+-VEPP-2000 (use 'Novosibirsk VEPP-2000')
+-VEPP-2M (use 'Novosibirsk VEPP-2000')
+-VEPP-3 (use 'Novosibirsk Stor3')
+-VEPP-4 (use 'Novosibirsk Stor4')
+-VEPP-4M (use 'Novosibirsk Stor4')
+ VERITAS 
+   [Very Energetic Radiation Imaging Telescope Array System]
+ Verma module 
+*vertex 
+ vertex detector (since Dec 07)
+ vertex function 
+-vertex locator (use 'vertex detector')
+-vertex tracker (use 'vertex detector')
+-very high energy (use 'VHE')
+ VHE (since Aug 08)
+   [energy > 100 GeV]
+ Villigen SLS 
+*violation 
+ Virasoro 
+ VIRGO 
+   [gravitational wave detector]
+-Virgo (use 'VIRGO')
+ virial theorem (added 2010-09-03)
+*virtual 
+ viscosity 
+-viscous (use 'viscosity')
+ Vlasov equation 
+ Vlasov-Maxwell equation 
+-VLEPP (use 'Serpukhov VLEPP Coll')
+ von Neumann 
+ vortex 
+   [was vortices]
+ vorton 
+-VSL model (use 'variable speed of light')
+-VUV-FEL (use 'DESY FLASH')
+
+                     --- W ---
+
+*W 
+ W gluon 
+ W W 
+*W' 
+ W(3) 
+ W(4) 
+ W(infinity) 
+ W(N) 
+*W+ 
+ W+ W- 
+*W- 
+ wake field 
+-wakefield (use 'wake field')
+ Walecka model 
+ Ward identity 
+ Ward-Takahashi identity 
+ warp drive (added 2010-05-05)
+ warped 
+ water 
+*wave 
+ wave function 
+ wavelength shifter 
+ wavelet 
+ WDVV equation 
+-WDW equation (use 'Wheeler-DeWitt equation')
+-WdW (use 'Wheeler-DeWitt equation')
+ weak coupling 
+ weak field 
+   [for field theoretical aspects only, otherwise use e.g. 'magnetic field, low']
+ weak interaction 
+-weak mixing angle (use 'Weinberg angle')
+ weak-energy condition (added 2010-05-05)
+-weakly interacting massive particle (use 'WIMP')
+ Weinberg 
+ Weinberg angle 
+-Weinberg-Salam model (use 'Salam-Weinberg model')
+ Weitzenboeck (added 2010-06-16)
+-Weizsaecker-Williams (use 'equivalent photon approximation')
+-WEP (use 'equivalence principle')
+ Wess-Zumino gauge (added 2010-07-09)
+ Wess-Zumino model 
+ Wess-Zumino term 
+-Wess-Zumino theory (use 'Wess-Zumino model')
+-Wess-Zumino-Novikov-Witten model (use 'Wess-Zumino-Witten model')
+ Wess-Zumino-Witten model 
+-Wess-Zumino-Witten term (use 'Wess-Zumino term')
+ Weyl 
+ Weyl equation 
+ Wheeler-DeWitt equation 
+ white dwarf 
+ Wick-Cutkosky model 
+-Wick-Cutkosky (use 'Wick-Cutkosky model')
+ wide-angle 
+*width 
+ wiggler 
+-Wightman axiom (use 'axiomatic field theory')
+-Wightman function (use 'correlation function')
+ Wigner-Weisskopf (added 2010-05-05)
+-Wilkinson Microwave Anisotropy Probe (use 'WMAP')
+*Wilson 
+ Wilson loop 
+-Wilson-line (use 'Wilson loop')
+ WIMP 
+ WIMP nucleon 
+ WIMP nucleus 
+ WIMP p 
+ Wino 
+ wire 
+ WISP 
+   [Weekly Interacting sub-eV Particle]
+ Witten index 
+ WKB approximation 
+   [was WKB]
+-WLS (use 'wavelength shifter')
+ WMAP 
+ wormhole 
+-WTI (use 'Ward-Takahashi identity')
+-WZNW (use 'Wess-Zumino-Witten model')
+-WZW model (use 'Wess-Zumino-Witten model')
+-WZW term (use 'Wess-Zumino term')
+
+                     --- X ---
+
+ X(1600) 
+ X(1700) (was eta(1700))
+ X(1740) 
+ X(1775) 
+ X(1830) 
+ X(1920) 
+ X(1950) 
+ X(2200) 
+ X(3250) 
+ X(3872) 
+ X(3940) 
+ X(4160) 
+ X(4260) (added 2010-08-10)
+ X(4350) 
+ X(4660) (added 2010-08-10)
+ x-dependence 
+   [use more specific term if possible]
+ X-ray 
+   [energy 0.5 to 100 keV]
+ XENON (added 2010-06-16)
+   [DM detector]
+ xenon 
+-XENON10 (use 'XENON')
+-XENON100 (use 'XENON')
+*Xi 
+ Xi(1530) 
+   [partial wave P13]
+ Xi(1530)- (added 2010-08-10)
+ Xi(1530)0 (added 2010-08-10)
+ Xi(1630) 
+ Xi(1690) 
+ Xi(1690)- (added 2010-08-10)
+ Xi(1690)0 (added 2010-08-10)
+ Xi(1820) 
+ Xi(1860) 
+   [pentaquark]
+ Xi(1950) 
+ Xi(2030) 
+ Xi(2120) 
+ Xi(2250) 
+ Xi(2370) 
+ Xi(2500) 
+*Xi- 
+ Xi/b 
+ Xi/b- (added 2010-08-10)
+ Xi/b0 (added 2010-08-10)
+ Xi/c 
+ Xi/c(2575) (added 2010-08-10)
+ Xi/c(2575)+ (added 2010-08-10)
+ Xi/c(2575)0 (added 2010-08-10)
+ Xi/c(2645) 
+ Xi/c(2645)+ (added 2010-08-10)
+ Xi/c(2645)0 (added 2010-08-10)
+ Xi/c(2790) 
+ Xi/c(2790)+ (added 2010-08-10)
+ Xi/c(2790)0 (added 2010-08-10)
+ Xi/c(2815) 
+ Xi/c(2815)+ (added 2010-08-10)
+ Xi/c(2815)0 (added 2010-08-10)
+ Xi/c(2930) (added 2010-08-10)
+ Xi/c(2980) (added 2010-08-10)
+ Xi/c(2980)+ (added 2010-08-10)
+ Xi/c(2980)0 (added 2010-08-10)
+ Xi/c(3055) (added 2010-08-10)
+ Xi/c(3055)+ (added 2010-08-10)
+ Xi/c(3080) (added 2010-08-10)
+ Xi/c(3080)+ (added 2010-08-10)
+ Xi/c(3080)0 (added 2010-08-10)
+ Xi/c(3123) (added 2010-08-10)
+ Xi/c(3123)+ (added 2010-08-10)
+ Xi/c+ (was A+)
+ Xi/c0 (was A0)
+ Xi/cc (added 2010-08-10)
+*Xi0 
+ XXZ model (added 2010-05-05)
+ XY model 
+
+                     --- Y ---
+
+ Y(3940) (since Feb 08)
+ Y(4008) (since Jan 10)
+ Y(4140) (since Apr 09)
+ Y(4260) 
+ Y(4660) 
+-y-dependence (use 'rapidity dependence')
+ Yang-Baxter 
+ Yang-Baxter equation 
+ Yang-Mills 
+ Yang-Mills-Higgs theory 
+ Yangian (added 2010-07-30)
+*yield 
+-YM (use 'Yang-Mills')
+-YMH (use 'Yang-Mills-Higgs theory')
+ ytterbium 
+ yttrium 
+ Yukawa 
+
+                     --- Z ---
+
+*Z' 
+ Z(2) 
+ Z(2) x Z(2) 
+ Z(3) 
+ Z(3) x Z(3) 
+ Z(3930) 
+ Z(4) 
+ Z(4050) (since Jan 10)
+ Z(4430) 
+ Z(6) 
+ Z(N) 
+ Z(N) x Z(M) 
+-Z-boson (use 'Z0')
+*Z0 
+ Z0 Z0 
+ Z0(1780) 
+ Z0(1865) 
+ Z0-factory (added 2010-06-16)
+   [Z0 option of the ILC]
+ Z1(1725) 
+ Z1(1900) 
+ Z1(2150) 
+ Z1(2500) 
+ Zee model 
+ Zeeman effect (added 2010-05-05)
+ Zeno effect 
+ ZEPLIN 
+   [two-phase (liquid/gas) xenon detector looking for galactic WIMP dark matter]
+-ZEPLIN-II (use 'ZEPLIN')
+-ZEPLIN-III (use 'ZEPLIN')
+ zero mode 
+-zero momentum transfer (use 'forward scattering')
+-zero (use '0')
+ zero-point 
+ zeta function 
+ ZEUS 
+   [magnetic detector at HERA]
+ zinc 
+ Zino 
+ zirconium 

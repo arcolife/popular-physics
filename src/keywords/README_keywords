@@ -1,0 +1,12 @@
+Step1: Removed --- Letter ---
+Step2: Removed NON keywords
+Step3: Removed comments ([...])
+Step4: Removed * at the beginning
+Step5: Removed leading whitespace
+Step6: Removed blank lines
+Step7: Kept single occurrences
+Step8: Removed lines with only whitespaces
+Step9: Removed keywords with brackets
+Step10: Removed single character keywords
+Step11: Removed further blank lines
+Step12: Removed trailing whitespaces in some kw
