@@ -56,6 +56,8 @@ id_records = perform_request_search(p=kwarg,c=collection)
 '''To search inside CDS'''
 results = cds.search(p=kwarg,ln='en',c=collection,rg=size,f=field,ot=keys)
 
+results = cds.search(p=kward, ln='en',action_search='Search',op1='a',m1='a',p1='',f1='',c='Articles & Preprints',c='',sf='',so='d',rm='',rg=2000,sc=0,of='hb')
+
 count=len(results) # find actual no. of results returned 
 
 '''write results into a file'''
