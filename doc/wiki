@@ -1,0 +1,92 @@
+                                                                                                                            '''     Popular Physics in History     '''
+
+                            ========================================================================================================================================================================
+This project involves development of an interactive, time-scale based visualization, which correlates  topics published by physicists over time, their  contributions/collaborations with fellow physicists and their popularity  as well as popularity of their work in subsequent years.  
+Contents
+
+    1 Summary
+
+    2 Proposer/contact
+
+    3 Skills being soughtp
+
+    4 Weekend goals
+
+    5 References/background material
+
+    6 Requirements
+
+    7 Sign up
+
+  Summary 
+As the slider on time-scale moves forward, this visualization will help the users find:-  
+
+     The popular physicists in a time span of an year, a decade or of all times (topic of debate now, is it?) 
+
+     The popular topics in physics (as in, famous / discussed / most sought after) 
+
+     On-click functionality enabling users to find the sub-fields  which those physicists were most involved with, and also showing their  collaborations (if any), with other physicists. 
+
+     The discovery patterns of atomic/sub-atomic particles in  chronological order. For spreading awareness of how the knowledge of  physicists, increased over time. 
+
+  Proposer/contact
+
+     Archit Sharma => archit.sharma[AT]cern[DOT]ch & Twitter
+
+     Jian Nan Zhang => jiannan.zhang[AT]cern[DOT]ch & Facebook
+
+ Skills being sought
+The following skills are desired but not necessary:  
+
+     Knowledge of physics  
+
+     writing skills 
+
+     web development and/or designing 
+
+     data analysis 
+
+     visualization 
+
+  Weekend goals 
+
+     Learn how to query and analyze data.  
+
+     Search for appropriate visualization tools 
+
+     Decide the structure of web page 
+
+     Discuss the topics of categorizaton for showing collaborations of physicists and for showing the topics of their research 
+
+     How to visualize the data points  
+
+     Decide on how to correlate the data points in those categories 
+
+     Discuss how the metadata is displayed 
+
+  References/background material 
+
+     The planned sources of database are: CDS / INSPIRE / ATLANTIS / other similar document servers. Example: INSPIRE Matrix of Topcites
+
+     INVENIO  Digital Library Software
+
+     Invenio's online running instances - Cern Document Server and INSPIRE -> High-Energy Physics Literature Database
+
+  Requirements 
+It will be best for you to look at the following things before we start. 
+
+     Read up little about INVENIO  Digital Library Software, as in, what is it all about, what kind of data it holds.  
+
+Briefly, Invenio is used to host websites containing searchable data  about physicists, books, proceedings, talks, preprints, articles, and so  on.  
+
+     Read up on Data Visualizations, what are they, how do they represent data, how could one visualize data, and other similar FAQs 
+
+  Sign up 
+Interested? Add your name here! 
+
+     (your name) 
+
+     Marco Guerri 
+
+     Xiaoli Chen 
+

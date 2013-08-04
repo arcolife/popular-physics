@@ -59,7 +59,7 @@ results = cds.search(p=kwarg,ln='en',c=collection,rg=size,f=field,ot=keys)
 count=len(results) # find actual no. of results returned 
 
 '''write results into a file'''
-file = open("output","w")
+file = open("../data/output","w")
 if len(collection)==0:
     collection = 'All'
 
@@ -74,4 +74,4 @@ for i in xrange(len(results)):
 
 file.close()
 
-print "\n\n....please check the results piped into ./output \n"
+print "\n\n....please check the results piped into <data/output> \n"

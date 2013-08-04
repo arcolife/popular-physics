@@ -1,0 +1,53 @@
+# URI : localhost:9200/record/_search?q=author:"Brady, M.Michael"&pretty=true
+'''
+{
+  "took" : 3,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 2,
+    "max_score" : 0.74316853,
+    "hits" : [ {
+      "_index" : "record",
+      "_type" : "cds",
+      "_id" : "1",
+      "_score" : 0.74316853, "_source" : {
+ "author": "Brady, M.Michael" , "free_keywords": [], "co-authors": ["Dedrick, Kent G."], "creation_date": "1962-09", "citations": 0, "references": 0, "papers": 1}
+    }, {
+      "_index" : "record",
+      "_type" : "inspire",
+      "_id" : "1",
+      "_score" : 0.74316853, "_source" : {
+ "author": "Brady, M.Michael" , "free_keywords": [], "co-authors": ["Dedrick, Kent G."], "creation_date": "1962-09", "citations": 0, "references": 0, "papers": 1}
+    } ]
+  }
+}
+
+'''
+
+# ----------------------------------------------------------------
+
+# other ways : 
+
+# http://localhost:9200/record/cds/1
+# http://localhost:9200/record/inspire/1
+
+
+# Through CURL: 
+'''
+curl -XPOST 'http://localhost:9200/record/cds?routing="1962-09"' -d '{ 
+"author": "Brady, M.Michael" , 
+"free_keywords": [], 
+"co-authors": ["Dedrick, Kent G."], 
+"creation_date": "1962-09", 
+"citations": 0, 
+"references": 0, 
+"papers": 1
+}'
+
+'''
+
