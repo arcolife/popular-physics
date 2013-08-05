@@ -25,4 +25,8 @@ file.close()
 
 curl -XPUT 'http://localhost:9200/record/author/1' -d '{ "authors": "Brady, M.Michael" , "free_keywords": [], "co-authors": ["Dedrick, Kent G."], "creation_date": "1962-09", "citations": 0, "references": 0, "papers": 1}'
 
+
+curl --max-time  6600 --connect-timeout 6000 http://localhost:9200/record/_search -d '
+{"query":{"bool":{"must":[{"query_string":{"default_field":"_all","query":" Ellis, P J "}}],"must_not":[],"should":[]}},"from":0,"size":500,"sort":[],"facets":{}}'
+
 '''

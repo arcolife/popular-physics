@@ -109,7 +109,7 @@ def json_out(x):
 #################################################
 
 signal.signal(signal.SIGINT, signal_handler)
-cds = InvenioConnector("http://pcuds54.cern.ch/")
+cds = InvenioConnector("http://localhost/")
 	
 rec_num = 100
 BIG_NUM = 1000000

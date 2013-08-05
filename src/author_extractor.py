@@ -1,4 +1,4 @@
-# browser link [ https://pcuds54.cern.ch/search?ln=en&p=&ot='001__,100__,700__'&rg=200&action_search=Search ]
+# browser link [ https://localhost/search?ln=en&p=&ot='001__,100__,700__'&rg=200&action_search=Search ]
 # (optional fields) &cc=Articles+%26+Preprints&c=Articles
 
 import json
@@ -7,7 +7,7 @@ from invenio.search_engine import perform_request_search
 #from invenio.dbquery import run_sql as rs
 
 #cds = InvenioConnector("http://cds.cern.ch/")
-cds = InvenioConnector("http://pcuds54.cern.ch/")
+cds = InvenioConnector("http://localhost/")
 
 #author_dict = {}
 #file = open('author_list.json','w')
