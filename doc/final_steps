@@ -28,6 +28,7 @@
 --------------------------
 
 ** Primary metdata requirements are:
+* https://invenio-demo.cern.ch/help/hacking/search-engine-api
 
 >    Topic
 >    Author(s)
