@@ -5,12 +5,12 @@ conn = ES('localhost:9200') #an instance created for testing purpose
 
 #Deleting an index:
 try:
-    conn.delete_index("test-index")
+    conn.indices.delete_index("test-index")
 except:
     pass
 
 #Create an index:
-conn.create_index('test-index')
+conn.indices.create_index('test-index')
 
 #Creating a mapping:
 mapping = { u'parsedtext': {'boost' : 1.0,
@@ -35,14 +35,14 @@ mapping = { u'parsedtext': {'boost' : 1.0,
                       'store': 'yes',
                       'type': u'string'}}
 
-conn.put_mapping("test-type", {'properties':mapping}, ["test-index"])
+conn.indices.put_mapping("test-type", {'properties':mapping}, ["test-index"])
 
 #Index some documents:
 conn.index({"name":"arcolife", "parsedtext":"arcolife the philosopher", "uuid":"1", "position":1}, "test-index", "test-type", 1)
 conn.index({"name":"archit", "parsedtext":"@arcolife", "uuid":"2", "position":2}, "test-index", "test-type", 2)
 
 #Refresh an index:
-conn.refresh(["test-index"])
+conn.indices.refresh(["test-index"])
 
 #Execute a query
 q = TermQuery("name", "arcolife")
