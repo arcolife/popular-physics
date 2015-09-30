@@ -20,3 +20,7 @@ For details, head over to Wiki - https://github.com/arcolife/popular-physics/wik
 REQUIREMENTS:
 
 So far all you need is an Invenio instance, up and running.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/arcolife/popular-physics/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
