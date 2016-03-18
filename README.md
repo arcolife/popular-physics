@@ -3,11 +3,16 @@ popular-physics
 
 "Popular Physics in History"
 
+* CERN webfest idea page entry: https://webfest.web.cern.ch/content/popular-physics-history
+
+Old URLs:
+
 * CERN Webfest 2013 - http://www.citizencyberscience.net/wiki/index.php?title=Main_Page
 
 * project idea at  http://www.citizencyberscience.net/wiki/index.php?title=Popular_Physics_in_History
 
 * Event Report: http://www.shuttleworthfoundation.org/2nd-cern-summer-webfest/
+
 
 ***
 
